@@ -121,7 +121,7 @@
                 <img src="{{ asset('image/keamanan/konsultasi.png') }}" alt="Service Image">
                 <a href="{{ route('jasa-keamanan.konsultasiKeamanan') }}" class="read-more-button">Baca Selengkapnya</a>
                 <div class="text-content">
-                    <div class="service-title">Konsultasi Keamanan</div>
+                    <div class="service-title">Penyedia Konsultasi Keamanan</div>
 
                 </div>
             </div>
@@ -141,6 +141,19 @@
         </div>
     </a>
 
+    <a href="{{ route('jasa-keamanan.tenagaKeamanan') }}" style="text-decoration: none; color: inherit;">
+        <div class="container-box animated-element">
+            <div class="list-item">
+                <img src="{{ asset('image/jasa/keamanan.png') }}" alt="Service Image">
+                <a href="{{ route('jasa-keamanan.tenagaKeamanan') }}" class="read-more-button">Baca Selengkapnya</a>
+                <div class="text-content">
+                    <div class="service-title">Penyedia Tenaga Keamanan</div>
+
+                </div>
+            </div>
+        </div>
+    </a>
+
     <a href="{{ route('jasa-keamanan.penyediaPerlengkapanKeamanan') }}" style="text-decoration: none; color: inherit;">
         <div class="container-box animated-element">
             <div class="list-item">
@@ -154,18 +167,7 @@
         </div>
     </a>
 
-    <a href="{{ route('jasa-keamanan.tenagaKeamanan') }}" style="text-decoration: none; color: inherit;">
-        <div class="container-box animated-element">
-            <div class="list-item">
-                <img src="{{ asset('image/jasa/keamanan.png') }}" alt="Service Image">
-                <a href="{{ route('jasa-keamanan.tenagaKeamanan') }}" class="read-more-button">Baca Selengkapnya</a>
-                <div class="text-content">
-                    <div class="service-title">Tenaga Keamanan</div>
 
-                </div>
-            </div>
-        </div>
-    </a>
 </div>
 
 @endsection

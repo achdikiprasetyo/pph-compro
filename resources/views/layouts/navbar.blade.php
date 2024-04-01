@@ -364,7 +364,7 @@
                   <a class="dropdown-item" href="{{route('jasa.pelatihan')}}">Jasa Pelatihan</a>
                   <a class="dropdown-item" href="{{route('jasa.sdm')}}">Jasa Sumber Daya Manusia</a>
                   <a class="dropdown-item" href="{{route('jasa.engineer')}}">Jasa Engineer</a>
-                  <a class="dropdown-item" href="{{route('jasa.outbond')}}">Jasa Outbond</a>
+                  <a class="dropdown-item" href="{{route('jasa.produksi')}}">Jasa Tenaga Produksi</a>
 
                </div>
             </li>

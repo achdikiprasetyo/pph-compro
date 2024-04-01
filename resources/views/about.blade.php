@@ -126,7 +126,7 @@
 
   <section class="our-values">
     <div class="container animated-element" data-animation="fadeIn">
-      <h2>Kenapa Harus Memimih Kami ?</h2>
+      <h2>Kenapa Harus Memilih Kami ?</h2>
       <ul>
         <li class="animated-element" data-animation="fadeIn"><strong>Berpengalaman:</strong> Memiliki sumber daya manusia yang berpengalaman dan mampu memberikan rasa aman dan nyaman kepada client.</li>
         <li class="animated-element" data-animation="fadeIn"><strong>Tenaga Kerja Professional:</strong> Tenaga kerja yang terlatih, terampil dan profesional dalam melayani client.</li>

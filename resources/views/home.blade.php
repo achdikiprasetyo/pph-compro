@@ -372,22 +372,6 @@ h2 {
                 </div>
             </div>
         </div>
-
-        <div class="carousel-item">
-            <div class="bottom-section-6">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-6 text-left pl-4">
-                            <p class="slogan animated-element" data-animation="fadeIn">SATPAM DENGAN KUALITAS TERBAIK</p>
-                            <p class="isi-slogan animated-element" data-animation="fadeIn"> tidak hanya menjaga fisik, tetapi juga hati; karena kehadiran dan senyuman kita adalah benteng pertama keamanan dan kenyamanan</p>
-                            <a href="{{ asset('image/logo.png') }}" class="btn btn-custom animated-element" data-animation="fadeIn">Service</a>
-                        </div>
-                    </div>
-                </div>
-                
-                </div>
-            </div>
-        </div>
     </div>
     </a>
 
@@ -518,7 +502,7 @@ h2 {
         <a href="{{ route('jasa.backoffice') }}" style="text-decoration: none; color: inherit;">
             <div class="container-box animated-element">
                 <div class="list-item">
-                    <img src="{{ asset('image/jasa/backoffice.png') }}" alt="Service Image">
+                    <img src="{{ asset('image/jasa/1.png') }}" alt="Service Image">
                     <div class="text-content">
                         <div class="service-title">Jasa Backoffice</div>
 
@@ -530,7 +514,7 @@ h2 {
         <a href="{{ route('jasa.engineer') }}" style="text-decoration: none; color: inherit;">
             <div class="container-box animated-element">
                 <div class="list-item">
-                    <img src="{{ asset('image/jasa/kebersihan.png') }}" alt="Service Image">
+                    <img src="{{ asset('image/jasa/teknisi.png') }}" alt="Service Image">
                     <div class="text-content">
                         <div class="service-title">Jasa Engineer</div>
 
@@ -539,18 +523,18 @@ h2 {
             </div>
         </a>
 
-        <a href="{{ route('jasa.outbond') }}" style="text-decoration: none; color: inherit;">
+        <a href="{{ route('jasa.produksi') }}" style="text-decoration: none; color: inherit;">
             <div class="container-box animated-element">
                 <div class="list-item">
-                    <img src="{{ asset('image/jasa/outbond.png') }}" alt="Service Image">
+                    <img src="{{ asset('image/jasa/produksi.png') }}" alt="Service Image">
                     <div class="text-content">
-                        <div class="service-title">Jasa Outbond</div>
+                        <div class="service-title">Jasa Tenaga Produksi</div>
 
                     </div>
                 </div>
             </div>
         </a>
-    
+
     </div>
 
         <hr>
@@ -580,56 +564,56 @@ h2 {
 <div class="swiper-container animated-element">
     <div class="swiper-wrapper">
 
-        <div class="swiper-slide"><img src="image/mitra/1.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/2.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/3.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/4.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/5.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/6.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/7.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/8.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/9.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/10.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/11.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/12.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/13.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/14.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/15.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/16.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/17.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/18.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/19.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/20.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/21.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/22.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/23.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/24.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/25.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/26.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/27.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/28.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/29.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/30.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/31.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/32.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/33.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/34.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/35.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/36.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/37.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/38.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/39.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/40.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/41.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/42.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/43.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/44.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/45.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/46.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/47.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/48.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/49.png" alt="Photo 1"></div>
-        <div class="swiper-slide"><img src="image/mitra/50.png" alt="Photo 1"></div>
+        <div class="swiper-slide"><img loading="lazy" src="image/mitra/1.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/2.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/3.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/4.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/5.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/6.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/7.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/8.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/9.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/10.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/11.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/12.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/13.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/14.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/15.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/16.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/17.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/18.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/19.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/20.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/21.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/22.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/23.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/24.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/25.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/26.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/27.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/28.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/29.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/30.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/31.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/32.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/33.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/34.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/35.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/36.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/37.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/38.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/39.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/40.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/41.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/42.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/43.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/44.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/45.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/46.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/47.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/48.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/49.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/50.png" alt="Photo 1"></div>
 
 
     </div>

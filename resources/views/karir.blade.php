@@ -130,22 +130,10 @@
         </a>
 
 
-            <div class="container-box animated-element">
-                <div class="list-item">
-                    <img src="{{ asset('image/jasa/sdm.png') }}" alt="Service Image">
-                    <a href="{{ route('lamar') }}" class="read-more-button">Lamar</a>
-                    <div class="text-content">
-                        <div class="service-title">Driver</div>
-
-                    </div>
-                </div>
-            </div>
-        </a>
-
 
             <div class="container-box animated-element">
                 <div class="list-item">
-                    <img src="{{ asset('image/jasa/backoffice.png') }}" alt="Service Image">
+                    <img src="{{ asset('image/jasa/produksi.png') }}" alt="Service Image">
                     <a href="{{ route('lamar') }}" class="read-more-button">Lamar</a>
                     <div class="text-content">
                         <div class="service-title">Tenaga Produksi</div>
@@ -158,7 +146,7 @@
 
             <div class="container-box animated-element">
                 <div class="list-item">
-                    <img src="{{ asset('image/jasa/kebersihan.png') }}" alt="Service Image">
+                    <img src="{{ asset('image/jasa/teknisi.png') }}" alt="Service Image">
                     <a href="{{ route('lamar') }}" class="read-more-button">Lamar</a>
                     <div class="text-content">
                         <div class="service-title">Teknisi</div>

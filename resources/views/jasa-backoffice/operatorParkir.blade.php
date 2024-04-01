@@ -84,7 +84,7 @@
     </div>
 </div>
     <div class="right-container animated-element">
-        <img src="{{asset('image/backoffice/operatorParkir.png')}}" alt="Gambar">
+        <img src="{{asset('image/jasa/operatorParkir.png')}}" alt="Gambar">
     </div>
 </div>
 

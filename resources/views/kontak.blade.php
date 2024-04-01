@@ -111,7 +111,7 @@
     <li><a href="https://www.instagram.com/pt.pancapilarhutama/" target="_blank"><i class="fab fa-instagram"></i></a></li>
     <li><a href="mailto:pancapilarhutama@gmail.com" target="_blank"><i class="far fa-envelope"></i></a></li>
     <li><a href="https://www.facebook.com/PancaPilarHutama/" target="_blank"><i class="fab fa-facebook"></i></a></li>
-    <li><a href="http://wa.me/6282247424826" target="_blank"><i class="fab fa-whatsapp"></i></a></li>
+    <li><a href="http://wa.me/6281527714498" target="_blank"><i class="fab fa-whatsapp"></i></a></li>
     <li><a href="https://www.tiktok.com/@pancapilarhutama" target="_blank"><i class="fab fa-tiktok"></i></a></li>
 </ul>
 
