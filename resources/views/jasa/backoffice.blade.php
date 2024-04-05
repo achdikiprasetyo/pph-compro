@@ -228,7 +228,7 @@
         <a href="{{ route('jasa-backoffice.operatorParkir') }}" style="text-decoration: none; color: inherit;">
             <div class="container-box animated-element">
                 <div class="list-item">
-                    <img src="{{ asset('image/jasa/parkir.png') }}" alt="Service Image">
+                    <img src="{{ asset('image/backoffice/5.png') }}" alt="Service Image">
                     <a href="{{ route('jasa-backoffice.operatorParkir') }}" class="read-more-button">Baca Selengkapnya</a>
                     <div class="text-content">
                         <div class="service-title">Operator Parkir</div>
