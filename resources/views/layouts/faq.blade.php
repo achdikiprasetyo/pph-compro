@@ -82,20 +82,20 @@
             <h5>Apa saja layanan pelatihan yang disediakan oleh perusahaan ini?</h5>
         </div>
         <div id="faq1" class="faq-answer collapse">
-            <p>Perusahaan PT. Panca Pilar Hutama melayani berbagai pelatihan dan menyesuaikan kebutuhan perusahaan anda.</p>
+            <p>PT. Panca Pilar Hutama melayani berbagai pelatihan dan jasa menyesuaikan kebutuhan perusahaan anda.</p>
         </div>
 
         <div class="faq-question" data-toggle="collapse" data-target="#faq1">
             <h5>Bagaimana cara bekerja sama dengan PPH?</h5>
         </div>
         <div id="faq1" class="faq-answer collapse">
-            <p>Untuk bekerja sama dengan perusahaan kami, anda bisa melihat terlebih dahulu Portofolio PT. Panca Pilar Hutama yang sudah ada diwebsite, kemudian hubungi kami melalui kontak yang tertera diwebsite</p>
+            <p>Untuk bekerja sama dengan perusahaan kami, anda bisa melihat terlebih dahulu Portofolio PT. Panca Pilar Hutama yang sudah ada diwebsite, kemudian jika anda tertarik untuk bekerja sama dengan perusahaan kami, anda bisa hubungi kami melalui kontak yang tertera diwebsite</p>
         </div>
         <div class="faq-question" data-toggle="collapse" data-target="#faq1">
             <h5>Jika ingin melamar apakah dikenakan biaya?</h5>
         </div>
         <div id="faq1" class="faq-answer collapse">
-            <p>Semua pendaftaran tidak dipungut biaya apapun, jika ada oknum yang meminta uang, laporkan kepada kami</p>
+            <p>Semua pendaftaran di PT. Panca Pilar Hutama tidak dipungut biaya apapun, jika ada oknum yang meminta biaya administrasi, laporkan kepada kami melalui kontak yang telah ditampilkan diwebsite.</p>
         </div>
         <div class="faq-question" data-toggle="collapse" data-target="#faq1">
             <h5>Bagaimana cara melamar di PPH?</h5>

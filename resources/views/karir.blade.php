@@ -75,7 +75,7 @@
             
                 <p><strong>Pendaftaran Masih Terbuka :</strong></p>
                 <p>
-                    Selagi posisi di bawah masih tersedia diwebsite, Anda memiliki kesempatan untuk mendaftar. Segera Kirimkan berkas pendaftaran anda dengan menekan foto dibawah, sesuai dengan keahlian anda.
+                    Selagi posisi di bawah masih tampil diwebsite, Anda masih memiliki kesempatan untuk mendaftar/melamar. Segera Kirimkan berkas pendaftaran anda dengan menekan foto dibawah, sesuai dengan keahlian anda.
                 </p>
             
 

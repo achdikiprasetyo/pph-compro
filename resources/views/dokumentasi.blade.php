@@ -149,21 +149,7 @@
         </div>
     </div>
 
-    <div class="service-section animated-element" data-animation="fadeIn">
-        <h2>Jasa Outbond</h2>
-        <p class="service-description"> Layanan Outbond yang ditawarkan oleh perusahaan kami merupakan sebuah kegiatan diluar ruangan untuk mengembangkan Sumber Daya Manusia dan Kerja Sama Tim dilingkungan perusahaan Anda. Berikut adalah beberapa contoh foto dari jasa Outbond Kami kami:</p>
-        <div class="service-photos row">
-            <div class="col-md-4">
-                <img src="image/outbond_1.jpg" alt="Pelatihan 1">
-            </div>
-            <div class="col-md-4">
-                <img src="image/outbond_2.jpg" alt="Pelatihan 2">
-            </div>
-            <div class="col-md-4">
-                <img src="image/outbond_3.jpg" alt="Pelatihan 3">
-            </div>
-        </div>
-    </div>
+   
 
 
 

@@ -76,15 +76,15 @@
         <div class="left-container animated-element">
             <h1 class="title">ABSENSI ONLINE PPH</h1>
             <p class="description">
-                
-                Aplikasi absensi online yang disediakan oleh PPH merupakan fasilitas yang akan didapatkan ketika sudah saling bekerja sama. Berikut adalah fitur aplikasinya :
+                <strong>Absensi Online (AbsensiOn)</strong>
+                 yang disediakan oleh PPH merupakan fasilitas yang akan didapatkan ketika sudah saling bekerja sama. Berikut adalah fitur aplikasinya :
             <p class="description">
                 <ul>
                     <li>Mempermudah proses absensi</li>
-                    <li>Absensi dilakukan dengan foto selfie</li>
-                    <li>absensi dilengkaoi dengan informasi data lokasi GPS</li>
+                    <li>Absensi dilakukan dengan foto selfie / scan ID Card Pegawai</li>
+                    <li>AbsensiOn dilengkapi dengan informasi data lokasi GPS secara Realtime</li>
                     <li>Rekapan dapat ditarik bulanan dalam bentuk excel</li>
-                    <li>Hasil rekapan disertai keterangan telat, sakit, izin dan libur.</li>
+                    <li>Hasil rekapan absensi setiap pegawai disertai keterangan telat, sakit, izin dan libur.</li>
                 </ul>
         </div>
         <div class="right-container animated-element">
@@ -97,14 +97,14 @@
             <h1 class="title">QR PATROL</h1>
             <p class="description">
                 
-                QR Patrol yang disediakan oleh PPH merupakan fasilitas yang akan didapatkan ketika sudah saling bekerja sama. Berikut adalah fitur aplikasinya :
+                <strong>QR Patrol</strong> yang disediakan oleh PPH merupakan fasilitas yang akan didapatkan ketika sudah saling bekerja sama. Berikut adalah fitur aplikasinya :
             <p class="description">
                 <ul>
-                    <li>Laporan Patroli Realtime</li>
-                    <li>Patroli setiap lokasi dengan QR Code</li>
+                    <li>Laporan Patroli yang dilakukan oleh Satpam dilaporkan secara Realtime</li>
+                    <li>Patroli dilakukan disetiap lokasi dengan QR Code yang telah dipasang disetiap POS</li>
                     <li>Mengelola checkpoint tiap lokasi</li>
-                    <li>Patroli disertai foto lokasi</li>
-                    <li>Pengiriman data patroli harus berada cakupan daerah yang telah ditentukan dan realtime</li>
+                    <li>Patroli disertai foto lokasi disetiap checkpoint</li>
+                    <li>Pengiriman data patroli harus berada dicakupan daerah yang telah ditentukan melalui lokasi GPS dan realtime</li>
                 </ul>
         </div>
         <div class="right-container">

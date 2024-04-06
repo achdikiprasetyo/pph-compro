@@ -102,7 +102,7 @@
   <br>
   <section class="about-us animated-element">
     <div class="container">
-      <h2 class="animated-element" data-animation="fadeIn">Tentang Kami</h2>
+      <h2 class="animated-element" data-animation="fadeIn"><strong>Tentang Kami</strong></h2>
       <div class="row">
         <div class="col-md-6 animated-element" data-animation="fadeIn">
           <img src="image/logo.png" alt="Foto Direktur Utama" class="img-fluid rounded mb-4">
@@ -123,10 +123,10 @@
     </div>
   </section>
   
-
+  
   <section class="our-values">
     <div class="container animated-element" data-animation="fadeIn">
-      <h2>Kenapa Harus Memilih Kami ?</h2>
+      <h2><strong>Kenapa Harus Memilih Kami ?</strong></h2>
       <ul>
         <li class="animated-element" data-animation="fadeIn"><strong>Berpengalaman:</strong> Memiliki sumber daya manusia yang berpengalaman dan mampu memberikan rasa aman dan nyaman kepada client.</li>
         <li class="animated-element" data-animation="fadeIn"><strong>Tenaga Kerja Professional:</strong> Tenaga kerja yang terlatih, terampil dan profesional dalam melayani client.</li>
@@ -137,20 +137,20 @@
 
   <section class="visual-elements">
     <div class="container animated-element" data-animation="fadeIn">
-      <h2>Struktur Organisasi</h2>
+      <h2><strong>Struktur Organisasi</strong></h2>
       <img src="image/struktur-organisasi.png" alt="Struktur Organisasi">
-      <!-- Tambahkan teks atau deskripsi struktur organisasi di sini jika diperlukan -->
+     
     </div>
   </section>
 
   <section class="visi-misi animated-element" data-animation="fadeIn">
     <div class="container">
-  
-      <h2>Visi :</h2>
+      
+      <h2><strong>Visi :</strong></h2>
       <p>Menjadi perusahaan penyedia dan pengelola jasa tenaga kerja yang <strong>Professional</strong>  dan <strong>Terpercaya</strong></p>
       <br>
-      <h2>Misi</h2>
-      <p>Meningkatkan kemakmuran dan kemajuan bersama, memberikan keamanan, kenyamanan, kepuasan dan keberhasilan kepada pengguna jasa</p>
+      <h2><strong>Misi : </strong></h2>
+      <p>Meningkatkan kemakmuran dan kemajuan bersama, memberikan <strong> keamanan, kenyamanan, kepuasan</strong> dan <strong>keberhasilan</strong> kepada pengguna jasa</p>
     </div>
   </section>
 

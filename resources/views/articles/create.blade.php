@@ -30,7 +30,7 @@
                 </div>
             </div>
             <div class="mt-4 text-right">
-                <a href="{{ route('articles.index') }}" class="btn btn-secondary">Kembali ke Daftar Artikel</a>
+                <a href="{{ route('admin.index') }}" class="btn btn-secondary">Kembali ke Daftar Artikel</a>
             </div>
         </div>
     </div>
