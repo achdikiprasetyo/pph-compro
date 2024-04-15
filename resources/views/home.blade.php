@@ -1,251 +1,34 @@
 
 @extends('layouts.navbar')
+
+@section('page-css')
+  <link rel="stylesheet" href="{{ asset('css/home.css') }}">
+  <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+@endsection
+
 @section('content')
 <title>PT. Panca Pilar Hutama</title>
-<!-- Tambahkan script Swiper.js -->
-<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+
 <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
-
-<style>
-body, h1, h2, h3, h4, h5, h6, p, li, a, span {
-    font-family: 'Poppins', sans-serif;
-        
-}
-
-h2 {
-    text-align: center;
-}
-
-    .service-item p {
-        max-height: 4.5em; /* 3 lines with 1.5em line height */
-        overflow: hidden;
-        text-overflow: ellipsis;
-        display: -webkit-box;
-        -webkit-line-clamp: 3;
-        -webkit-box-orient: vertical;
-    }
-
-    /* Responsive video container */
-    .embed-responsive {
-        position: relative;
-        display: block;
-        width: 100%;
-        padding: 0;
-        overflow: hidden;
-    }
-
-    /* Set aspect ratio (16:9) for the video */
-    .embed-responsive iframe {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-    }
-    .video-container {
-        position: relative;
-        padding-bottom: 56.25%; /* 16:9 aspect ratio */
-        height: 0;
-        overflow: hidden;
-    }
-
-    .video-container iframe {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-    }
-
-    .progress-container {
-      text-align: center;
-      max-width: 600px; /* Menambahkan batasan lebar maksimal */
-      margin: auto; /* Memusatkan container */
-    }
-
-    .progress-bar {
-      width: 100%;
-      height: 20px;
-      background-color: #ddd;
-      border-radius: 10px;
-      overflow: hidden;
-      margin-bottom: 20px;
-    }
-
-    .progress-bar span {
-      display: block;
-      height: 100%;
-      background-color: #4CAF50; /* Warna bar hijau */
-      transition: width 1s ease-in-out;
-    }
-
-    .label {
-      font-size: 18px;
-      margin-bottom: 10px;
-      color: #333;
-    }
-
-    .company-title {
-      font-size: 24px;
-      font-weight: bold;
-      margin-bottom: 10px;
-    }
-
-    .subtitle {
-      font-size: 16px;
-      color: #555;
-    }
-
-    /* Add this to your existing CSS or modify as needed */
-
-.motif-photo img {
-    width: 100%;
-    height: auto;
-    animation: fadeInLeft 1s ease-in-out;
-}
-
-@keyframes fadeInLeft {
-    from {
-        opacity: 0;
-        transform: translateX(-50px);
-    }
-    to {
-        opacity: 1;
-        transform: translateX(0);
-    }
-}
-
-.reasons-content {
-    animation: fadeInRight 1s ease-in-out;
-}
-
-@keyframes fadeInRight {
-    from {
-        opacity: 0;
-        transform: translateX(50px);
-    }
-    to {
-        opacity: 1;
-        transform: translateX(0);
-    }
-}
-
-.motif-photo img.animate-fade-in-left {
-    /* Your existing styles */
-    animation: fadeInLeft 1s ease-in-out;
-}
-
-.reasons-content.animate-fade-in-right {
-    /* Your existing styles */
-    animation: fadeInRight 1s ease-in-out;
-}
-
-.swiper-container {
-        width: 100%; /* Set lebar slider maksimal 80% */
-        max-width: 100%; /* Atur lebar maksimum jika perlu */
-        margin: auto; /* Pusatkan slider */
-        overflow: hidden; /* Sembunyikan gambar yang melebihi lebar slider */
-    }
-
-    .swiper-slide img {
-        width: 100%; /* Menyesuaikan lebar parent (swiper-slide) */
-        height: auto; /* Menjaga aspek rasio */
-        max-height: 100%; /* Menetapkan tinggi maksimum */
-        object-fit: cover; /* Mengisi area sesuai proporsi aspek rasio */
- /* Menambahkan efek blur */
-        transition: filter 0.5s ease; /* Efek transisi saat bergeser */
-    }
-
-    .swiper-slide img:hover {
-        filter: blur(0); /* Menghapus efek blur saat gambar dihover */
-    }
-
-    
-    .custom-col-md-12 {
-        /* Sesuaikan margin kiri sesuai kebutuhan */
-        margin-left: 200px; /* Contoh margin kiri 20px */
-        margin-right: 1000px;
-    }
-
-    .container-wrapper {
-            display: flex;
-            justify-content: center; /* Center align the flex container */
-            flex-wrap: wrap; /* Enable wrapping for smaller screens */
-        }
-
-        .container-box {
-            max-width: 400px;
-            margin: 20px;
-            float: none; /* Reset float */
-            overflow: hidden;
-            position: relative;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-            border-radius: 10px;
-            transition: transform 0.3s ease; /* Add transition effect */
-        }
-
-        .list-item {
-            width: 100%;
-            overflow: hidden;
-            border-radius: 10px;
-        }
-
-        .list-item img {
-            width: 100%;
-            height: auto;
-            display: block;
-            border-radius: 10px 10px 0 0;
-        }
-
-        .text-content {
-            padding: 15px;
-            background-color: #fff;
-        }
-
-        .service-title {
-            font-size: 18px;
-            font-weight: 600;
-            margin-bottom: 10px;
-        }
-
-        .service-description {
-            font-size: 14px;
-            color: #666;
-        }
-
-        .container-box:hover {
-            transform: scale(1.05);
-        }
-
-        h2{
-            font-weight: bold;
-        }
-
-</style>
 <script>
-
-
     function animateOnScroll() {
         const motifPhoto = document.querySelector('.motif-photo');
         const reasonsContent = document.querySelector('.reasons-content');
-
         if (isElementInViewport(motifPhoto)) {
             motifPhoto.classList.add('animate-fade-in-left');
         }
-
         if (isElementInViewport(reasonsContent)) {
             reasonsContent.classList.add('animate-fade-in-right');
         }
     }
-
     window.addEventListener('scroll', function () {
         animateOnScroll();
     });
-
     document.addEventListener('DOMContentLoaded', function () {
         animateOnScroll();
     });
 </script>
+
 <script>
     function animateProgressBar(id, percentage) {
         const progressBar = document.getElementById(id);
@@ -266,6 +49,7 @@ h2 {
         document.getElementById('experts-label').innerText = `Total Tenaga Ahli: ${totalExperts}`;
     });
 </script>
+
 <script>
     document.addEventListener('DOMContentLoaded', function () {
         var mySwiper = new Swiper('.swiper-container', {
@@ -295,7 +79,7 @@ h2 {
 </div>
 @endif
 
-
+{{-- SLIDER HOMEPAGE --}}
 <div id="slider" class="carousel slide" data-ride="carousel" data-interval="3500"> 
     <div class="carousel-inner animated-element">
         <div class="carousel-item active">
@@ -373,6 +157,7 @@ h2 {
 
 
 <br><br><br>
+{{-- BAR PRESENTASI KEPUASAN LAYANAN KAMI --}}
 <div class="progress-container animated-element" data-animation="fadeIn">
     <div class="company-title">PT. PANCA PILAR HUTAMA</div>
     <div class="subtitle">Penyedia dan Pengelola Jasa Tenaga Kerja Profesional</div>
@@ -427,6 +212,8 @@ h2 {
     <br><hr><br>
    
 </div>
+
+{{-- LIST LAYANAN --}}
 <main role="main">
     <br>
     <h2 class="animated-element" data-animation="fadeIn">Layanan Kami</h2>
@@ -541,7 +328,7 @@ h2 {
 <br>
 
 
-
+{{-- SLIDER CLIENT --}}
 <br>
 <h2 class="animated-element" data-animation="fadeIn">Client yang telah Bekerja Sama dengan Kami :</h2>
                 <hr>
@@ -607,6 +394,8 @@ h2 {
 
     </div>
     <br><br>
+
+    {{-- Video Company Profile --}}
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center animated-element" data-animation="fadeIn">

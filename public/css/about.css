@@ -1,0 +1,83 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+
+  .welcome-section {
+    position: relative;
+    text-align: center;
+    color: #fff;
+  }
+
+  .welcome-section img {
+    width: 100%;
+    height: auto;
+    opacity: 0.5; /* Opacity untuk menyesuaikan foto dengan teks */
+  }
+
+  .welcome-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .visual-elements {
+    padding: 40px 0;
+    text-align: center;
+  }
+
+  .visual-elements img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px; /* Contoh styling untuk gambar */
+    animation: fadeIn 1s ease-out; /* Contoh animasi fadeIn */
+  }
+
+  .about-us img {
+    max-width: 90%;
+    height: auto;
+    border-radius: 8px; /* Contoh styling untuk gambar */
+    margin-bottom: 20px; /* Spasi antara gambar dan teks */
+    text-align: center;
+  }
+
+  .organizational-structure img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px; /* Contoh styling untuk gambar */
+    animation: fadeIn 1s ease-out;
+  }
+
+  .page-header {
+    background-image: url("image/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 0 none;
+    margin: 0 auto;
+    padding: 0;
+    position: relative;
+  }
+
+  .page-header_wrap {
+    padding: 60px 0;
+    position: relative;	
+    text-align: center;
+  }
+
+  .page-heading {
+    z-index: 1;
+    position: relative;
+  }
+
+  .page-heading h2, .page-heading h1 {
+    font-size: 40px;
+    color: #ffffff;
+    margin: 0 auto;
+  }

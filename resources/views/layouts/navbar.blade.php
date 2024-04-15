@@ -299,9 +299,109 @@
         opacity: 1; /* Show the button on hover */
     }
 
+   /* Halaman Karir */
+   .google-form-container {
+        position: relative;
+        overflow: hidden;
+        width: 100%;
+        height: 800px;
+        margin-bottom: 20px; 
+    }
+    .google-form-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: 0;
+    }
+
+    /* Halaman Kontak */
+    .page-loaded {
+            opacity: 1; /* Change opacity to 1 when the page is loaded */
+        }
+
+        /* Your existing styles go here */
+
+        .contact-container {
+            max-width: 100%;
+            text-align: center;
+            padding: 20px;
+            border-radius: 10px;
+            background-color: #fff;
+            animation: slideInFromLeft 1s ease-in-out; /* Add slide-in animation */
+        }
+
+        /* Define slideInFromLeft animation */
+        @keyframes slideInFromLeft {
+            from {
+                opacity: 0;
+                transform: translateX(-100%);
+            }
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+
+        .social-icons li {
+            display: inline-block;
+            margin: 15px;
+            opacity: 0; /* Set initial opacity to 0 */
+            transition: opacity 0.5s ease-in-out; /* Add opacity transition */
+        }
+
+        .social-icons li.animate {
+            opacity: 1; /* Change opacity to 1 for animated elements */
+        }
+
+        .contact-container {
+            max-width: 100%;
+            text-align: center;
+            padding: 20px;
+            border-radius: 10px;
+            background-color: #fff;
+        }
+        .contact-container h1 {
+            color: #333;
+        }
+        .social-icons {
+            list-style-type: none;
+            padding: 0;
+            margin-top: 20px;
+        }
+        .social-icons li {
+            display: inline-block;
+            margin: 15px;
+        }
+        .social-icons li a {
+            text-decoration: none;
+            color: #333;
+            font-size: 24px;
+            transition: color 0.3s ease-in-out;
+        }
+        .social-icons li a:hover {
+            color: #007bff;
+        }
+        .address {
+            margin-top: 20px;
+            color: #555;
+        }
+        #map {
+            width: 100%; /* Menggunakan 100% width agar responsif */
+            height: 400px; /* Sesuaikan tinggi peta sesuai kebutuhan */
+            border-radius: 10px;
+        }
 
 
+        /* Halaman About */
+        
    </style>
+
+{{-- Kontak --}}
+
+
+
 <script>
    document.addEventListener("DOMContentLoaded", function () {
      const options = {
@@ -327,6 +427,7 @@
  </script>
    <!-- Tambahkan link untuk font Poppins -->
    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:600&display=swap">
+   @yield('page-css')
 </head>
 <body>
    
@@ -387,11 +488,7 @@
 
         @yield('content')
    
-   <!-- Bagian bawah navbar -->
-   
-   <!-- Isi konten halaman di sini -->
 
-   <!-- Tambahkan link Bootstrap JavaScript di sini -->
    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.2/dist/umd/popper.min.js"></script>
    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>

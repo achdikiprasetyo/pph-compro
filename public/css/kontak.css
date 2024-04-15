@@ -1,0 +1,82 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    opacity: 0; /* Set initial opacity to 0 */
+    transition: opacity 0.5s ease-in-out; /* Add opacity transition */
+    overflow-x: hidden; /* Hide horizontal scrollbar during animation */
+}
+
+.page-loaded {
+    opacity: 1; /* Change opacity to 1 when the page is loaded */
+}
+
+
+.contact-container {
+    max-width: 100%;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #fff;
+    animation: slideInFromLeft 1s ease-in-out; /* Add slide-in animation */
+}
+
+/* Define slideInFromLeft animation */
+@keyframes slideInFromLeft {
+    from {
+        opacity: 0;
+        transform: translateX(-100%);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+.social-icons li {
+    display: inline-block;
+    margin: 15px;
+    opacity: 0; /* Set initial opacity to 0 */
+    transition: opacity 0.5s ease-in-out; /* Add opacity transition */
+}
+
+.social-icons li.animate {
+    opacity: 1; /* Change opacity to 1 for animated elements */
+}
+
+.contact-container {
+    max-width: 100%;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #fff;
+}
+.contact-container h1 {
+    color: #333;
+}
+.social-icons {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 20px;
+}
+.social-icons li {
+    display: inline-block;
+    margin: 15px;
+}
+.social-icons li a {
+    text-decoration: none;
+    color: #333;
+    font-size: 24px;
+    transition: color 0.3s ease-in-out;
+}
+.social-icons li a:hover {
+    color: #007bff;
+}
+.address {
+    margin-top: 20px;
+    color: #555;
+}
+#map {
+    width: 100%; /* Menggunakan 100% width agar responsif */
+    height: 400px; /* Tinggi peta */
+    border-radius: 10px;
+}

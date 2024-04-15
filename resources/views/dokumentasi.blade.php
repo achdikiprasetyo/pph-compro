@@ -1,53 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-    <title>Our Services</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f8f9fa;
-        }
-        .service-section {
-            max-width: 90%;
-            margin: auto;
-            text-align: center;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            background-color: #fff;
-            margin-bottom: 20px;
-        }
-        .service-section h2 {
-            color: #333;
-        }
-        .service-description {
-            margin-top: 20px;
-            color: #555;
-        }
-        .service-photos {
-            margin-top: 20px;
-        }
-        .service-photos img {
-            max-width: 100%;
-            height: auto;
-            border-radius: 10px;
-            margin-bottom: 10px;
-            transition: transform 0.3s ease-in-out;
-        }
-        .service-photos img:hover {
-            transform: scale(1.1);
-        }
+@extends('layouts.navbar')
 
+@section('page-css')
+    <link rel="stylesheet" href="{{ asset('css/dokumentasi.css') }}">
+@endsection
 
-    </style>
-</head>
-<body>
-
-    @include('layouts.navbar')
-
+@section('content')
     <!-- Jasa Kebersihan Section -->
     <div class="service-section animated-element" data-animation="fadeIn">
         <h2>Jasa Kebersihan</h2>
@@ -149,13 +106,5 @@
         </div>
     </div>
 
-   
-
-
-
-
-    @include('layouts.footer')
-
-</body>
-</html>
-
+@include('layouts.footer')
+@endsection

@@ -3,40 +3,37 @@
 @section('content')
     <style>
         /* CSS untuk membuat tampilan form lebih menarik */
-        .card {
+        .register-card {
             border: none;
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
         }
 
-        .card-header {
+        .register-card-header {
             background-color: #007bff;
             color: white;
             font-weight: bold;
         }
 
-        .btn-primary {
+        .register-btn-primary {
             background-color: #007bff;
             border-color: #007bff;
         }
 
-        .btn-primary:hover {
+        .register-btn-primary:hover {
             background-color: #0056b3;
             border-color: #0056b3;
         }
 
         /* CSS untuk mengatur posisi form ke tengah halaman */
-        .container {
+        .register-container {
             display: flex;
             justify-content: center;
             align-items: center;
             height: 100vh; /* Mengatur tinggi container agar mengambil seluruh tinggi layar */
         }
-
-
-        
     </style>
 
-    <div class="container">
+    <div class="register-container">
         @if(session('success'))
         <div class="alert alert-success">
             {{ session('success') }}
@@ -44,8 +41,8 @@
         @endif
         <div class="row justify-content-center">
             <div class="col-md-10">
-                <div class="card">
-                    <div class="card-header">{{ __('Register') }}</div>
+                <div class="card register-card">
+                    <div class="card-header register-card-header">{{ __('Register') }}</div>
 
                     <div class="card-body">
                         <form method="POST" action="{{ route('register') }}">
@@ -97,7 +94,7 @@
 
                             <div class="form-group row mb-0">
                                 <div class="col-md-6 offset-md-4">
-                                    <button type="submit" class="btn btn-primary">
+                                    <button type="submit" class="btn register-btn-primary">
                                         {{ __('Register') }}
                                     </button>
                                 </div>

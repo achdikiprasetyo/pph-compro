@@ -1,152 +1,15 @@
-@extends('layouts.footer')
 @extends('layouts.navbar')
 
-<style>
-    body {
-        font-family: Arial, sans-serif; /* Ganti dengan jenis huruf yang diinginkan */
-        margin: 0;
-        padding: 0;
-    }
-
-    .container {
-        width: 80%;
-        margin: auto;
-    }
-
-    .description {
-        margin-top: 20px;
-        line-height: 1.6;
-    }
-
-    .img-fluidd {
-        max-width: 70%;
-        height: auto;
-        display: block; /* Hindari margin tambahan pada elemen gambar */
-        margin: 0 auto; /* Pusatkan gambar di dalam kontainer */
-    }
-
-    @media (min-width: 768px) {
-        /* Aturan CSS untuk layar desktop */
-        .img-fluid {
-            max-width: 80%;
-            float: left;
-            margin-right: 20px;
-        }
-
-        .description {
-            overflow: hidden;
-        }
-    }
-
-    .container-wrapper {
-            display: flex;
-            justify-content: center; /* Center align the flex container */
-            flex-wrap: wrap; /* Enable wrapping for smaller screens */
-        }
-
-        .container-box {
-            max-width: 400px;
-            margin: 20px;
-            float: none; /* Reset float */
-            overflow: hidden;
-            position: relative;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-            border-radius: 10px;
-            transition: transform 0.3s ease; /* Add transition effect */
-        }
-
-        .list-item {
-            width: 100%;
-            overflow: hidden;
-            border-radius: 10px;
-        }
-
-        .list-item img {
-            width: 100%;
-            height: auto;
-            display: block;
-            border-radius: 10px 10px 0 0;
-        }
-
-        .text-content {
-            padding: 15px;
-            background-color: #fff;
-        }
-
-        .service-title {
-            font-size: 18px;
-            font-weight: 600;
-            margin-bottom: 10px;
-        }
-
-        .service-description {
-            font-size: 14px;
-            color: #666;
-        }
-
-        .container-box:hover {
-            transform: scale(1.05);
-        }
-
-.container-jasa {
-            display: flex;
-            flex-wrap: wrap;
-        }
-
-        .left-container {
-            flex: 1;
-            padding: 20px;
-
-        }
-
-        .right-container {
-            flex: 1;
-            overflow: hidden; /* Mencegah gambar keluar dari container */
-  
-        }
-
-        img {
-            width: 100%;
-            height: auto;
-            display: block;
-            border-radius: 8px; /* Add border-radius to the image */
-        }
-
-        h1.title {
-            color: #00A9FF; /* Set title color to dark grey */
-            font-weight: bold; /* Make the title bold */
-            font-size: 28px; /* Set title font size */
-            margin-bottom: 10px; /* Add space below the title */
-        }
-
-        h2.subtitle {
-            color: #000000; /* Set subtitle color to blue */
-            font-size: 20px; /* Set subtitle font size */
-            font-weight: normal; /* Remove bold from subtitle */
-            margin-top: 0; 
-        }
-
-        @media (max-width: 768px) {
-            .container-jasa {
-                flex-direction: column;
-            }
-        }
-
-
-
-    
-</style>
-
-
+@section('page-css')
+    <link rel="stylesheet" href="{{ asset('css/jasa/jasa.css') }}">
+@endsection
 
 @section('content')
 <div class="container-jasa animated-element">
     <div class="left-container">
         <h1 class="title">Jasa Backoffice</h1>
         <div class="row animated-element" data-animation="fadeIn">
-            <div class="col-md-12">
-              
-
+            <div class="col-md-12"> 
                 <p class="description">
                     Layanan Backoffice yang disediakan oleh perusahaan kami akan berusaha untuk mendukung keberhasilan diperusahaan anda untuk mencapai target yang telah ditentukan. Maka dari itulah diperlukan beberapa tenaga supporting yang dapat membantu proses Pencapaian target Perusahaan.
                 </p>
@@ -168,8 +31,7 @@
         <img src="{{asset('image/jasa/jasaBackoffice.png')}}" alt="Gambar">
     </div>
 </div>
-
-
+    {{-- Pemisah dengan list jasa backoffice --}}
     <div class="separator animated-element">Cakupan Dari Layanan Pelatihan sebagai berikut : </div>
 
     <div class="container-wrapper animated-element">
@@ -180,7 +42,6 @@
                     <a href="{{ route('jasa-backoffice.admin') }}" class="read-more-button">Baca Selengkapnya</a>
                     <div class="text-content">
                         <div class="service-title">Tenaga Admin</div>
-
                     </div>
                 </div>
             </div>
@@ -193,7 +54,6 @@
                     <a href="{{ route('jasa-backoffice.dataEntry') }}" class="read-more-button">Baca Selengkapnya</a>
                     <div class="text-content">
                         <div class="service-title">Data Entry</div>
-
                     </div>
                 </div>
             </div>
@@ -354,8 +214,6 @@
                 </div>
             </div>
         </a>
-    
-        <!-- Add more boxes with different images as needed -->
-    
     </div>
+    @include('layouts.footer')
 @endsection

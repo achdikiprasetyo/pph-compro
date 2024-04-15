@@ -24,6 +24,8 @@ use App\Http\Controllers\AuthController;
 // Route::get('/service', function () {
 //     return view('service');
 // });
+
+//ROUTES NAVBAR
 Route::get('/kontak', function () {
     return view('kontak');
 })->name('kontak');
@@ -60,7 +62,7 @@ Route::get('/karir/daftar', function () {
 use App\Http\Controllers\ArtikelController;
 use App\Http\Controllers\AdminController;
 
-//jasa engineer
+//LIST JASA TEKNISI / ENGINEER FULL
 Route::get('/jasa/engineer/pelatihan-tenaga-teknisi', function () {
     return view('jasa-engineer.pelatihanTenagaTeknisi');
 })->name('jasa-engineer.pelatihanTenagaTeknisi');
@@ -77,7 +79,7 @@ Route::get('/jasa/engineer/tenaga-teknisi', function () {
     return view('jasa-engineer.tenagaTeknisi');
 })->name('jasa-engineer.tenagaTeknisi');
 
-//jasa kebersihan
+//LIST JASA KEBERSIHAN FULL
 Route::get('/jasa/kebersihan/external-cleaning', function () {
     return view('jasa-kebersihan.externalCleaning');
 })->name('jasa-kebersihan.externalCleaning');
@@ -95,7 +97,7 @@ Route::get('/jasa/kebersihan/regular-cleaning', function () {
 })->name('jasa-kebersihan.regularCleaning');
 
 
-//jasa-keamanan
+//LIST JASA KEAMANAN FULL
 Route::get('/jasa/keamanan/konsultasi-keamanan', function () {
     return view('jasa-keamanan.konsultasiKeamanan');
 })->name('jasa-keamanan.konsultasiKeamanan');
@@ -112,7 +114,7 @@ Route::get('/jasa/keamanan/tenaga-keamanan', function () {
     return view('jasa-keamanan.tenagaKeamanan');
 })->name('jasa-keamanan.tenagaKeamanan');
 
-//backoffice full
+//LIST JASA BACKOFFICE FULL
 Route::get('/jasa/backoffice/admin', function () {
     return view('jasa-backoffice.admin');
 })->name('jasa-backoffice.admin');
@@ -170,9 +172,7 @@ Route::get('/jasa/backoffice/sales', function () {
 })->name('jasa-backoffice.sales');
 
 
-
-
-//service
+//Jasa Yang yang ditawarkan PT. PANCA PILAR HUTAMA
 Route::get('/jasa/keamanan', function () {
     return view('jasa.keamanan');
 })->name('jasa.keamanan');
@@ -191,10 +191,6 @@ Route::get('/jasa/pelatihan', function () {
     return view('jasa.pelatihan');
 })->name('jasa.pelatihan');
 
-Route::get('/jasa/outbond', function () {
-    return view('jasa.outbond');
-})->name('jasa.outbond');
-
 Route::get('/jasa/engineer', function () {
     return view('jasa.engineer');
 })->name('jasa.engineer');
@@ -212,37 +208,40 @@ Route::get('/admin/register', function () {
 })->name('register');
 
 
-// routes/web.php
+// jika mengakses link yang tidak ada maka akan diarahkan ke homepage atau /
 Route::fallback(function () {
     return redirect('/');
 });
 
 
+// Admin panel routing
 
-
-
-
-// routes/web.php
-
-
-// ...
-
+//Login
 Route::get('/login', [AuthController::class, 'showLoginForm'])->name('login');
 Route::post('/login', [AuthController::class, 'login']);
+
+//Menampilkan List Semua Artikel
 Route::get('/articles/{id}', [ArtikelController::class, 'show'])->name('articles.show');
 Route::get('/articles', [ArtikelController::class, 'index'])->name('articles.index');
-// middleware
+
+// middleware 
+// berfungsi agar ketika user yang tidak memiliki akases tidak dapat mengakses page tersebut dan akan diarahkan kembali ke login
 Route::middleware(['auth.user'])->group(function () {
     Route::get('/register', [AuthController::class, 'showRegistrationForm'])->name('register');
 Route::post('/register', [AuthController::class, 'register']);
 Route::get('/adminis', [AdminController::class, 'index'])->name('admin.index');
+//logout
 Route::post('/logout', [AuthController::class, 'logout'])->name('logout');
 
+//Routes Membuat Artikel
 Route::get('/articles/create', [ArtikelController::class, 'create'])->name('articles.create');
 Route::post('/articles', [ArtikelController::class, 'store'])->name('articles.store');
 
+//Routes Mengedit Artikel
 Route::get('/articles/{id}/edit', [ArtikelController::class, 'edit'])->name('articles.edit');
 Route::put('/articles/{id}', [ArtikelController::class, 'update'])->name('articles.update');
+
+//Hapus Artikel
 Route::get('articles/{id}/delete', [ArtikelController::class, 'destroy'])->name('articles.destroy');
 Route::prefix('/admin/panel')->name('admin.')->group(function () {
     Route::resource('articles', ArtikelController::class);
