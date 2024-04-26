@@ -479,7 +479,7 @@
                <a class="nav-link" href="{{route('karir')}}">Karir</a>
             </li>
             <li class="nav-item active">
-               <a class="nav-link" href="{{route('dokumentasi')}}">Dokumentasi</a>
+               <a class="nav-link" href="{{route('dokumentasi.kegiatan')}}">Dokumentasi</a>
             </li>
          </ul>
       </div>

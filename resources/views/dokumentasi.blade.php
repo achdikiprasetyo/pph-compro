@@ -22,6 +22,7 @@
                 <img src="image/kebersihan_3.jpg" alt="Pelatihan 3">
             </div>
         </div>
+        <a href="{{ route('dokumentasi.kebersihan') }}" class="btn btn-primary mt-3">Lihat Semua Dokumentasi ></a>
     </div>
 
     <!-- Jasa Keamanan Section -->
@@ -39,6 +40,7 @@
                 <img src="image/keamanan_3.jpg" alt="Pelatihan 3">
             </div>
         </div>
+        <a href="{{ route('dokumentasi.keamanan') }}" class="btn btn-primary mt-3">Lihat Semua Dokumentasi ></a>
     </div>
 
     <!-- Jasa Pelatihan Section -->
@@ -56,6 +58,7 @@
                 <img src="image/pelatihan_3.jpg" alt="Pelatihan 3">
             </div>
         </div>
+        <a href="{{ route('dokumentasi.pelatihan') }}" class="btn btn-primary mt-3">Lihat Semua Dokumentasi ></a>
     </div>
 
     <div class="service-section animated-element" data-animation="fadeIn">
@@ -72,6 +75,7 @@
                 <img src="image/sdm_3.jpg" alt="Pelatihan 3">
             </div>
         </div>
+        <a href="{{ route('dokumentasi.sdm') }}" class="btn btn-primary mt-3">Lihat Semua Dokumentasi ></a>
     </div>
 
     <div class="service-section animated-element" data-animation="fadeIn">
@@ -104,6 +108,7 @@
                 <img src="image/engineer_3.jpg" alt="Pelatihan 3">
             </div>
         </div>
+        <a href="{{ route('dokumentasi.engineer') }}" class="btn btn-primary mt-3">Lihat Semua Dokumentasi ></a>
     </div>
 
 @include('layouts.footer')

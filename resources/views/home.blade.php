@@ -234,7 +234,7 @@
             </div>
         </a>
     
-        <a href="{{ route('jasa.kebersihan') }}" style="text-decoration: none; color: inherit;">
+        <a href="{{ route('dokumentasi.kebersihan') }}" style="text-decoration: none; color: inherit;">
             <div class="container-box animated-element">
                 <div class="list-item">
                     <img src="{{ asset('image/jasa/kebersihan.png') }}" alt="Service Image">

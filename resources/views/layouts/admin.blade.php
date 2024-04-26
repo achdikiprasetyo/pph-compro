@@ -50,6 +50,9 @@
                 <li class="nav-item active">
                     <a class="nav-link" href="{{ route('admin.index') }}">Artikel</a>
                 </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="{{ route('admin.documentation.index') }}">Dokumentasi</a>
+                </li>
                 <!-- Tambahkan item menu lainnya sesuai kebutuhan -->
             </ul>
         </div>

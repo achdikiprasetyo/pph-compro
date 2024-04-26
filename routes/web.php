@@ -25,6 +25,30 @@ use App\Http\Controllers\AuthController;
 //     return view('service');
 // });
 
+//Routes dokomentasi dengan kategori
+// routes/web.php
+
+use App\Http\Controllers\DocumentationController;
+
+Route::get('/documentation', [DocumentationController::class, 'kegiatan'])->name('dokumentasi.kegiatan');
+Route::get('/dokumentasi/{category}', [DocumentationController::class, 'kegiatan'])->name('dokumentasi.filter');
+// routes/web.php
+
+
+
+Route::get('/admin/documentation/create', [DocumentationController::class, 'create'])->name('admin.documentation.create');
+Route::post('/admin/documentation/store', [DocumentationController::class, 'store'])->name('admin.documentation.store');
+
+//Dokumentasi Admin
+Route::get('/admin/documentation', [DocumentationController::class, 'index'])->name('admin.documentation.index');
+Route::delete('/admin/documentation/{id}', [DocumentationController::class, 'destroy'])->name('admin.documentation.delete');
+Route::get('/admin/documentation/{id}/edit', [DocumentationController::class, 'edit'])->name('admin.documentation.edit');
+Route::put('/admin/documentation/{id}', [DocumentationController::class, 'update'])->name('admin.documentation.update');
+
+Route::get('/admin/documentation', [DocumentationController::class, 'index'])->name('admin.documentation.index');
+Route::get('/dokumentasi/kegiatan', [DocumentationController::class, 'kegiatan'])->name('dokumentasi.kegiatan');
+
+
 //ROUTES NAVBAR
 Route::get('/kontak', function () {
     return view('kontak');
@@ -57,6 +81,37 @@ Route::get('/logadmin', function () {
 Route::get('/karir/daftar', function () {
     return view('lamar');
 })->name('lamar');
+
+
+//DOKUMENTASI SETIAP JASA
+Route::get('/dokumentasi/backoffice', function () {
+    return view('dokumentasi.backoffice');
+})->name('dokumentasi.backoffice');
+
+Route::get('/dokumentasi/engineer', function () {
+    return view('dokumentasi.engineer');
+})->name('dokumentasi.engineer');
+
+Route::get('/dokumentasi/keamanan', function () {
+    return view('dokumentasi.keamanan');
+})->name('dokumentasi.keamanan');
+
+Route::get('/dokumentasi/kebersihan', function () {
+    return view('dokumentasi.kebersihan');
+})->name('dokumentasi.kebersihan');
+
+Route::get('/dokumentasi/produksi', function () {
+    return view('dokumentasi.produksi');
+})->name('dokumentasi.produksi');
+
+Route::get('/dokumentasi/sdm', function () {
+    return view('dokumentasi.sdm');
+})->name('dokumentasi.sdm');
+
+Route::get('/dokumentasi/pelatihan', function () {
+    return view('dokumentasi.pelatihan');
+})->name('dokumentasi.pelatihan');
+
 
 
 use App\Http\Controllers\ArtikelController;

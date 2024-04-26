@@ -75,7 +75,7 @@
                         <li class="list-group-item"><a href="{{ route('admin.articles.create') }}" class="btn btn-primary btn-block">Create New Article</a></li>
                         <li class="list-group-item"><a href="{{ route('articles.index') }}" class="btn btn-primary btn-block">Halaman Artikel</a></li>
                         
-                        <!-- Add more quick actions here -->
+                        
                     </ul>
                 </div>
             </div>
