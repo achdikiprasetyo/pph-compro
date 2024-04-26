@@ -30,19 +30,20 @@ class DocumentationController extends Controller
     }
     
     public function kegiatan(Request $request)
-{
-    $category = $request->query('category');
-
-    // Filter dokumentasi berdasarkan kategori (jika kategori ditentukan)
-    if ($category && in_array($category, ['cleaning_service', 'security', 'sdm_training', 'engineering', 'production'])) {
-        $documentations = Documentation::where('category', $category)->get();
-    } else {
-        // Jika kategori tidak ditentukan atau kategori tidak valid, ambil semua dokumentasi
-        $documentations = Documentation::all();
+    {
+        $category = $request->query('category');
+    
+        // Filter dokumentasi berdasarkan kategori (jika kategori ditentukan)
+        if ($category && in_array($category, ['cleaning_service', 'security', 'sdm_training', 'engineering', 'production'])) {
+            $documentations = Documentation::where('category', $category)->get();
+        } else {
+            // Jika kategori tidak ditentukan atau kategori tidak valid, ambil semua dokumentasi
+            $documentations = Documentation::all();
+        }
+    
+        // Kirim variabel kategori ke view
+        return view('dokumentasi.kegiatan', compact('documentations', 'category'));
     }
-
-    return view('dokumentasi.kegiatan', compact('documentations'));
-}
 
 public function edit($id)
 {
