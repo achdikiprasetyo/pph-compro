@@ -95,7 +95,7 @@ public function showAll()
         $request->validate([
             'title' => 'required',
             'image' => 'required|image|mimes:jpeg,png,jpg,gif|max:2048',
-            'category' => 'required|in:cleaning_service,security,sdm_training,engineering,production',
+            'category' => 'required|in:cleaning_service,security,sdm_training,engineering,production,backoffice',
         ]);
     
         $imagePath = $request->file('image')->store('documentation_images', 'public');
@@ -107,6 +107,6 @@ public function showAll()
         $documentation->category = $request->category;
         $documentation->save();
     
-        return redirect()->route('admin.documentation.index')->with('success', 'Foto Dokumentasi telag berhasil di Upload.');
+        return redirect()->route('admin.documentation.index')->with('success', 'Foto Dokumentasi telah berhasil di Upload.');
     }
 }

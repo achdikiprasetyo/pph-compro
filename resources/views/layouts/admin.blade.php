@@ -48,6 +48,9 @@
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item active">
+                    <a class="nav-link" href="{{ route('home') }}">Beranda</a>
+                </li>
+                <li class="nav-item active">
                     <a class="nav-link" href="{{ route('admin.index') }}">Artikel</a>
                 </li>
                 <li class="nav-item active">

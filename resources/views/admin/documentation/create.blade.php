@@ -25,12 +25,13 @@
                 <select name="category" class="form-control" required>
                     <option value="cleaning_service">Cleaning Service</option>
                     <option value="security">Security</option>
-                    <option value="sdm_training">Pelatihan SDM</option>
+                    <option value="sdm_training">Pelatihan Sumber Daya Manusia</option>
                     <option value="engineering">Engineering</option>
                     <option value="production">Tenaga Produksi</option>
+                    <option value="backoffice">Staff Kantor Backoffice</option>
                 </select>
             </div>
-            <button type="submit" class="btn btn-primary">Upload</button>
+            <button type="submit" class="btn btn-primary">Upload Dokumentasi</button>
         </form>
     </div>
 @endsection

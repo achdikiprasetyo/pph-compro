@@ -139,19 +139,22 @@
     <div class="row justify-content-center mb-3">
         <div class="col-md-8 text-center"> <!-- Menambahkan kelas 'text-center' untuk memposisikan judul di tengah -->
             <h1 class="title">Dokumentasi Kegiatan  @if(isset($category))
-                <div class="category-text">Kategori: {{ ucwords(str_replace('_', ' ', $category)) }}</div>
+                {{-- Mengganti kategori teknis menjadi String biasa --}}
+                <div class="category-text">Kategori: {{ ucwords(str_replace('_', ' ', str_replace(['sdm_training', 'production'], ['Pelatihan Sumber Daya Manusia', 'Tenaga Produksi'], $category))) }}</div>
+
             @endif</h1>
            
-            <!-- Button group for categories (using Bootstrap) -->
+            <!-- Tombol Filter -->
             <div class="filter-dropdown mb-3">
                 <!-- Tombol filter pada tampilan desktop -->
                 <div class="d-none d-md-flex"> <!-- Tampilan hanya di desktop -->
-                    <a href="{{ route('dokumentasi.kebersihan') }}" class="btn btn-secondary me-2">All</a>
+                    <a href="{{ route('dokumentasi.kebersihan') }}" class="btn btn-secondary me-2">Semua</a>
                     <a href="{{ route('dokumentasi.kebersihan', ['category' => 'cleaning_service']) }}" class="btn btn-secondary me-2">Cleaning Service</a>
                     <a href="{{ route('dokumentasi.kebersihan', ['category' => 'security']) }}" class="btn btn-secondary me-2">Security</a>
-                    <a href="{{ route('dokumentasi.kebersihan', ['category' => 'sdm_training']) }}" class="btn btn-secondary me-2">SDM Training</a>
+                    <a href="{{ route('dokumentasi.kebersihan', ['category' => 'sdm_training']) }}" class="btn btn-secondary me-2">Pelatihan SDM</a>
                     <a href="{{ route('dokumentasi.kebersihan', ['category' => 'engineering']) }}" class="btn btn-secondary me-2">Engineering</a>
-                    <a href="{{ route('dokumentasi.kebersihan', ['category' => 'production']) }}" class="btn btn-secondary me-2">Production</a>
+                    <a href="{{ route('dokumentasi.kebersihan', ['category' => 'production']) }}" class="btn btn-secondary me-2">Produksi</a>
+                    <a href="{{ route('dokumentasi.kebersihan', ['category' => 'backoffice']) }}" class="btn btn-secondary me-2">Backoffice</a>
                 </div>
                 <!-- Dropdown filter pada tampilan perangkat seluler -->
                 <div class="d-md-none"> <!-- Tampilan hanya di perangkat seluler -->
@@ -159,12 +162,13 @@
                         Filter Kegiatan
                     </button>
                     <div id="filterDropdownContent" class="filter-dropdown-content">
-                        <a href="{{ route('dokumentasi.kegiatan') }}">All</a>
-                        <a href="{{ route('dokumentasi.kegiatan', ['category' => 'cleaning_service']) }}">Cleaning Service</a>
+                        <a href="{{ route('dokumentasi.kegiatan') }}">Semua</a>
+                        <a href="{{ route('dokumentasi.kegiatan', ['category' => 'cleaning_service']) }}">Cleaning Serv ice</a>
                         <a href="{{ route('dokumentasi.kegiatan', ['category' => 'security']) }}">Security</a>
-                        <a href="{{ route('dokumentasi.kegiatan', ['category' => 'sdm_training']) }}">SDM Training</a>
+                        <a href="{{ route('dokumentasi.kegiatan', ['category' => 'sdm_training']) }}">Pelatihan SDM</a>
                         <a href="{{ route('dokumentasi.kegiatan', ['category' => 'engineering']) }}">Engineering</a>
-                        <a href="{{ route('dokumentasi.kegiatan', ['category' => 'production']) }}">Production</a>
+                        <a href="{{ route('dokumentasi.kegiatan', ['category' => 'production']) }}">Produksi</a>
+                        <a href="{{ route('dokumentasi.kegiatan', ['category' => 'backoffice']) }}">Backoffice</a>
                     </div>
                 </div>
             </div>
@@ -182,7 +186,7 @@
                     <div class="card">
                         <div class="square-img-container">
                             <img src="{{ asset('storage/' . $documentation->image_path) }}" alt="{{ $documentation->title }}" class="card-img-top img-fluid">
-                            <div class="overlay"></div> <!-- Overlay for blur effect -->
+                            <div class="overlay"></div> <!-- overlay blur ketika melihat foto -->
                         </div>
                         <div class="card-body">
                             <h5 class="card-title">{{ $documentation->title }}</h5>

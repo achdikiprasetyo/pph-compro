@@ -15,7 +15,7 @@
                     <thead class="thead-dark">
                         <tr>
                             <th>ID</th>
-                            <th>Title</th>
+                            <th>Judul</th>
                             <th>Action</th>
                         </tr>
                     </thead>
@@ -41,14 +41,14 @@
                                             </button>
                                         </div>
                                         <div class="modal-body">
-                                            Are you sure you want to delete this article?
+                                            Apakah kamu yakin ingin menghapus artikel?
                                         </div>
                                         <div class="modal-footer">
                                             <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancel</button>
                                             <form action="{{ route('admin.articles.destroy', $article->id) }}" method="post" class="d-inline">
                                                 @csrf
                                                 @method('DELETE')
-                                                <button type="submit" class="btn btn-danger">Delete</button>
+                                                <button type="submit" class="btn btn-danger">Hapus</button>
                                             </form>
                                         </div>
                                     </div>
@@ -56,7 +56,7 @@
                             </div>
                         @empty
                             <tr>
-                                <td colspan="3" class="text-center text-muted">No articles yet.</td>
+                                <td colspan="3" class="text-center text-muted">Masih belum ada artikel.</td>
                             </tr>
                         @endforelse
                     </tbody>
@@ -68,11 +68,11 @@
         <div class="col-lg-4">
             <div class="card mb-4">
                 <div class="card-header">
-                    <h5 class="card-title">Quick Actions</h5>
+                    <h5 class="card-title">Aksi</h5>
                 </div>
                 <div class="card-body">
                     <ul class="list-group">
-                        <li class="list-group-item"><a href="{{ route('admin.articles.create') }}" class="btn btn-primary btn-block">Create New Article</a></li>
+                        <li class="list-group-item"><a href="{{ route('admin.articles.create') }}" class="btn btn-primary btn-block">Buat Artikel Baru</a></li>
                         <li class="list-group-item"><a href="{{ route('articles.index') }}" class="btn btn-primary btn-block">Halaman Artikel</a></li>
                         
                         

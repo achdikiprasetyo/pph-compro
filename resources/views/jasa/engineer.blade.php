@@ -20,8 +20,7 @@
                     <ul>
                         <li class="animated-element" data-animation="fadeIn">Penyedia Jasa Tenaga Teknisi</li>
                         <li class="animated-element" data-animation="fadeIn">Penyedia Jasa Tenaga Ahli</li>
-                        <li class="animated-element" data-animation="fadeIn">Penyedia Peralatan Teknik</li>
-                        <li class="animated-element" data-animation="fadeIn">Pelatihan Tenaga Teknisi</li>
+                      
                     </ul>
                 </table>
             </div>

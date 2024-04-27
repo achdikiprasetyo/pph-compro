@@ -36,14 +36,7 @@ Route::get('/dokumentasi/{category}', [DocumentationController::class, 'kegiatan
 
 
 
-Route::get('/admin/documentation/create', [DocumentationController::class, 'create'])->name('admin.documentation.create');
-Route::post('/admin/documentation/store', [DocumentationController::class, 'store'])->name('admin.documentation.store');
 
-//Dokumentasi Admin
-Route::get('/admin/documentation', [DocumentationController::class, 'index'])->name('admin.documentation.index');
-Route::delete('/admin/documentation/{id}', [DocumentationController::class, 'destroy'])->name('admin.documentation.delete');
-Route::get('/admin/documentation/{id}/edit', [DocumentationController::class, 'edit'])->name('admin.documentation.edit');
-Route::put('/admin/documentation/{id}', [DocumentationController::class, 'update'])->name('admin.documentation.update');
 
 Route::get('/admin/documentation', [DocumentationController::class, 'index'])->name('admin.documentation.index');
 Route::get('/dokumentasi/kegiatan', [DocumentationController::class, 'kegiatan'])->name('dokumentasi.kegiatan');
@@ -301,4 +294,13 @@ Route::get('articles/{id}/delete', [ArtikelController::class, 'destroy'])->name(
 Route::prefix('/admin/panel')->name('admin.')->group(function () {
     Route::resource('articles', ArtikelController::class);
 });
+
+Route::get('/admin/documentation/create', [DocumentationController::class, 'create'])->name('admin.documentation.create');
+Route::post('/admin/documentation/store', [DocumentationController::class, 'store'])->name('admin.documentation.store');
+
+//Dokumentasi Admin
+Route::get('/admin/documentation', [DocumentationController::class, 'index'])->name('admin.documentation.index');
+Route::delete('/admin/documentation/{id}', [DocumentationController::class, 'destroy'])->name('admin.documentation.delete');
+Route::get('/admin/documentation/{id}/edit', [DocumentationController::class, 'edit'])->name('admin.documentation.edit');
+Route::put('/admin/documentation/{id}', [DocumentationController::class, 'update'])->name('admin.documentation.update');
 });

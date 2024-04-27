@@ -322,6 +322,10 @@
                     <h3>QR Patrol</h3>
                     <img src="{{ asset('image/fasilitas/fasilitasQr.png') }}" alt="QR Guard" class="img-thumbnail img-fluid mx-auto d-block" style="max-height: 500px;">  
                 </div>
+                <div class="col-md-6 animated-element" data-animation="fadeIn">
+                    <h3>QR Checklist</h3>
+                    <img src="{{ asset('image/fasilitas/fasilitasChecklist.png') }}" alt="QR Guard" class="img-thumbnail img-fluid mx-auto d-block" style="max-height: 500px;">  
+                </div>
             </div>
         </div>
         <br><hr><br>

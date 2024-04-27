@@ -66,7 +66,7 @@
     </div>
     {{-- foto qr guard --}}
     <div class="right-container">
-        <img src="{{asset('image/fasilitas/qrPatrol.png')}}" alt="Gambar">
+        <img src="{{asset('image/fasilitas/qrChecklist.png')}}" alt="Gambar">
     </div>
 </div>
 
