@@ -11,7 +11,10 @@
     <h2 class="animated-element" data-animation="fadeIn"><strong>Tentang Kami</strong></h2>
     <div class="row">
       <div class="col-md-6 animated-element" data-animation="fadeIn">
-        <img src="image/logo.png" alt="Foto Direktur Utama" class="img-fluid rounded mb-4">
+        <picture>
+            <source srcset="image/logo.png" media="(min-width: 768px)">
+            <img src="image/logo.png" alt="Foto Direktur Utama" class="img-fluid rounded mb-4">
+        </picture>
       </div>
       <div class="col-md-6 animated-element" data-animation="fadeIn">
         <br>
@@ -63,11 +66,192 @@
 
 <section class="visual-elements">
   <div class="container">
-    <img class="animated-element" data-animation="fadeIn" src="image/background.jpg" alt="Cool Image">
+    <img class="animated-element" data-animation="fadeIn" src="image/pph.jpg" alt="Cool Image">
+  </div>
+</section>
+
+<section class="visi-misi animated-element" data-animation="fadeIn">
+  <div class="container">
+    <h2><strong>Sertifikasi dan Legalitas Kami :</strong></h2>
+    <p>Sebagai perusahaan outsorcing yang terpercaya, kami telah memiliki semua legalitas yang dibutuhkan untuk memberikan layanan yang terbaik untuk client kami. Kami memastikan semua operasional kami telah sesuai dengan regulasi yang berlaku. Kami melakukan hal tersebut karena ingin memberikan kepercayaan penuh untuk client kami bahwa mereka telah memilih partner lerja sama yang profesional dan dapat diandalkan. Berikut adalah legalitas dan Sertifikasi kami : 
+  </div>
+  <div class="container">
+    <ul class="list-unstyled">
+      <li class="animated-element" data-animation="fadeIn">
+        <div class="row">
+          <div class="col-auto">
+            <img src="https://picsum.photos/50" alt="Ijazah Gada Utama" class="img-fluid rounded mr-2" style="width: 50px;">
+          </div>
+          <div class="col">
+            Ijazah Gada Utama
+          </div>
+        </div>
+      </li>
+      <li class="animated-element" data-animation="fadeIn">
+        <div class="row">
+          <div class="col-auto">
+            <img src="https://picsum.photos/50" alt="Sertifikat K3" class="img-fluid rounded mr-2" style="width: 50px;">
+          </div>
+          <div class="col">
+            Sertifikat K3
+          </div>
+        </div>
+      </li>
+      <li class="animated-element" data-animation="fadeIn">
+        <div class="row">
+          <div class="col-auto">
+            <img src="https://picsum.photos/50" alt="Sertifikat CCPS Komisaris" class="img-fluid rounded mr-2" style="width: 50px;">
+          </div>
+          <div class="col">
+            Sertifikat CCPS Komisaris
+          </div>
+        </div>
+      </li>
+      <li class="animated-element" data-animation="fadeIn">
+        <div class="row">
+          <div class="col-auto">
+            <img src="https://picsum.photos/50" alt="Sertifikat POP Komisaris" class="img-fluid rounded mr-2" style="width: 50px;">
+          </div>
+          <div class="col">
+            Sertifikat POP Komisaris
+          </div>
+        </div>
+      </li>
+      <li class="animated-element" data-animation="fadeIn">
+        <div class="row">
+          <div class="col-auto">
+            <img src="https://picsum.photos/50" alt="Sertifikat POP Komisaris" class="img-fluid rounded mr-2" style="width: 50px;">
+          </div>
+          <div class="col">
+            Akte Pendirian
+          </div>
+        </div>
+      </li>
+      <li class="animated-element" data-animation="fadeIn">
+        <div class="row">
+          <div class="col-auto">
+            <img src="https://picsum.photos/50" alt="Sertifikat POP Komisaris" class="img-fluid rounded mr-2" style="width: 50px;">
+          </div>
+          <div class="col">
+        Izin Usaha Perusahaan Penerima Pemborongan Pekerjaan
+          </div>
+        </div>
+      </li>
+      <li class="animated-element" data-animation="fadeIn">
+        <div class="row">
+          <div class="col-auto">
+            <img src="https://picsum.photos/50" alt="Sertifikat POP Komisaris" class="img-fluid rounded mr-2" style="width: 50px;">
+          </div>
+          <div class="col">
+            Surat Keterangan Domisili Usaha
+          </div>
+        </div>
+      </li>
+      <li class="animated-element" data-animation="fadeIn">
+        <div class="row">
+          <div class="col-auto">
+            <img src="https://picsum.photos/50" alt="Sertifikat POP Komisaris" class="img-fluid rounded mr-2" style="width: 50px;">
+          </div>
+          <div class="col">
+            TDP
+          </div>
+        </div>
+      </li>
+      <li class="animated-element" data-animation="fadeIn">
+        <div class="row">
+          <div class="col-auto">
+            <img src="https://picsum.photos/50" alt="Sertifikat POP Komisaris" class="img-fluid rounded mr-2" style="width: 50px;">
+          </div>
+          <div class="col">
+            Pengukuhan Pengusaha Kena Pajak
+          </div>
+        </div>
+      </li>
+      <li class="animated-element" data-animation="fadeIn">
+        <div class="row">
+          <div class="col-auto">
+            <img src="https://picsum.photos/50" alt="Sertifikat POP Komisaris" class="img-fluid rounded mr-2" style="width: 50px;">
+          </div>
+          <div class="col">
+            Surat Izin Operasional Pelatihan Jasa Pelatihan Keamanan
+          </div>
+        </div>
+      </li>
+      <li class="animated-element" data-animation="fadeIn">
+        <div class="row">
+          <div class="col-auto">
+            <img src="https://picsum.photos/50" alt="Sertifikat POP Komisaris" class="img-fluid rounded mr-2" style="width: 50px;">
+          </div>
+          <div class="col">
+            Suart Izin Operasional Mabes Polri
+          </div>
+        </div>
+      </li>
+      <li class="animated-element" data-animation="fadeIn">
+        <div class="row">
+          <div class="col-auto">
+            <img src="https://picsum.photos/50" alt="Sertifikat POP Komisaris" class="img-fluid rounded mr-2" style="width: 50px;">
+          </div>
+          <div class="col">
+            Kepesertaan BPJS Kesehatan
+          </div>
+        </div>
+      </li>
+      <li class="animated-element" data-animation="fadeIn">
+        <div class="row">
+          <div class="col-auto">
+            <img src="https://picsum.photos/50" alt="Sertifikat POP Komisaris" class="img-fluid rounded mr-2" style="width: 50px;">
+          </div>
+          <div class="col">
+            Kepesertaan BPJS Ketenaga Kerjaan
+          </div>
+        </div>
+      </li>
+      <li class="animated-element" data-animation="fadeIn">
+        <div class="row">
+          <div class="col-auto">
+            <img src="https://picsum.photos/50" alt="Sertifikat POP Komisaris" class="img-fluid rounded mr-2" style="width: 50px;">
+          </div>
+          <div class="col">
+            OSS (Online Single Submission)
+          </div>
+        </div>
+      </li>
+      <li class="animated-element" data-animation="fadeIn">
+        <div class="row">
+          <div class="col-auto">
+            <img src="https://picsum.photos/50" alt="Sertifikat POP Komisaris" class="img-fluid rounded mr-2" style="width: 50px;">
+          </div>
+          <div class="col">
+            Asosiasi Badan Usaha Jasa Pengamanan Indonesia
+          </div>
+        </div>
+      </li>
+      <li class="animated-element" data-animation="fadeIn">
+        <div class="row">
+          <div class="col-auto">
+            <img src="https://picsum.photos/50" alt="Sertifikat POP Komisaris" class="img-fluid rounded mr-2" style="width: 50px;">
+          </div>
+          <div class="col">
+            APSI
+          </div>
+        </div>
+      </li>
+      <li class="animated-element" data-animation="fadeIn">
+        <div class="row">
+          <div class="col-auto">
+            <img src="https://picsum.photos/50" alt="Sertifikat POP Komisaris" class="img-fluid rounded mr-2" style="width: 50px;">
+          </div>
+          <div class="col">
+            APKLINDO
+          </div>
+        </div>
+      </li>
+      <!-- Add other list items with images similarly -->
+    </ul>
   </div>
 </section>
 
 @include('layouts.footer')
 
 @endsection
-

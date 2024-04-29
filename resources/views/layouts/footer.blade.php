@@ -109,9 +109,9 @@
       <br>
         Perumahan Serpong Garden 1 Blok Cluster Green River D 9 No.36, Cibogo, Cisauk, Tanggerang Selatan
       </p>
-      <p> <strong>Magelang</strong>
+      <p> <strong>Jawa Tengah</strong>
         <br>
-        Jl. Kayupuring, Banyusari, Grabag, Magelang, Jawa Tengah, 56196
+        Perum Cluster Nirwana Blok B.8 Jl. Tanjung Koro RT 01 RW 07 , Cinderejo, Kec Tingkir Lor, Kabupaten Salatiga, Jawa Tengah 
       </p>
     </div>
 
