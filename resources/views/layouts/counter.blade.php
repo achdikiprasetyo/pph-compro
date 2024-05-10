@@ -21,8 +21,8 @@
     .img-fluidd {
         max-width: 70%;
         height: auto;
-        display: block; /* Hindari margin tambahan pada elemen gambar */
-        margin: 0 auto; /* Pusatkan gambar di dalam kontainer */
+        display: block; 
+        margin: 0 auto;
     }
 
     .stats-container {

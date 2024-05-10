@@ -61,6 +61,7 @@
     </style>
 </head>
 <body>
+
     <!-- Tombol WhatsApp -->
   <div id="whatsapp-button">
     <img src="{{asset('image/whatsapp.png')}}" alt="WhatsApp Icon">
@@ -76,8 +77,6 @@
   </div>
 </body>
 <script>
-    // JavaScript lainnya tetap ada di sini
-
 document.getElementById('whatsapp-button').addEventListener('click', function() {
     document.getElementById('whatsapp-popup').style.display = 'block';
   });

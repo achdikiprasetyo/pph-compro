@@ -50,7 +50,7 @@
 
       .penawaran {
          position: relative;
-         background-image: url({{ asset('image/tawar.png') }});
+         background-image: url({{ asset('image/tawar.jpg') }});
          background-size: cover;
          background-position: center;
          padding-bottom:450px;
@@ -62,7 +62,7 @@
       /* Tambahkan gaya untuk bagian bawah navbar */
       .bottom-section {
          position: relative;
-         background-image: url({{ asset('image/slider/1.png') }});
+         background-image: url({{ asset('image/slider/1.jpg') }});
          background-size: cover;
          background-position: center;
          padding-bottom:450px;
@@ -73,7 +73,7 @@
 
       .bottom-section-2 {
          position: relative;
-         background-image: url({{ asset('image/slider/2.png') }});
+         background-image: url({{ asset('image/slider/2.jpg') }});
          background-size: cover;
          background-position: center;
          padding-bottom:450px;
@@ -84,7 +84,7 @@
 
       .bottom-section-3 {
          position: relative;
-         background-image: url({{ asset('image/slider/3.png') }});
+         background-image: url({{ asset('image/slider/3.jpg') }});
          background-size: cover;
          background-position: center;
          padding-bottom:450px;
@@ -95,7 +95,7 @@
 
       .bottom-section-4 {
          position: relative;
-         background-image: url({{ asset('image/slider/5.png') }});
+         background-image: url({{ asset('image/slider/5.jpg') }});
          background-size: cover;
          background-position: center;
          padding-bottom:450px;
@@ -111,13 +111,13 @@
       }
 
       .logo-wrapper img {
-         margin-right: 10px; /* Sesuaikan margin sesuai kebutuhan */
+         margin-right: 10px; 
       }
 
 
       .bottom-section-5 {
          position: relative;
-         background-image: url({{ asset('image/slider/5.png') }});
+         background-image: url({{ asset('image/slider/5.jpg') }});
          background-size: cover;
          background-position: center;
          padding-bottom:450px;

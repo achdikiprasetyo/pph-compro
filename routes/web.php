@@ -219,6 +219,10 @@ Route::get('/jasa/backoffice/sales', function () {
     return view('jasa-backoffice.sales');
 })->name('jasa-backoffice.sales');
 
+Route::get('/jasa/backoffice/perawatan-kolam', function () {
+    return view('jasa-backoffice.perawatanKolam');
+})->name('jasa-backoffice.perawatanKolam');
+
 
 //Jasa Yang yang ditawarkan PT. PANCA PILAR HUTAMA
 Route::get('/jasa/keamanan', function () {

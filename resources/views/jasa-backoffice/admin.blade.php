@@ -21,7 +21,7 @@
     </div>
 </div>
     <div class="right-container animated-element">
-        <img src="{{asset('image/backoffice/tenagaAdmin.png')}}" alt="Gambar">
+        <img src="{{asset('image/backoffice/tenagaAdmin.jpg')}}" alt="Gambar">
     </div>
 </div>
 

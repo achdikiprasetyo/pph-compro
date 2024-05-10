@@ -107,10 +107,6 @@
 
     </div>
     <br><br>
-    <!-- Tombol WhatsApp -->
-
-    <!-- your existing JavaScript imports -->
-
 
     <script>
         // your existing JavaScript code
