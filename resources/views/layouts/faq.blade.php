@@ -103,14 +103,13 @@
         <div id="faq1" class="faq-answer collapse">
             <p>Untuk melamar di PPH, anda harus mendaftar terlebih dahulu melalui form, kemudian jika lolos administrasi anda akan di hubungi untuk lanjut ke proses interview</p>
         </div>
-        <!-- Add more FAQ items similarly -->
+       
 
     </div>
     <br><br>
 
     <script>
-        // your existing JavaScript code
-        
+
         // FAQ Animation
         document.querySelectorAll('.faq-question').forEach(function (question) {
             question.addEventListener('click', function () {
