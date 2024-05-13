@@ -9,9 +9,14 @@
         <div class="left-container">
             <h1 class="title">Jasa Tenaga Produksi</h1>
             <p class="description">
-                Jika perusahaan Anda membutuhkan pasokan tenaga produksi yang handal dan efisien, kami siap menyediakan jasa tenaga produksi yang berkualitas tinggi dan terpercaya. Dengan tim yang terlatih dan berpengalaman, kami akan menjadi mitra yang dapat diandalkan untuk memenuhi kebutuhan produksi perusahaan Anda.
+                Dalam mencapai target produksi yang telah ditentukan maka diperlukan adanya tenaga kerja produksi yang terampil dan terlatih untuk mengoperasikan mesin produksi supaya menghasilkan produk yang baik dan berkualitas.
+
+PT. Panca Pilar Hutama telah memiliki tenaga produksi berpengalaman adapun jasa kami yang dapat kami sediakan adalah sebagai berikut :
+
             <p class="description">
-                Kami memastikan setiap tenaga produksi yang kami sediakan telah melewati seleksi ketat dan telah memiliki keterampilan yang sesuai dengan kebutuhan perusahaan Anda. Kolaborasi dengan kami bukan hanya tentang memperoleh tenaga kerja, tetapi juga tentang mendapatkan solusi yang tepat untuk meningkatkan efisiensi dan produktivitas dalam operasi produksi Anda.
+                <li>Jasa Tenaga Produksi</li>
+                <li>Jasa Tenaga Pengawas Produksi</li>
+                <li>Pengawasan Mesin dan Alat Produksi</li>
         </div>
         <div class="right-container">
             <img src="{{asset('image/jasa/produksiLandscape.png')}}" alt="Gambar">
