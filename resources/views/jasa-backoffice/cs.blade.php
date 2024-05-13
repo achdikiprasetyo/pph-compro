@@ -21,7 +21,7 @@
     </div>
 </div>
     <div class="right-container animated-element">
-        <img src="{{asset('image/backoffice/callCenter.jpg')}}" alt="Gambar">
+        <img src="{{asset('image/backoffice/cs.jpg')}}" alt="Gambar">
     </div>
 </div>
 
