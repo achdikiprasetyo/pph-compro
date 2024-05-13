@@ -102,7 +102,7 @@
         <a href="{{ route('jasa-backoffice.cs') }}" style="text-decoration: none; color: inherit;">
             <div class="container-box animated-element">
                 <div class="list-item">
-                    <img src="{{ asset('image/backoffice/4.jpg') }}" alt="Service Image">
+                    <img src="{{ asset('image/backoffice/6.jpg') }}" alt="Service Image">
                     <a href="{{ route('jasa-backoffice.cs') }}" class="read-more-button">Baca Selengkapnya</a>
                     <div class="text-content">
                         <div class="service-title">Customer Service</div>
