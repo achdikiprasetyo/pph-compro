@@ -1,6 +1,4 @@
-<!-- resources/views/admin/documentation/edit.blade.php -->
-
-@extends('layouts.admin') <!-- Sesuaikan dengan layout admin yang Anda gunakan -->
+@extends('layouts.admin')
 
 @section('content')
     <div class="container">

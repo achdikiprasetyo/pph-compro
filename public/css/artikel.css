@@ -1,0 +1,35 @@
+
+
+
+
+        .container {
+            margin-top: 20px; /* Margin atas untuk memberikan ruang dari navigasi Bootstrap */
+        }
+
+        h1 {
+            color: #007bff; /* Warna teks judul */
+        }
+
+        .image {
+            max-width: 100%; /* Gambar tidak melebihi lebar kontainer */
+            height: auto; /* Mempertahankan aspek rasio gambar */
+            border-radius: 8px; /* Sudut membulat pada gambar */
+            margin-bottom: 20px; /* Margin bawah pada gambar */
+        }
+
+        p {
+            margin-bottom: 20px; /* Margin bawah pada paragraf */
+        }
+
+        .article-date {
+            font-style: italic; /* Tulisan miring pada tanggal */
+            color: #6c757d; /* Warna teks tanggal */
+        }
+
+        a {
+            color: #007bff; /* Warna teks link */
+        }
+
+        a:hover {
+            text-decoration: underline; /* Garis bawah pada link ketika dihover */
+        }

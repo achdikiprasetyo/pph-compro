@@ -1,4 +1,4 @@
-@extends('layouts.admin') <!-- Sesuaikan dengan layout admin yang Anda gunakan -->
+@extends('layouts.admin') 
 
 @section('content')
 @if(session('success'))
@@ -11,7 +11,7 @@
         
         <a href="{{ route('admin.documentation.create') }}" class="btn btn-primary mb-3">Tambah Dokumentasi</a>
         
-        <div class="table-responsive"> <!-- Membuat tabel responsif -->
+        <div class="table-responsive">
             <table class="table">
                 <thead>
                     <tr>
