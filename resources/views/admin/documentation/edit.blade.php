@@ -24,6 +24,7 @@
                     <option value="sdm_training" {{ $documentation->category === 'sdm_training' ? 'selected' : '' }}>Pelatihan SDM</option>
                     <option value="engineering" {{ $documentation->category === 'engineering' ? 'selected' : '' }}>Engineering</option>
                     <option value="production" {{ $documentation->category === 'production' ? 'selected' : '' }}>Tenaga Produksi</option>
+                    <option value="backoffice" {{ $documentation->category === 'backoffice' ? 'selected' : '' }}>Backoffice</option>
                 </select>
             </div>
             <button type="submit" class="btn btn-primary">Update</button>

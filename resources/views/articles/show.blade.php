@@ -1,6 +1,5 @@
 @extends('layouts.navbar')
 
-
 @section('page-css')
     <link rel="stylesheet" href="{{ asset('css/artikel.css') }}">
 @endsection
