@@ -45,7 +45,7 @@
     <a href="{{ route('jasa-kebersihan.regularCleaning') }}" style="text-decoration: none; color: inherit;">
         <div class="container-box animated-element" data-animation="fadeIn">
             <div class="list-item">
-                <img src="{{ asset('image/kebersihan/regular.png') }}" alt="Service Image">
+                <img src="{{ asset('image/kebersihan/regular.jpg') }}" alt="Service Image">
                 <a href="{{ route('jasa-kebersihan.regularCleaning') }}" class="read-more-button">Baca Selengkapnya</a>
                 <div class="text-content">
                     <div class="service-title">Regular Cleaning</div>
@@ -57,7 +57,7 @@
     <a href="{{ route('jasa-kebersihan.generalCleaning') }}" style="text-decoration: none; color: inherit;">
         <div class="container-box animated-element" data-animation="fadeIn">
             <div class="list-item">
-                <img src="{{ asset('image/kebersihan/general.png') }}" alt="Service Image">
+                <img src="{{ asset('image/kebersihan/general.jpg') }}" alt="Service Image">
                 <a href="{{ route('jasa-kebersihan.generalCleaning') }}" class="read-more-button">Baca Selengkapnya</a>
                 <div class="text-content">
                     <div class="service-title">General Cleaning</div>
@@ -69,7 +69,7 @@
     <a href="{{ route('jasa-kebersihan.externalCleaning') }}" style="text-decoration: none; color: inherit;">
         <div class="container-box animated-element" data-animation="fadeIn">
             <div class="list-item">
-                <img src="{{ asset('image/kebersihan/facade.png') }}" alt="Service Image">
+                <img src="{{ asset('image/kebersihan/facade.jpg') }}" alt="Service Image">
                 <a href="{{ route('jasa-kebersihan.externalCleaning') }}" class="read-more-button">Baca Selengkapnya</a>
                 <div class="text-content">
                     <div class="service-title">External / Fade Cleaning</div>

@@ -123,7 +123,7 @@
       <a href="{{route('kontak')}}">Kontak</a>
       <a href="{{route('fasilitas')}}">Fasilitas</a>
       <a href="{{route('karir')}}">Karir</a>
-      <a href="{{route('dokumentasi')}}">Dokumentasi</a>
+      <a href="{{route('dokumentasi.kegiatan')}}">Dokumentasi</a>
     </div>
 
     <div class="footer-section hubungi-kami">

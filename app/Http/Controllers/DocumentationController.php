@@ -34,7 +34,7 @@ class DocumentationController extends Controller
         $category = $request->query('category');
     
         // Filter dokumentasi berdasarkan kategori (jika kategori ditentukan)
-        if ($category && in_array($category, ['cleaning_service', 'security', 'sdm_training', 'engineering', 'production'])) {
+        if ($category && in_array($category, ['cleaning_service', 'security', 'sdm_training', 'engineering', 'production','backoffice'])) {
             $documentations = Documentation::where('category', $category)->get();
         } else {
             // Jika kategori tidak ditentukan atau kategori tidak valid, ambil semua dokumentasi

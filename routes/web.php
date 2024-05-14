@@ -1,7 +1,6 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\SosialMediaController;
 use App\Http\Controllers\AuthController;
 
 
@@ -47,9 +46,6 @@ Route::get('/kontak', function () {
     return view('kontak');
 })->name('kontak');
 
-Route::get('/dokumentasi', function () {
-    return view('dokumentasi');
-})->name('dokumentasi');
 
 Route::get('/tentang-kami', function () {
     return view('about');
@@ -76,34 +72,7 @@ Route::get('/karir/daftar', function () {
 })->name('lamar');
 
 
-//DOKUMENTASI SETIAP JASA
-Route::get('/dokumentasi/backoffice', function () {
-    return view('dokumentasi.backoffice');
-})->name('dokumentasi.backoffice');
 
-Route::get('/dokumentasi/engineer', function () {
-    return view('dokumentasi.engineer');
-})->name('dokumentasi.engineer');
-
-Route::get('/dokumentasi/keamanan', function () {
-    return view('dokumentasi.keamanan');
-})->name('dokumentasi.keamanan');
-
-Route::get('/dokumentasi/kebersihan', function () {
-    return view('dokumentasi.kebersihan');
-})->name('dokumentasi.kebersihan');
-
-Route::get('/dokumentasi/produksi', function () {
-    return view('dokumentasi.produksi');
-})->name('dokumentasi.produksi');
-
-Route::get('/dokumentasi/sdm', function () {
-    return view('dokumentasi.sdm');
-})->name('dokumentasi.sdm');
-
-Route::get('/dokumentasi/pelatihan', function () {
-    return view('dokumentasi.pelatihan');
-})->name('dokumentasi.pelatihan');
 
 
 

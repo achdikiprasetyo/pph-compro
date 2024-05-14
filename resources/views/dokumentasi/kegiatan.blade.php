@@ -148,13 +148,13 @@
             <div class="filter-dropdown mb-3">
                 <!-- Tombol filter pada tampilan desktop -->
                 <div class="d-none d-md-flex"> <!-- Tampilan hanya di desktop -->
-                    <a href="{{ route('dokumentasi.kebersihan') }}" class="btn btn-secondary me-2">Semua</a>
-                    <a href="{{ route('dokumentasi.kebersihan', ['category' => 'cleaning_service']) }}" class="btn btn-secondary me-2">Cleaning Service</a>
-                    <a href="{{ route('dokumentasi.kebersihan', ['category' => 'security']) }}" class="btn btn-secondary me-2">Security</a>
-                    <a href="{{ route('dokumentasi.kebersihan', ['category' => 'sdm_training']) }}" class="btn btn-secondary me-2">Pelatihan SDM</a>
-                    <a href="{{ route('dokumentasi.kebersihan', ['category' => 'engineering']) }}" class="btn btn-secondary me-2">Engineering</a>
-                    <a href="{{ route('dokumentasi.kebersihan', ['category' => 'production']) }}" class="btn btn-secondary me-2">Produksi</a>
-                    <a href="{{ route('dokumentasi.kebersihan', ['category' => 'backoffice']) }}" class="btn btn-secondary me-2">Backoffice</a>
+                    <a href="{{ route('dokumentasi.kegiatan') }}" class="btn btn-secondary me-2">Semua</a>
+                    <a href="{{ route('dokumentasi.kegiatan', ['category' => 'cleaning_service']) }}" class="btn btn-secondary me-2">Cleaning Service</a>
+                    <a href="{{ route('dokumentasi.kegiatan', ['category' => 'security']) }}" class="btn btn-secondary me-2">Security</a>
+                    <a href="{{ route('dokumentasi.kegiatan', ['category' => 'sdm_training']) }}" class="btn btn-secondary me-2">Pelatihan SDM</a>
+                    <a href="{{ route('dokumentasi.kegiatan', ['category' => 'engineering']) }}" class="btn btn-secondary me-2">Engineering</a>
+                    <a href="{{ route('dokumentasi.kegiatan', ['category' => 'production']) }}" class="btn btn-secondary me-2">Produksi</a>
+                    <a href="{{ route('dokumentasi.kegiatan', ['category' => 'backoffice']) }}" class="btn btn-secondary me-2">Engineering</a>
                 </div>
                 <!-- Dropdown filter pada tampilan perangkat seluler -->
                 <div class="d-md-none"> <!-- Tampilan hanya di perangkat seluler -->
@@ -168,7 +168,7 @@
                         <a href="{{ route('dokumentasi.kegiatan', ['category' => 'sdm_training']) }}">Pelatihan SDM</a>
                         <a href="{{ route('dokumentasi.kegiatan', ['category' => 'engineering']) }}">Engineering</a>
                         <a href="{{ route('dokumentasi.kegiatan', ['category' => 'production']) }}">Produksi</a>
-                        <a href="{{ route('dokumentasi.kegiatan', ['category' => 'backoffice']) }}">Backoffice</a>
+                        <a href="{{ route('dokumentasi.kegiatan', ['category' => 'backoffice']) }}">Backffice</a>
                     </div>
                 </div>
             </div>
