@@ -11,9 +11,9 @@
         <div class="row animated-element" data-animation="fadeIn">
             <div class="col-md-12">
             <p class="description">
-                Jasa Kebersihan kami memberikan solusi profesional untuk membersihkan dan merawat kebersihan
-                lingkungan Anda. Dengan tim terlatih dan peralatan modern, kami siap membantu menjaga kebersihan
-                tempat Anda.
+                Jasa Kebersihan / Cleaning Service yang disediakan oleh PT. Panca Pilar Hutama merupakan sebuah solusi profesional untuk membersihkan dan merawat kebersihan
+                di lingkungan perusahaan Anda. Dengan tim yang terlatih dan peralatan yang sesuai, tim Cleaning Service kami siap membantu menjaga kebersihan
+                di lingkungan perusahaan Anda.
             </p>
             <p class="description">
                 Layanan jasa kebersihan kami mencakup mulai dari Hotel, Mall, Gedung Perkantoran, Perumahan, atau gedung yang masih dalam tahap pembangunan ataupun sudah dalam kondisi opsional yang perlu perhatian khusus, terutama dalam bidang kebersihan agar tercipta sebuah kondisi properti yang bersih dan terawat.

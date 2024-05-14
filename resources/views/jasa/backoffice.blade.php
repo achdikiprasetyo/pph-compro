@@ -14,7 +14,7 @@
                     Layanan Backoffice yang disediakan oleh perusahaan kami akan berusaha untuk mendukung keberhasilan diperusahaan anda untuk mencapai target yang telah ditentukan. Maka dari itulah diperlukan beberapa tenaga supporting yang dapat membantu proses Pencapaian target Perusahaan.
                 </p>
                 <p class="description">
-                    PT. Panca Pilar Hutama menyediakan tenaga yang terampil untuk membantu dalam pencapaian pekerjaan di masing-masing bidang, adapun pelayanan pendukung yang dapat kami berikat yakni :
+                    PT. Panca Pilar Hutama menyediakan tenaga yang terampil untuk membantu dalam pencapaian pekerjaan di masing-masing bidang, adapun pelayanan pendukung yang dapat kami berikan yakni :
                 </p>
                 <table>
                     <ul>

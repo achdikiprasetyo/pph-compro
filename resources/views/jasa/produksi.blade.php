@@ -11,7 +11,7 @@
             <p class="description">
                 Dalam mencapai target produksi yang telah ditentukan maka diperlukan adanya tenaga kerja produksi yang terampil dan terlatih untuk mengoperasikan mesin produksi supaya menghasilkan produk yang baik dan berkualitas.
 
-PT. Panca Pilar Hutama telah memiliki tenaga produksi berpengalaman. Adapun jasa yang dapat kami sediakan sebagai berikut :
+                PT. Panca Pilar Hutama telah memiliki tenaga produksi berpengalaman. Adapun jasa yang dapat kami sediakan sebagai berikut :
 
             <p class="description">
                 <li>Jasa Tenaga Produksi</li>
