@@ -15,7 +15,7 @@
                 Perusahaan kami memiliki tim teknisi yang mahir dalam bidangnya dan memiliki semangat penuh untuk menyelesaikan setiap tantangan teknis yang ada diperusahaan anda. Dengan berkerja sama dengan kami, anda akan mendapatkan penyelesaian masalah teknis secara cepat dan efisien.
             </p>
             <p class="description">
-                Selain menjadi penyedia Tenaga Ahli perusahaan kami juga siap membantu perkembangan perusahaan anda agar bisa berjalan dengan lancar. Dengan menggunakan tenaga ahli dari perusahaan kami, anda akan berinvestasi pada keandalan dan kinerja yang optimal dari tenaga ahli kami.
+                Selain menjadi penyedia Tenaga Ahli Teknisi, perusahaan kami juga siap membantu perkembangan perusahaan anda agar bisa berjalan dengan lancar. Dengan menggunakan tenaga ahli dari perusahaan kami, anda akan berinvestasi pada keandalan dan kinerja yang optimal dari tenaga ahli teknisi kami.
         </div>
     </div>
 </div>
@@ -24,5 +24,5 @@
     </div>
 </div>
 
-@include('layout.footer')
+@include('layouts.footer')
 @endsection
