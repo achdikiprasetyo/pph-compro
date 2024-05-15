@@ -83,7 +83,7 @@
     <a href="{{ route('jasa-kebersihan.penyediaPeralatanKebersihan') }}" style="text-decoration: none; color: inherit;">
         <div class="container-box animated-element" data-animation="fadeIn">
             <div class="list-item">
-                <img src="{{ asset('image/kebersihan/penyedia.png') }}" alt="Service Image">
+                <img src="{{ asset('image/kebersihan/peralatanKebersihan.jpg') }}" alt="Service Image">
                 <a href="{{ route('jasa-kebersihan.penyediaPeralatanKebersihan') }}" class="read-more-button">Baca Selengkapnya</a>
                 <div class="text-content">
                     <div class="service-title">Penyedia Peralatan Kebersihan</div>

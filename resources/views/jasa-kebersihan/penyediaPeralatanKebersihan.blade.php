@@ -20,7 +20,7 @@
     </div>
 </div>
     <div class="right-container animated-element">
-        <img src="{{asset('image/kebersihan/isiPenyedia.jpg')}}" alt="Gambar">
+        <img src="{{asset('image/kebersihan/isiPeralatanKebersihan.jpg')}}" alt="Gambar">
     </div>
 </div>
 
