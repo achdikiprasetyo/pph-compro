@@ -7,7 +7,7 @@
 <div class="container mt-5">
     <h2 class="text-center mb-5 animated-element"><strong>Daftar Klien yang menggunakan Layanan Kami</strong></h2>
     <div class="row">
-        <!-- Left Column -->
+        <!-- Bagian Kiri -->
         <div class="col-md-6">
             <h4 class="animated-element"><strong>Jasa Keamanan</strong></h4>
             <ul class="animated-element">
@@ -72,7 +72,7 @@
             </ul>
         </div>
         
-        <!-- Right Column -->
+        <!-- Bagian Kanan -->
         <div class="col-md-6">
             <h4 class="animated-element"><strong>Tenaga Cleaning Service</strong></h4>
             <ul class="animated-element">
