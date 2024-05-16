@@ -8,6 +8,60 @@
     <h2 class="text-center mb-5"><strong>Daftar Klien Kami</strong></h2>
     <div class="row">
         <div class="col-md-12">
+            <h4><strong>Jasa Keamanan</strong></h4>
+            <ul>
+                <li>Politeknik Perkapalan Negeri Surabaya</li>
+                <li>CV. Surya Kencana Food, Jombang</li>
+                <li>PT. Bhinkarya Santosa (Cyber Mall), Malang</li>
+                <li>CV. Angkutan Saudara</li>
+                <li>Inul Vizta Family KTV, Sidoarjo</li>
+                <li>Apartement Taman Sari Prospero, Sidoarjo</li>
+                <li>PT. Sinar Mkmur Komoditas, Jombang</li>
+                <li>CV. Greensmart Kebaron, Surabaya</li>
+                <li>PT. Indopherin Jaya, Probolinggo</li>
+                <li>CV. Greensmart Heavenland, Sidoarjo</li>
+                <li>PT. Bumen Redja Abadi, Sidoarjo</li>
+                <li>Aston Hotel Sidoarjo</li>
+                <li>PT. Daun Emas Nusantara, Sidoarjo</li>
+                <li>PT. Benteng Api Technic, Surabaya</li>
+                <li>Rumah Sakit Delta Surya, Sidoarjo</li>
+                <li>Hotel Horison, Surabaya</li>
+                <li>PT. Pamitra Jaya Konstruksi, Surabaya</li>
+                <li>PT. Bumen Redja Abadi, Bali</li>
+                <li>PT. Sinko Prima Alloy, Surabaya</li>
+                <li>PT. Umbra Prasia, Sidoarjo</li>
+                <li>PT. Aksara Grafika, Surabaya</li>
+                <li>PT. FKS Multi Agro, Surabaya</li>
+                <li>PT. Multisari Indoprima, Surabaya</li>
+                <li>PT. Driyorejo Kencana Permai, Gresik</li>
+                <li>CV. Inaya Lesy</li>
+                <li>PT. Prima Citra Nutrindo</li>
+                <li>PT. Global Jet Cargo, Madiun dan Kediri</li>
+                <li>CV. Greensmart Tandes, Surabaya</li>
+                <li>PT. Lookman Djaja, Surabaya</li>
+                <li>Aspen Warehouse, Surabaya</li>
+                <li>PT. FKS Multi Agro, Lampung</li>
+                <li>PT. Dwi Jaya Selamat Mandiri</li>
+                <li>CV. Greensmart La Fest, Sidoarjo</li>
+                <li>CV. Greensmart Natura, Sidparjo</li>
+                <li>Kantor Sekretariat PPPK Petra, Surabaya</li>
+                <li>SMK Kr. Petra, Surbaya</li>
+                <li>SMP Kr. Petra 2, Surabaya</li>
+                <li>SMP Kr. Petra 4, Sidoarjo</li>
+                <li>SMP Kr. Petra 5, Sidoarjo</li>
+                <li>TK, SD Kr. Petra 7 dan SMA Kr. Petra 3, Surabaya</li>
+                <li>TK. Petra 9, Surabaya</li>
+                <li>SD Kr. Petra 10, Surabaya</li>
+                <li>SD Kr. Petra 11, Surabaya</li>
+                <li>SD Kr. Petra 12, Sidoarjo</li>
+                <li>Hotel Neo Gubung, Surabaya</li>
+                <li>Hotel The Alana Malang 46</li>
+                <li>Resto DK 26, Malang 47</li>
+                <li>Perumahan Palm Spring, Surbaya</li>
+                <li>Balai Besar Kekarantinaan Kesehatan, Surabaya</li>
+                <li>Balai Kekarantinaan Kesehatan Kelas 1, Probolinggo</li>
+                <li>PT. Kingdom</li>
+            </ul>
             <h4><strong>Tenaga Cleaning Service</strong></h4>
             <ul>
                 <li>LIPPO BATU</li>
@@ -43,8 +97,9 @@
                 <li>BALAI BESAR KEKARANTINAAN KESEHATAN, SURABAYA</li>
                 <li>BALAI KEKARANTINAAN KESEHATAN KELAS 1, PROBOLINGGO</li>
                 <li>Avenue 88 Appartement, Surabaya</li>
+                <li>UZ Pizza, Surabaya</li>
             </ul>
-            <h4>Tenaga Kerja Harian Lepas</h4>
+            <h4><strong>Tenaga Kerja Harian Lepas</strong></h4>
             <ul>
                 <li>PT. Hastama Jaya Mandiri, Surabaya</li>
                 <li>PT. Benteng Api Technic, Surabaya</li>
@@ -53,7 +108,7 @@
                 <li>PT. Hoka Jaya Internasional, Sidoarjo</li>
                 <li>PT. Duta Mas, Pasuruan</li>
             </ul>
-            <h4>Tenaga Kerja Staff</h4>
+            <h4><strong>Tenaga Kerja Staff</strong></h4>
             <ul>
                 <li>PT. Avila Prima Intra Makmur, Banyuwangi</li>
                 <li>PT. Avila Prima Intra Makmur, Surabaya</li>
@@ -98,25 +153,7 @@
                 <li>PT. Tae Kwang MeTeech, Mojokerto</li>
             </ul>
 
-            <h4><strong>Jasa Kebersihan</strong></h4>
-            <ul>
-                <li>Politeknik Perkapalan Negeri Surabaya</li>
-                <li>CV. Surya Kencana Food, Jombang</li>
-                <li>PT. Bhinkarya Santosa (Cyber Mall), Malang</li>
-                <li>CV. Angkutan Saudara</li>
-                <li>Inul Vizta Family KTV, Sidoarjo</li>
-                <li>Apartement Taman Sari Prospero, Sidoarjo</li>
-                <li>PT. Sinar Mkmur Komoditas, Jombang</li>
-                <li>CV. Greensmart Kebaron, Surabaya</li>
-                <li>PT. Indopherin Jaya, Probolinggo</li>
-                <li>CV. Greensmart Heavenland, Sidoarjo</li>
-                <li>PT. Bumen Redja Abadi, Sidoarjo</li>
-                <li>Aston Hotel Sidoarjo</li>
-                <li>PT. Daun Emas Nusantara, Sidoarjo</li>
-                <li>PT. Benteng Api Technic, Surabaya</li>
-                <li>Rumah Sakit Delta Surya, Sidoarjo</li>
-                <li>Hotel Horison, Surabaya</li>
-            </ul>
+            
         </div>
     </div>
 </div>
