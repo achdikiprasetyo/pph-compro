@@ -71,6 +71,10 @@ Route::get('/karir/daftar', function () {
     return view('lamar');
 })->name('lamar');
 
+Route::get('/client/list', function () {
+    return view('client.list');
+})->name('client.list');
+
 
 
 
