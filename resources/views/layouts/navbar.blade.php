@@ -62,7 +62,7 @@
       /* Tambahkan gaya untuk bagian bawah navbar */
       .bottom-section {
          position: relative;
-         background-image: url({{ asset('image/slider/1.jpg') }});
+         background-image: url({{ asset('image/slider/slider1.jpg') }});
          background-size: cover;
          background-position: center;
          padding-bottom:450px;
@@ -73,7 +73,7 @@
 
       .bottom-section-2 {
          position: relative;
-         background-image: url({{ asset('image/slider/2.jpg') }});
+         background-image: url({{ asset('image/slider/slider2.jpg') }});
          background-size: cover;
          background-position: center;
          padding-bottom:450px;
@@ -84,7 +84,7 @@
 
       .bottom-section-3 {
          position: relative;
-         background-image: url({{ asset('image/slider/3.jpg') }});
+         background-image: url({{ asset('image/slider/slider3.jpg') }});
          background-size: cover;
          background-position: center;
          padding-bottom:450px;
@@ -95,7 +95,7 @@
 
       .bottom-section-4 {
          position: relative;
-         background-image: url({{ asset('image/slider/5.jpg') }});
+         background-image: url({{ asset('image/slider/slider5.jpg') }});
          background-size: cover;
          background-position: center;
          padding-bottom:450px;
