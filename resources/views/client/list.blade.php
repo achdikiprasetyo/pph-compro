@@ -7,7 +7,8 @@
 <div class="container mt-5">
     <h2 class="text-center mb-5"><strong>Daftar Klien Kami</strong></h2>
     <div class="row">
-        <div class="col-md-12">
+        <!-- Left Column -->
+        <div class="col-md-6">
             <h4><strong>Jasa Keamanan</strong></h4>
             <ul>
                 <li>Politeknik Perkapalan Negeri Surabaya</li>
@@ -62,6 +63,20 @@
                 <li>Balai Kekarantinaan Kesehatan Kelas 1, Probolinggo</li>
                 <li>PT. Kingdom</li>
             </ul>
+            <h4><strong>Tenaga Kerja Produksi</strong></h4>
+            <ul>
+                <li>Raja Kerupuk Sidoarjo</li>
+                <li>PT. Ultra Prima Abadi (Orang Tua Group)</li>
+                <li>PT. Sinko Prima Alloy, Surabaya</li>
+                <li>PT. Global Jet Cargo</li>
+                <li>PT. Utomo Print Sukses</li>
+                <li>PT. Dwi Jaya Selamat Mandiri</li>
+                <li>PT. Tae Kwang MeTeech, Mojokerto</li>
+            </ul>
+        </div>
+        
+        <!-- Right Column -->
+        <div class="col-md-6">
             <h4><strong>Tenaga Cleaning Service</strong></h4>
             <ul>
                 <li>LIPPO BATU</li>
@@ -142,17 +157,6 @@
                 <li>PT. Dwi Jaya Selamat Mandiri</li>
             </ul>
             
-            <h4><strong>Tenaga Kerja Produksi</strong></h4>
-            <ul>
-                <li>Raja Kerupuk Sidoarjo</li>
-                <li>PT. Ultra Prima Abadi (Orang Tua Group)</li>
-                <li>PT. Sinko Prima Alloy, Surabaya</li>
-                <li>PT. Global Jet Cargo</li>
-                <li>PT. Utomo Print Sukses</li>
-                <li>PT. Dwi Jaya Selamat Mandiri</li>
-                <li>PT. Tae Kwang MeTeech, Mojokerto</li>
-            </ul>
-
             
         </div>
     </div>
