@@ -37,11 +37,11 @@
 
     document.addEventListener('DOMContentLoaded', function () {
         const satisfactionPercentage = 98;
-        const totalClients = 53;
+        const totalClients = 57;
         const totalExperts = 750;
 
         animateProgressBar('satisfaction-bar', satisfactionPercentage);
-        animateProgressBar('clients-bar', (totalClients / 54) * 100);
+        animateProgressBar('clients-bar', (totalClients / 57) * 100);
         animateProgressBar('experts-bar', (totalExperts / 790) * 100);
 
         document.getElementById('satisfaction-label').innerText = `Kepuasan: ${satisfactionPercentage}%`;
@@ -393,7 +393,7 @@
 
     </div>
     <hr>
-    <div class="container text-center mt-4">
+    <div class="container text-center mt-4 animated-element">
         <a href="{{ route('client.list') }}" class="btn btn-primary">List Semua Client Kami</a>
     </div>
 </div>

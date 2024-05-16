@@ -5,12 +5,12 @@
 <title>PT. Panca Pilar Hutama</title>
 
 <div class="container mt-5">
-    <h2 class="text-center mb-5"><strong>Daftar Klien Kami</strong></h2>
+    <h2 class="text-center mb-5 animated-element"><strong>Daftar Klien Kami</strong></h2>
     <div class="row">
         <!-- Left Column -->
         <div class="col-md-6">
-            <h4><strong>Jasa Keamanan</strong></h4>
-            <ul>
+            <h4 class="animated-element"><strong>Jasa Keamanan</strong></h4>
+            <ul class="animated-element">
                 <li>Politeknik Perkapalan Negeri Surabaya</li>
                 <li>CV. Surya Kencana Food, Jombang</li>
                 <li>PT. Bhinkarya Santosa (Cyber Mall), Malang</li>
@@ -63,8 +63,8 @@
                 <li>Balai Kekarantinaan Kesehatan Kelas 1, Probolinggo</li>
                 <li>PT. Kingdom</li>
             </ul>
-            <h4><strong>Tenaga Kerja Produksi</strong></h4>
-            <ul>
+            <h4 class="animated-element"><strong>Tenaga Kerja Produksi</strong></h4>
+            <ul class="animated-element">
                 <li>Raja Kerupuk Sidoarjo</li>
                 <li>PT. Ultra Prima Abadi (Orang Tua Group)</li>
                 <li>PT. Sinko Prima Alloy, Surabaya</li>
@@ -77,8 +77,8 @@
         
         <!-- Right Column -->
         <div class="col-md-6">
-            <h4><strong>Tenaga Cleaning Service</strong></h4>
-            <ul>
+            <h4 class="animated-element"><strong>Tenaga Cleaning Service</strong></h4>
+            <ul class="animated-element">
                 <li>LIPPO BATU</li>
                 <li>PT. BHIKARYA SANTOSA (CYBER MALL) MALANG</li>
                 <li>PT. AVILA INTRA MAKMUR (MALL PROBOLINGGO)</li>
@@ -114,8 +114,8 @@
                 <li>Avenue 88 Appartement, Surabaya</li>
                 <li>UZ Pizza, Surabaya</li>
             </ul>
-            <h4><strong>Tenaga Kerja Harian Lepas</strong></h4>
-            <ul>
+            <h4 class="animated-element"><strong>Tenaga Kerja Harian Lepas</strong></h4>
+            <ul class="animated-element">
                 <li>PT. Hastama Jaya Mandiri, Surabaya</li>
                 <li>PT. Benteng Api Technic, Surabaya</li>
                 <li>PT. Jiva Agriculture Indonesia, Sidoarjo</li>
@@ -123,8 +123,8 @@
                 <li>PT. Hoka Jaya Internasional, Sidoarjo</li>
                 <li>PT. Duta Mas, Pasuruan</li>
             </ul>
-            <h4><strong>Tenaga Kerja Staff</strong></h4>
-            <ul>
+            <h4 class="animated-element"><strong>Tenaga Kerja Staff</strong></h4>
+            <ul class="animated-element">
                 <li>PT. Avila Prima Intra Makmur, Banyuwangi</li>
                 <li>PT. Avila Prima Intra Makmur, Surabaya</li>
                 <li>PT. Aksara Grafika, Surabaya</li>
@@ -132,8 +132,8 @@
                 <li>Balai Besar Kekarantinaan Kesehatan Surabaya</li>
                 <li>Balai Besar Kekarantinaan Kesehatan Probolinggo</li>
             </ul>
-            <h4><strong>Tenaga Kerja Backoffice</strong></h4>
-            <ul>
+            <h4 class="animated-element"><strong>Tenaga Kerja Backoffice</strong></h4>
+            <ul class="animated-element">
                 <li>PT. Avila Prima Intra Makmur, Probolinggo</li>
                 <li>PT. Hutomo Raharjo Prasojo, Surabaya</li>
                 <li>CV. Greensmart Kebaron, Surabaya</li>
@@ -142,15 +142,15 @@
                 <li>PT. Arjuna Utama Kimia Surabaya</li>
             </ul>
             
-            <h4><strong>Tenaga Kerja Helper</strong></h4>
-            <ul>
+            <h4 class="animated-element"><strong>Tenaga Kerja Helper</strong></h4>
+            <ul class="animated-element">
             <li>PT. Duta Abadi Primantara, Sidoarjo</li>
             <li>PT. Jiva Agriculture Indonesia, Sidoarjo</li>
             <li>PT. Prima Citra Nutrindo</li>
             </ul>
 
-            <h4><strong>Tenaga Kerja Teknisi / Engineer</strong></h4>
-            <ul>
+            <h4 class="animated-element"><strong>Tenaga Kerja Teknisi / Engineer</strong></h4>
+            <ul class="animated-element">
                 <li>Lippo Batu</li>
                 <li>Hotel Horison Pasuruan</li>
                 <li>Purimas Appartement Surabaya</li>
