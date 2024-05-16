@@ -50,7 +50,7 @@
 
       .penawaran {
          position: relative;
-         background-image: url({{ asset('image/tawar.jpg') }});
+         background-image: url({{ asset('image/tawaranKerjaSama.jpg') }});
          background-size: cover;
          background-position: center;
          padding-bottom:450px;
@@ -252,19 +252,19 @@
         }
 
         .separator {
-    width: 100%;
-    text-align: center;
-    margin: 20px 0;
-    font-size: 18px;
-    color: #555;
-    font-weight: bold; /* Tambahkan tebal pada teks */
-    position: relative;
-}
-.container-box {
-        position: relative;
-        overflow: hidden;
-        border-radius: 8px;
-    }
+            width: 100%;
+            text-align: center;
+            margin: 20px 0;
+            font-size: 18px;
+            color: #555;
+            font-weight: bold; /* Tambahkan tebal pada teks */
+            position: relative;
+         }
+         .container-box {
+               position: relative;
+               overflow: hidden;
+               border-radius: 8px;
+            }
 
     .container-box img {
         width: 100%;

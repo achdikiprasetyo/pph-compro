@@ -393,7 +393,9 @@
 
     </div>
     <hr>
-
+    <div class="container text-center mt-4">
+        <a href="{{ route('client.list') }}" class="btn btn-primary">List Semua Client Kami</a>
+    </div>
 </div>
 
     </div>
