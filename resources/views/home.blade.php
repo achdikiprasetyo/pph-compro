@@ -161,6 +161,8 @@
 <div class="progress-container animated-element" data-animation="fadeIn">
     <div class="company-title">PT. PANCA PILAR HUTAMA</div>
     <div class="subtitle">Penyedia dan Pengelola Jasa Tenaga Kerja Profesional</div>
+    <hr>
+    
 
     <div class="label" id="satisfaction-label"></div>
     <div class="progress-bar" id="satisfaction-bar"><span></span></div>
