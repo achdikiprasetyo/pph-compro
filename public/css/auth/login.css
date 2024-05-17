@@ -1,0 +1,23 @@
+.login-card {
+    max-width: 500px;
+    width: 100%;
+}
+
+.card-header {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin-top: 20vh;
+}
+
+.alert {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    z-index: 1000;
+}

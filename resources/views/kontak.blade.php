@@ -8,7 +8,8 @@
     <body class="page-loaded">
         <div class="contact-container">
                 <h1>Kontak Kami</h1>
-                <p>Silakan hubungi kami melalui media sosial di bawah:</p>
+                <p>Silahkan hubungi kami melalui media sosial di bawah:</p>
+                
         <ul class="social-icons">
             <!-- URL Sosial Media -->
             <li><a href="https://www.instagram.com/pt.pancapilarhutama/" target="_blank"><i class="fab fa-instagram"></i></a></li>
