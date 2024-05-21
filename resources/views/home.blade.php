@@ -38,15 +38,15 @@
     document.addEventListener('DOMContentLoaded', function () {
         const satisfactionPercentage = 98;
         const totalClients = 57;
-        const totalExperts = 750;
+        const totalExperts = 1000;
 
         animateProgressBar('satisfaction-bar', satisfactionPercentage);
         animateProgressBar('clients-bar', (totalClients / 57) * 100);
-        animateProgressBar('experts-bar', (totalExperts / 790) * 100);
+        animateProgressBar('experts-bar', (totalExperts / 1000) * 100);
 
         document.getElementById('satisfaction-label').innerText = `Kepuasan: ${satisfactionPercentage}%`;
         document.getElementById('clients-label').innerText = `Perusahaan yang telah bekerja sama: ${totalClients}`;
-        document.getElementById('experts-label').innerText = `Tenaga kerja yang: ${totalExperts}`;
+        document.getElementById('experts-label').innerText = `Tenaga kerja yang: ${totalExperts}+`;
     });
 </script>
 
