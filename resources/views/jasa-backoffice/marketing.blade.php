@@ -12,10 +12,10 @@
         <div class="row animated-element" data-animation="fadeIn">
             <div class="col-md-12">
             <p class="description">
-                Dengan layanan marketing, kami siao membantu perusahaan anda untuk bersaing dalam persaingan bisnis. Dalam layanan marketing kami tidak hanya mengiklankan produk ataupun layanan anda, tetapi kami juga menumbuhkan koneksi anda.      
+                Kami siap membantu perusahaan anda untuk bersaing dalam persaingan bisnis. Tenaga marketing kami, tidak hanya mengiklankan produk ataupun layanan anda, tetapi tenaga marketing kami juga akan menumbuhkan koneksi anda.      
             </p>
             <p class="description">
-                Bersama kami sebagai mitra marketing, anda akan mendapatkan pelayanan yang disesuaikan kebutuhan anda dan hasil yang memuaskan. Biarkan kami membantu anda dalam mencapai tujuan pemasaran anda dan membangun hubungan yang erat dengan calon pelanggan dan pelanggan yang sudah ada.
+                Biarkan kami membantu anda dalam mencapai tujuan pemasaran anda dan membangun hubungan yang erat dengan calon pelanggan dan pelanggan yang sudah ada.
             </p>
         </div>
     </div>

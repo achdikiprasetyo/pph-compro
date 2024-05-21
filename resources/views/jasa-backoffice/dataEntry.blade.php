@@ -12,7 +12,7 @@
         <div class="row animated-element" data-animation="fadeIn">
             <div class="col-md-12">
             <p class="description">
-                Layanan Data Entry kami dirancang untuk membuat meningkatkan efisiensi pengolahan data dalam perusahaan anda. Tidak perlu lagi memikirkan bagaimana cara memasukkan data yang sangat banyak dan membosankan, layanan kami hadir untuk menangani permaslahan tersebut.
+                Layanan Data Entry kami dirancang untuk membuat meningkatkan efisiensi pengolahan data dalam perusahaan anda. Tidak perlu lagi memikirkan bagaimana cara memasukkan data yang sangat banyak dan membingungkan, layanan kami hadir untuk menangani permasalahan tersebut.
             </p>
             <p class="description">
                 Dengan keahlian dari tim Data Entry, kami menjamin efisiensi waktu dalam measukkan data dan mengelolah data. Layanan kami hadir untuk meningkatkan efisiensi dan produktivitas perusahaan anda.

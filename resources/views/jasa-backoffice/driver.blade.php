@@ -12,10 +12,10 @@
         <div class="row animated-element" data-animation="fadeIn">
             <div class="col-md-12">
             <p class="description">
-                Layanan Driver yang disediakan oleh perusahaan kami merupakan solusi untuk anda jika memiliki permasalahan dalam pengantaran yang memerukan kenyalaman dan kehandalan. Dengan Driver yang berpengalaman dan memiliki lisensi yang lengkap, kami menyediakan layanan pengantaran yang andal dan tepat waktu.
+                Kami merupakan solusi, jika anda memiliki permasalahan dalam pengantaran  dan perjalanan yang memerukan kenyalaman dan kehandalan. Dengan Driver yang berpengalaman dan memiliki lisensi yang lengkap, kami akan menyediakan Driver yang andal dan mahir dalam mengemudi.
             </p>
             <p class="description">
-                Dengan memilih layanan Driver kami, anda tidak hanya mendapatkan pengemudi yang handal, tetapi anda juga akan mendapatkan keamanan dan efisiensi waktu. Disini kami hadir untuk emberikan solusi transportasi yang efisien dan terpercaya.
+                Dengan memilih layanan Driver kami, anda tidak hanya mendapatkan Driver yang handal, tetapi anda juga akan mendapatkan keamanan, kenyamanan, dan efisiensi waktu. 
             </p>
         </div>
     </div>

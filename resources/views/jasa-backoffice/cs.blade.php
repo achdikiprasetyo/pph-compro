@@ -15,7 +15,7 @@
                 Memiliki koneksi yang baik dengan pelanggan merupakan suatu hal yang sangat penting dalam berbisis. Maka dari itu kami hadir untuk membantu perusahaan anda untuk membangun hubungan yang kuat melalui layanan customer service yang profesional dan bersahabat.
             </p>
             <p class="description">
-                Ketika anda memilih kami sebagai mitra, anda akan mendapatkan dukungan serta kepedualian kami dengan kebutuhan bisnis anda. Tim Customer Service kami sudah dilatih untuk memahami berbagai pelanggan dengan baik dan memberikan tanggapan yang baik dengan cepat.
+                Tim Customer Service kami sudah dilatih untuk memahami berbagai pelanggan dengan baik dan memberikan tanggapan yang baik dengan cepat.
             </p>
         </div>
     </div>
