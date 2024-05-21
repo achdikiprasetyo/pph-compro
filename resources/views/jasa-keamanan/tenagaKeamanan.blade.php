@@ -12,11 +12,11 @@
         <div class="row animated-element" data-animation="fadeIn">
             <div class="col-md-12">
             <p class="description">
-                Bersama layanan tenaga keamanan dari perusahaan kami, anda akan mendapatkan satpam yang setia untuk menjaga perusahaan anda agar tetap tenang dan aman. Tenaga kemanan dari perusahaan kami merupakan satpam yang profesional dan telah memiliki lisensi.
+                Satpam dari perusahaan kami merupakan tenaga profesional dan telah memiliki lisensi.
+                Bersama kami, tenaga keamanan dari perusahaan kami, anda akan mendapatkan satpam yang siap setia untuk menjaga perusahaan anda agar tetap tenang dan aman. 
             </p>
             <p class="description">
-                Selain itu kami juga berkomitment untuk memberikan perlindungan keamanan yang tak tertandingi. Ketika anda memilih kami sebagai mitra, maka anda akan mendapatkan keamanan yang efektif dan akan mendapatkan tenaga yang ramah serta kooperatif.
-        </div>
+                Selain itu kami juga berkomitment untuk memberikan perlindungan keamanan yang tak tertandingi. 
     </div>
 </div>
     <div class="right-container animated-element">
