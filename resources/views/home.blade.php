@@ -45,8 +45,8 @@
         animateProgressBar('experts-bar', (totalExperts / 790) * 100);
 
         document.getElementById('satisfaction-label').innerText = `Kepuasan: ${satisfactionPercentage}%`;
-        document.getElementById('clients-label').innerText = `Total Client: ${totalClients}`;
-        document.getElementById('experts-label').innerText = `Total Tenaga Ahli: ${totalExperts}`;
+        document.getElementById('clients-label').innerText = `Perusahaan yang telah bekerja sama: ${totalClients}`;
+        document.getElementById('experts-label').innerText = `Tenaga kerja yang: ${totalExperts}`;
     });
 </script>
 
@@ -206,6 +206,8 @@
                     <li>Memberikan Solusi Alihbina Karyawan</li>
                     <li>Komitmen Yang Tinggi Dalam Penyediaan Tenaga Kerja</li>
                     <li>Telah Di Audit Oleh Instansi Terkait Dengan Hasil Yang Baik</li>
+                    <li>Memiliki Ruang dan Tempat Pelatihan yang Memadai</li>
+                    <li>Memiliki Tenaga Ahli yang dapat dipercaya</li>
                 </ul>
             </div>
         </div>

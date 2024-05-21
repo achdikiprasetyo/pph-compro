@@ -11,7 +11,7 @@
         <div class="row animated-element" data-animation="fadeIn">
             <div class="col-md-12"> 
                 <p class="description">
-                    Layanan Backoffice yang disediakan oleh perusahaan kami akan berusaha untuk mendukung keberhasilan diperusahaan anda untuk mencapai target yang telah ditentukan. Maka dari itulah diperlukan beberapa tenaga supporting yang dapat membantu proses Pencapaian target Perusahaan.
+                     Perusahaan berkomitment untuk mendukung kesuksesan perusahaan anda untuk mencapai target yang telah ditentukan. Maka dari itulah diperlukan tenaga supporting yang kompeten untuk membantu proses Pencapaian target Perusahaan.
                 </p>
                 <p class="description">
                     PT. Panca Pilar Hutama menyediakan tenaga yang terampil untuk membantu dalam pencapaian pekerjaan di masing-masing bidang, adapun pelayanan pendukung yang dapat kami berikan yakni :

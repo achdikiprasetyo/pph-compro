@@ -9,7 +9,7 @@
 <section class="about-us animated-element">
   <div class="container">
     <h2 class="animated-element" data-animation="fadeIn"><strong>Tentang Kami</strong></h2>
-    <div class="row">
+    <div class="row align-items-center">
       <div class="col-md-6 animated-element" data-animation="fadeIn">
         <picture>
             <source srcset="image/logo.png" media="(min-width: 768px)">
@@ -19,13 +19,13 @@
       <div class="col-md-6 animated-element" data-animation="fadeIn">
         <br>
         <p class="animated-element" data-animation="fadeIn">
-          <strong>PT. Panca Pilar Hutama</strong> adalah perusahaan yang bergerak di bidang Penyedia Jasa Keamanan, Penyedia Jasa Tenaga Kebersihan, Penyedia Jasa Tenaga Engineering, Penyedia Jasa Tenaga Produksi, Pelatihan Tenaga Keamanan dan Pengelola Tenaga Kerja di berbagai bidang.
+          <strong>PT. Panca Pilar Hutama</strong> merupakan perusahaan yang bergerak di bidang Penyedia Jasa Keamanan, Penyedia Jasa Tenaga Kebersihan, Penyedia Jasa Tenaga Engineering, Penyedia Jasa Tenaga Produksi, Pelatihan Tenaga Keamanan dan Pengelola Tenaga Kerja di berbagai bidang. PT Panca Pilar Hutama di dirikan pada tanggal 9 Februari 2018 sesuai dengan Nomor Akte Pendirian <strong>AHU - 01109.A.H.02.01 TAHUN 2015</strong> oleh notaris AYUB SUPARTO, S.H., M. Kn.
         </p>
         <p class="animated-element" data-animation="fadeIn">
           <strong>PT. Panca Pilar Hutama</strong> memiliki legalitas resmi dan telah diakui oleh instansi terkait, berkantor pusat di Kota Sidoarjo. Kami siap memenuhi kebutuhan tenaga kerja yang profesional dan berpengalaman. Kami selalu menjalin hubungan kerja jangka panjang dengan berbagai institusi dengan tujuan menjadi partner yang terpercaya dan saling menguntungkan.
         </p>
         <p class="animated-element" data-animation="fadeIn">
-          <strong>PT. Panca Pilar Hutama</strong> senantiasa mendukung dan memberikan pelayanan terbaik untuk semua pelanggan serta memberikan komitmen yang tinggi agar kepuasan dan keberhasilan bisnis mitra dapat tercapai.
+          <strong>PT. Panca Pilar Hutama</strong> senantiasa mendukung dan memberikan pelayanan terbaik untuk semua pelanggan serta memberikan komitmen yang tinggi agar kepuasan dan keberhasilan bisnis mitra dapat tercapai. 
         </p>
       </div>
     </div>
@@ -70,11 +70,50 @@
   </div>
 </section>
 <style>
-  img.no-download {
-  pointer-events: none; /* Menonaktifkan interaksi mouse */
-  user-select: none; /* Mencegah pengguna dari memilih teks */
-  -webkit-touch-callout: none; /* Mencegah menu konteks muncul di perangkat mobile */
-  -webkit-user-drag: none; /* Mencegah pengguna dari men-drag gambar */
+img.no-download {
+    pointer-events: none; /* Menonaktifkan interaksi mouse */
+    user-select: none; /* Mencegah pengguna dari memilih teks */
+    -webkit-touch-callout: none; /* Mencegah menu konteks muncul di perangkat mobile */
+    -webkit-user-drag: none; /* Mencegah pengguna dari men-drag gambar */
+}
+
+.img-certification {
+    width: 100%;
+    max-width: 200px;
+    height: auto;
+    display: block;
+    margin: 0 auto 20px auto;
+}
+
+@media (min-width: 768px) {
+    .img-certification {
+        max-width: 150px;
+    }
+}
+
+@media (min-width: 992px) {
+    .img-certification {
+        max-width: 200px;
+    }
+}
+
+.image-container {
+    position: relative;
+    display: inline-block;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 255, 255, 0); /* Transparan */
+}
+
+.row.align-items-center {
+    display: flex;
+    align-items: center;
 }
 </style>
 <section class="visi-misi animated-element" data-animation="fadeIn">
@@ -86,12 +125,12 @@
     <ul class="list-unstyled">
       <hr>
       <li class="animated-element" data-animation="fadeIn">
-        <div class="row">
+        <div class="row align-items-center">
           <div class="col-auto">
-            <img src="{{asset('image/legalitas/ijazah_fahrudin.png')}}" alt="Ijazah Gada Utama" class="img-fluid no-download rounded mr-2" style="width: 50px;">
+          
           </div>
           <div class="col">
-            Ijazah Gada Utama
+            <strong>Ijazah Gada Utama</strong>
             <br>
             Nama : Fahrudin, S.T.
           </div>
@@ -99,12 +138,11 @@
       </li>
       <hr>
       <li class="animated-element" data-animation="fadeIn">
-        <div class="row">
+        <div class="row align-items-center">
           <div class="col-auto">
-            <img src="{{asset('image/legalitas/ijazah_hendra.png')}}" alt="Ijazah Gada Utama" class="img-fluid no-download rounded mr-2" style="width: 50px;">
           </div>
           <div class="col">
-            Ijazah Gada Utama
+            <strong>Ijazah Gada Utama</strong>
             <br>
             Nama : Hendra Harianto
           </div>
@@ -112,12 +150,11 @@
       </li>
       <hr>
       <li class="animated-element" data-animation="fadeIn">
-        <div class="row">
+        <div class="row align-items-center">
           <div class="col-auto">
-            <img src="{{asset('image/legalitas/ijazah_setyawan.png')}}" alt="Ijazah Gada Utama" class="img-fluid no-download rounded mr-2" style="width: 50px;">
           </div>
           <div class="col">
-            Ijazah Gada Utama
+            <strong>Ijazah Gada Utama</strong>
             <br>
             Nama : Setyawan
           </div>
@@ -125,12 +162,11 @@
       </li>
       <hr>
       <li class="animated-element" data-animation="fadeIn">
-        <div class="row">
+        <div class="row align-items-center">
           <div class="col-auto">
-            <img src="{{asset('image/legalitas/ijazah_agoes.png')}}" alt="Ijazah Gada Utama" class="img-fluid no-download rounded mr-2" style="width: 50px;">
           </div>
           <div class="col">
-            Ijazah Gada Utama
+            <strong>Ijazah Gada Utama</strong>
             <br>
             Nama : Agoes Hadi Poernomo
           </div>
@@ -138,12 +174,11 @@
       </li>
       <hr>
       <li class="animated-element" data-animation="fadeIn">
-        <div class="row">
+        <div class="row align-items-center">
           <div class="col-auto">
-            <img src="{{asset('image/legalitas/sertifikat_k3.png')}}" alt="Sertifikat K3" class="img-fluid no-download rounded mr-2" style="width: 50px;">
           </div>
           <div class="col">
-            Sertifikat K3
+            <strong>Sertifikat K3</strong>
             <br>
             Nama : Mashur
           </div>
@@ -151,12 +186,12 @@
       </li>
       <hr>
       <li class="animated-element" data-animation="fadeIn">
-        <div class="row">
+        <div class="row align-items-center">
           <div class="col-auto">
-            <img src="{{asset('image/legalitas/sertifikat_ccps.png')}}" alt="Sertifikat CCPS Komisaris" class="img-fluid no-download rounded mr-2" style="width: 50px;">
+
           </div>
           <div class="col">
-            Sertifikat CCPS Komisaris
+            <strong>Sertifikat CCPS Komisaris</strong>
             <br>
             Nama : Setyawan, ST,
           </div>
@@ -164,12 +199,12 @@
       </li>
       <hr>
       <li class="animated-element" data-animation="fadeIn">
-        <div class="row">
+        <div class="row align-items-center">
           <div class="col-auto">
-            <img src="{{asset('image/legalitas/sertifikat_pop.png')}}" alt="Sertifikat POP Komisaris" class="img-fluid no-download rounded mr-2" style="width: 50px;">
+ 
           </div>
           <div class="col">
-            Sertifikat POP Komisaris
+            <strong>Sertifikat POP Komisaris</strong>
             <br>
            Nama : Setyawan
           </div>
@@ -177,152 +212,246 @@
       </li>
       <hr>
       <li class="animated-element" data-animation="fadeIn">
-        <div class="row">
+        <div class="row align-items-center">
           <div class="col-auto">
-            <img src="{{asset ('image/legalitas/akta.png')}}" alt="Sertifikat POP Komisaris" class="img-fluid no-download rounded mr-2" style="width: 50px;">
+          
           </div>
           <div class="col">
-            Akte Pendirian
+        <strong>Izin Usaha Perusahaan Penerima Pemborongan Pekerjaan</strong>
+        <br>
+        Nomer : 08.8/14/01/III/2020
+        <br>
           </div>
         </div>
       </li>
       <hr>
-      <li class="animated-element" data-animation="fadeIn">
-        <div class="row">
-          <div class="col-auto">
-            <img src="{{asset('image/legalitas/surat_izin_usaha.png')}}" alt="Sertifikat POP Komisaris" class="img-fluid no-download rounded mr-2" style="width: 50px;">
-          </div>
-          <div class="col">
-        Izin Usaha Perusahaan Penerima Pemborongan Pekerjaan
-          </div>
-        </div>
-      </li>
-      <hr>
-      <li class="animated-element" data-animation="fadeIn">
-        <div class="row">
-          <div class="col-auto">
-            <img src="{{asset('image/legalitas/surat_domisili.png')}}" alt="Sertifikat POP Komisaris" class="img-fluid no-download rounded mr-2" style="width: 50px;">
-          </div>
-          <div class="col">
-            Surat Keterangan Domisili Usaha
-          </div>
-        </div>
-      </li>
-      <hr>
-      <li class="animated-element" data-animation="fadeIn">
-        <div class="row">
-          <div class="col-auto">
-            <img src="{{asset('image/legalitas/tdp.png')}}" alt="Sertifikat POP Komisaris" class="img-fluid no-download rounded mr-2" style="width: 50px;">
-          </div>
-          <div class="col">
-            TDP
-          </div>
-        </div>
-      </li>
-      <hr>
-      <li class="animated-element" data-animation="fadeIn">
-        <div class="row">
-          <div class="col-auto">
-            <img src="{{asset('image/legalitas/pajak.png')}}" alt="Sertifikat POP Komisaris" class="img-fluid no-download rounded mr-2" style="width: 50px;">
-          </div>
-          <div class="col">
-            Pengukuhan Pengusaha Kena Pajak
-          </div>
-        </div>
-      </li>
-      <hr>
-      <li class="animated-element" data-animation="fadeIn">
-        <div class="row">
-          <div class="col-auto">
-            <img src="{{asset('image/legalitas/sio_jasa.png')}}" alt="Sertifikat POP Komisaris" class="img-fluid no-download rounded mr-2" style="width: 50px;">
-          </div>
-          <div class="col">
-            Surat Izin Operasional Pelatihan Jasa Pelatihan Keamanan
-          </div>
-        </div>
-      </li>
-      <hr>
-      <li class="animated-element" data-animation="fadeIn">
-        <div class="row">
-          <div class="col-auto">
-            <img src="{{asset('image/legalitas/sio.png')}}" alt="Sertifikat POP Komisaris" class="img-fluid no-download rounded mr-2" style="width: 50px;">
-          </div>
-          <div class="col">
-            Suart Izin Operasional Mabes Polri
-          </div>
-        </div>
-      </li>
-      <hr>
-      <li class="animated-element" data-animation="fadeIn">
-        <div class="row">
-          <div class="col-auto">
-            <img src="{{asset('image/legalitas/bpjs_kesehatan.png')}}" alt="Sertifikat POP Komisaris" class="img-fluid no-download rounded mr-2" style="width: 50px;">
-          </div>
-          <div class="col">
-            Kepesertaan BPJS Kesehatan
-          </div>
-        </div>
-      </li>
-      <hr>
-      <li class="animated-element" data-animation="fadeIn">
-        <div class="row">
-          <div class="col-auto">
-            <img src="{{asset('image/legalitas/bpjs_ketenaga.png')}}" alt="Sertifikat POP Komisaris" class="img-fluid no-download rounded mr-2" style="width: 50px;">
-          </div>
-          <div class="col">
-            Kepesertaan BPJS Ketenaga Kerjaan
-          </div>
-        </div>
-      </li>
-      <hr>
-      <li class="animated-element" data-animation="fadeIn">
-        <div class="row">
-          <div class="col-auto">
-            <img src="{{asset('image/legalitas/oss.png')}}" alt="Sertifikat POP Komisaris" class="img-fluid no-download rounded mr-2" style="width: 50px;">
-          </div>
-          <div class="col">
-            OSS (Online Single Submission)
-          </div>
-        </div>
-      </li>
-      <hr>
-      <li class="animated-element" data-animation="fadeIn">
-        <div class="row">
-          <div class="col-auto">
-            <img src="{{asset('image/legalitas/asosiasi.png')}}" alt="Sertifikat POP Komisaris" class="img-fluid no-download rounded mr-2" style="width: 50px;">
-          </div>
-          <div class="col">
-            Asosiasi Badan Usaha Jasa Pengamanan Indonesia
-          </div>
-        </div>
-      </li>
-      <hr>
-      <li class="animated-element" data-animation="fadeIn">
-        <div class="row">
-          <div class="col-auto">
-            <img src="{{asset('image/legalitas/apsi.png')}}" alt="Sertifikat POP Komisaris" class="img-fluid no-download rounded mr-2" style="width: 50px;">
-          </div>
-          <div class="col">
-            APSI
-          </div>
-        </div>
-      </li>
-      <hr>
-      <li class="animated-element" data-animation="fadeIn">
-        <div class="row">
-          <div class="col-auto">
-            <img src="{{asset('image/legalitas/apklindo.png')}}" alt="Sertifikat POP Komisaris" class="img-fluid no-download rounded mr-2" style="width: 50px;">
-          </div>
-          <div class="col">
-            APKLINDO
-          </div>
-        </div>
-      </li>
-      <hr>
-      <li class="animated-element" data-animation="fadeIn">
-        <p style="color:#007bff;">Dan masih banyak lagi sertifikasi lainnya...</p>
-      </li>
       <!-- Add other list items with images similarly -->
+      <li class="animated-element" data-animation="fadeIn">
+        <div class="row align-items-center">
+          <div class="col-auto">
+            
+          </div>
+          <div class="col">
+           <strong> Surat Keterangan Domisili Usaha</strong>
+           <br>
+           Nomor : 470/58/438.7.1.23/2023
+          </div>
+        </div>
+      </li>
+      <hr>
+
+      <li class="animated-element" data-animation="fadeIn">
+        <div class="row align-items-center">
+          <div class="col-auto">
+            
+          </div>
+          <div class="col">
+           <strong> Surat Izin Operasional Badan Usaha Jasa Pelatihan Keamanan</strong>
+           <br>
+           Nomor : 9129297941927006
+          </div>
+        </div>
+      </li>
+      <hr>
+
+      <li class="animated-element" data-animation="fadeIn">
+        <div class="row align-items-center">
+          <div class="col-auto">
+            
+          </div>
+          <div class="col">
+           <strong> NPWP </strong>
+           <br>
+           Nomor : 84.284.272.6-603.000
+          </div>
+        </div>
+      </li>
+      <hr>
+
+      <li class="animated-element" data-animation="fadeIn">
+        <div class="row align-items-center">
+          <div class="col-auto">
+            
+          </div>
+          <div class="col">
+           <strong> Surat Tanda Daftar Perusahaan Perorangan </strong>
+           <br>
+           Nomor : 503/12/438.7.10/2018
+          </div>
+        </div>
+      </li>
+      <hr>
+
+      <li class="animated-element" data-animation="fadeIn">
+        <div class="row align-items-center">
+          <div class="col-auto">
+            
+          </div>
+          <div class="col">
+           <strong> Surat Izin Kementrian Investasi/Badan Koordinasi Penanaman Modal Republik Indonesia </strong>
+           <br>
+           Nomor : 1136/I/SIO-POLRI/2023
+          </div>
+        </div>
+      </li>
+      <hr>
+      
+      <li class="animated-element" data-animation="fadeIn">
+        <div class="row align-items-center">
+          <div class="col-auto">
+            
+          </div>
+          <div class="col">
+           <strong> Surat Keterangan Tanda Anggota APSI </strong>
+           <br>
+           Nomor : 089.1/DPP-APSI/SKTA-GU/X/2020
+          </div>
+        </div>
+      </li>
+      <hr>
+
+      <li class="animated-element" data-animation="fadeIn">
+        <div class="row align-items-center">
+          <div class="col-auto">
+            
+          </div>
+          <div class="col">
+           <strong> Surat Keterangan Tanda Anggota ABUJAPI </strong>
+           <br>
+           Nomor : 02700/05-09-2019
+          </div>
+        </div>
+      </li>
+      <hr>
+      
+      <li class="animated-element" data-animation="fadeIn">
+        <div class="row align-items-center">
+          <div class="col-auto">
+            
+          </div>
+          <div class="col">
+           <strong> Surat Keterangan Terdaftar (SKT) </strong>
+           <br>
+           Nomor : S-2952KT/WPJ.24/KP.0103/2018
+          </div>
+        </div>
+      </li>
+      <hr>
+
+      <li class="animated-element" data-animation="fadeIn">
+        <div class="row align-items-center">
+          <div class="col-auto">
+            
+          </div>
+          <div class="col">
+           <strong> Surat Izin Usaha Lembaga Penempatan Tenaga Kerja Swasta </strong>
+           <br>
+           NIB : 9120207941927
+          </div>
+        </div>
+      </li>
+      <hr>
+
+      <li class="animated-element" data-animation="fadeIn">
+        <div class="row align-items-center">
+          <div class="col-auto">
+            
+          </div>
+          <div class="col">
+           <strong> Surat Izin Perdagangan Mikro </strong>
+           <br>
+           Nomor : 510/13/483.10/2018
+          </div>
+        </div>
+      </li>
+      <hr>
+
+      <li class="animated-element" data-animation="fadeIn">
+        <div class="row align-items-center">
+          <div class="col-auto">
+            
+          </div>
+          <div class="col">
+           <strong> Surat Keterangan Domisili Usaha </strong>
+           <br>
+           Nomor : 470/58/438.7.1.23/2023
+          </div>
+        </div>
+      </li>
+      <hr>
+
+      <li class="animated-element" data-animation="fadeIn">
+        <div class="row align-items-center">
+          <div class="col-auto">
+            
+          </div>
+          <div class="col">
+           <strong> Surat Mutu Perkasa ISO 9001:2015 </strong>
+           <br>
+           Nomor : 0623 - QMS
+          </div>
+        </div>
+      </li>
+      <hr>
+
+
+      <li class="animated-element" data-animation="fadeIn">
+        <div class="row align-items-center">
+          <div class="col-auto">
+            
+          </div>
+          <div class="col">
+           <strong> Surat Keterangan Kementrian Hukum dan HAM </strong>
+           <br>
+           Nomor : AHU-0009113.AH01.01.TAHUN 2018
+          </div>
+        </div>
+      </li>
+      <hr>
+
+      <li class="animated-element" data-animation="fadeIn">
+        <div class="row align-items-center">
+          <div class="col-auto">
+            
+          </div>
+          <div class="col">
+           <strong> Surat Keterangan Tanda Anggota APKLINDO </strong>
+           <br>
+           Nomor : TA/768P/SDJ/IX/2020
+          </div>
+        </div>
+      </li>
+      <hr>
+
+      <li class="animated-element" data-animation="fadeIn">
+        <div class="row align-items-center">
+          <div class="col-auto">
+            
+          </div>
+          <div class="col">
+           <strong> Surat Pengukuhan Pengusaha Kena Pajak </strong>
+           <br>
+           Nomor : S-301PKP/WPJ.24/KP0103/2018
+          </div>
+        </div>
+      </li>
+      <hr>
+
+
+      <li class="animated-element" data-animation="fadeIn">
+        <div class="row align-items-center">
+          <div class="col-auto">
+            
+          </div>
+          <div class="col">
+            <li class="animated-element" data-animation="fadeIn">
+              <p style="color:#007bff;">Dan masih banyak lagi sertifikasi lainnya...</p>
+            </li>
+          </div>
+        </div>
+      </li>
+      <hr>
+      
     </ul>
   </div>
 </section>
