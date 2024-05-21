@@ -6,6 +6,7 @@
 
 <div class="container mt-5">
     <h2 class="text-center mb-5 animated-element"><strong>Daftar Klien yang menggunakan Layanan Kami</strong></h2>
+    <p class="text-center animated-element"><em>Terakhir diperbarui pada tanggal: 21 Mei 2024</em></p>
     <div class="row">
         <!-- Bagian Kiri -->
         <div class="col-md-6">

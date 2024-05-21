@@ -44,9 +44,9 @@
         animateProgressBar('clients-bar', (totalClients / 57) * 100);
         animateProgressBar('experts-bar', (totalExperts / 1000) * 100);
 
-        document.getElementById('satisfaction-label').innerText = `Kepuasan: ${satisfactionPercentage}%`;
-        document.getElementById('clients-label').innerText = `Perusahaan yang telah bekerja sama: ${totalClients}`;
-        document.getElementById('experts-label').innerText = `Tenaga kerja yang: ${totalExperts}+`;
+        document.getElementById('satisfaction-label').innerText = `Kepuasan : ${satisfactionPercentage}%`;
+        document.getElementById('clients-label').innerText = `Perusahaan yang telah bekerja sama : ${totalClients}`;
+        document.getElementById('experts-label').innerText = `Tenaga kerja yang bernaungan kepada kami : ${totalExperts}+`;
     });
 </script>
 
@@ -343,56 +343,57 @@
 <div class="swiper-container animated-element">
     <div class="swiper-wrapper">
 
-        <div class="swiper-slide"><img loading="lazy" src="image/mitra/1.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/2.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/3.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/4.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/5.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/6.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/7.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/8.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/9.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/10.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/11.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/12.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/13.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/14.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/15.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/16.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/17.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/18.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/19.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/20.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/21.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/22.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/23.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/24.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/25.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/26.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/27.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/28.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/29.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/30.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/31.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/32.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/33.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/34.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/35.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/36.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/37.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/38.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/39.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/40.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/41.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/42.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/43.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/44.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/45.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/46.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/47.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/48.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/49.png" alt="Photo 1"></div>
-            <div class="swiper-slide"><img loading="lazy" src="image/mitra/50.png" alt="Photo 1"></div>
+        <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/1.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/30.png" alt="Photo 1"></div>
+            {{-- <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/1.png" alt="Photo 1"></div> --}}
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/2.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/5.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/7.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/28.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/29.png" alt="Photo 1"></div>
+            {{-- <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/8.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/9.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/10.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/11.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/12.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/13.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/14.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/15.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/16.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/17.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/18.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/19.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/20.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/21.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/22.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/23.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/24.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/25.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/26.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/27.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/28.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/29.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/30.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/31.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/32.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/33.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/34.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/35.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/36.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/37.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/38.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/39.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/40.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/41.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/42.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/43.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/44.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/45.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/46.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/47.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/48.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/49.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/50.png" alt="Photo 1"></div> --}}
 
 
     </div>
