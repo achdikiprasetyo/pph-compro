@@ -76,6 +76,8 @@
     </div>
   </div>
 </body>
+
+{{-- MOVEMENT WHATSAPP --}}
 <script>
 document.getElementById('whatsapp-button').addEventListener('click', function() {
     document.getElementById('whatsapp-popup').style.display = 'block';

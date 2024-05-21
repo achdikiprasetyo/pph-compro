@@ -15,7 +15,7 @@
                 Dalam berbisnis keamanan merupakan prioritas utama diperusahaan kami. Perusahaan kami siap menjadi mitra yang handal dalam menyediakan perlengkapan keamanan satpam yang terbaik dan berkualitas. Selain itu kami juga berkomitment untuk memberikan solusi yang efektif dan efisien untuk meningkatkan peluang kemitraan yang berkelanjutan. 
             </p>
             <p class="description">
-                Kami akan memastikan peralatan yang akan kami sediakan memiliki kualitas yang tinggi dan bukan barang murahan. Bergabunglah dengan layanan kami agar satpam diperusahaan anda mendapatkan peralatan keamanan yang berkualitas.
+                Dapat dipastikan bahwa peralatan yang akan kami sediakan memiliki kualitas yang tinggi dan bukan barang bekas/murahan. Bergabunglah dengan  kami agar satpam diperusahaan anda mendapatkan peralatan keamanan yang berkualitas.
         </div>
     </div>
 </div>
