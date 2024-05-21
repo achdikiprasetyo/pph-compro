@@ -14,7 +14,7 @@
                     Properti yang terawat dengan baik akan menciptakan rasa yang nyaman dan aman dikarenakan semua sistem instalasi gedung yang terpelihara dengannsistem Corrective Action, Preventice Action dan Defect repair didukung oleh tenaga ahli yang memiliki pendidikan dan pengalaman yang berdasar pada sertifikasi dan instalasi terkait.
                 </p>
                 <p class="description animated-element" data-animation="fadeIn">
-                    PT. Panca Pilar Hutama menyediakan sebuah pelayanan yang terbaik dalam bidang perawatan dan pemeliharaan Gedung. Layanan kami memberikan beberapa penawaran untuk Jasa Teknisi / Engineer yakni :
+                    Kami menyediakan sebuah pelayanan yang terbaik dalam bidang perawatan dan pemeliharaan Gedung. Layanan kami memberikan beberapa penawaran untuk Jasa Teknisi / Engineer yakni :
                 </p>
                 <table>
                     <ul>
