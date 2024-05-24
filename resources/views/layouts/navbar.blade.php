@@ -50,7 +50,7 @@
 
       .penawaran {
          position: relative;
-         background-image: url({{ asset('image/tawaranKerjaSama.jpg') }});
+         background-image: url({{ asset('image/iniTawar.jpg') }});
          background-size: cover;
          background-position: center;
          padding-bottom:450px;

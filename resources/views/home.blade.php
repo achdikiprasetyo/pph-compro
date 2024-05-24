@@ -44,9 +44,9 @@
         animateProgressBar('clients-bar', (totalClients / 57) * 100);
         animateProgressBar('experts-bar', (totalExperts / 1000) * 100);
 
-        document.getElementById('satisfaction-label').innerText = `Kepuasan : ${satisfactionPercentage}%`;
-        document.getElementById('clients-label').innerText = `Perusahaan yang telah bekerja sama : ${totalClients}`;
-        document.getElementById('experts-label').innerText = `Tenaga kerja yang bernaungan kepada kami : ${totalExperts}+`;
+        document.getElementById('satisfaction-label').innerText = `Tingkat Kepuasan Pelanggan : ${satisfactionPercentage}%`;
+        document.getElementById('clients-label').innerText = `Perusahaan yang telah Menjalin Kerja Sama : ${totalClients} Client`;
+        document.getElementById('experts-label').innerText = `Tenaga kerja yang Bernaung di Bawah kepada kami : ${totalExperts}+`;
     });
 </script>
 
@@ -146,7 +146,6 @@
 
     <script>
         $(document).ready(function(){
-            // Activate the carousel with a 5-second interval
             $('#slider').carousel({
                 interval: 3000 
             });
@@ -418,7 +417,7 @@
             </div>
         </div>
     </div>
-    <hr>
+    
     <br>
     <div class="container">   
         </div>
