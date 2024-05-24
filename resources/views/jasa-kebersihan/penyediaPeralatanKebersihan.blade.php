@@ -15,7 +15,7 @@
                 Perusahaan kami menyediakan peralatan kebersihan yang mampu menjadi kunci untuk menciptakan sebuah lingkungan yang bersih, nyaman , dan produkif. Dengan peralatan yang sesuai dan berkualitas, kami menawarkan sousi kebersihan yang mudah digunakan dan efektif.
             </p>
             <p class="description">
-                Dengan memilih kami sebagai mitra, perusahaan anda tidak hanya mendapatkan alat kebersihan berkualitas tinggi, melainkan mitra yang pedulia dan siap membantu perkembangan perusahaan anda. Marilah kita bersama membangun ruang kerja yang nyaman dan sehat.
+                Dengan memilih kami sebagai mitra, perusahaan anda tidak hanya mendapatkan alat kebersihan berkualitas tinggi, melainkan mitra yang peduli dan siap membantu perkembangan perusahaan anda. Marilah kita bersama membangun ruang kerja yang nyaman, indah, dan sehat.
         </div>
     </div>
 </div>
