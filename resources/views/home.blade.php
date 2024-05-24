@@ -45,8 +45,8 @@
         animateProgressBar('experts-bar', (totalExperts / 1000) * 100);
 
         document.getElementById('satisfaction-label').innerText = `Tingkat Kepuasan Pelanggan : ${satisfactionPercentage}%`;
-        document.getElementById('clients-label').innerText = `Perusahaan yang telah Menjalin Kerja Sama : ${totalClients} Client`;
-        document.getElementById('experts-label').innerText = `Tenaga kerja yang Bernaung di Bawah kepada kami : ${totalExperts}+`;
+        document.getElementById('clients-label').innerText = `Perusahaan yang telah Menjalin Kerja Sama : ${totalClients} Klien`;
+        document.getElementById('experts-label').innerText = `Tenaga kerja Terampil dan Berpengalaman : ${totalExperts}+`;
     });
 </script>
 
@@ -194,7 +194,7 @@
     
         <div class="col-md-6 custom-alasan">
             <div class="reasons-content animated-element" data-animation="fadeIn">
-                <h2>Alasan Memilih Kami Sebagai Mitra Kerja Sama:</h2>
+                <h2>Alasan Memilih Kami Sebagai Mitra Kerja Sama</h2>
                 <hr>
                 <ul>
                     <li>Memiliki Legalitas Lengkap</li>

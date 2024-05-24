@@ -8,7 +8,7 @@
     <body class="page-loaded">
         <div class="contact-container">
                 <h1>Kontak Kami</h1>
-                <p>Silahkan hubungi kami melalui media sosial di bawah:</p>
+                <p>Silahkan hubungi kami melalui media sosial di bawah</p>
                 
         <ul class="social-icons">
             <!-- URL Sosial Media -->
