@@ -206,7 +206,7 @@
                     <li>Komitmen Yang Tinggi Dalam Penyediaan Tenaga Kerja</li>
                     <li>Telah Di Audit Oleh Instansi Terkait Dengan Hasil Yang Baik</li>
                     <li>Memiliki Ruang dan Tempat Pelatihan yang Memadai</li>
-                    <li>Memiliki Tenaga Ahli yang dapat dipercaya</li>
+                    <li>Memiliki Tenaga Ahli yang terampil dan dapat dipercaya</li>
                 </ul>
             </div>
         </div>

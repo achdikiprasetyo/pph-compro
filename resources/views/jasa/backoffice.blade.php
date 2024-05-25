@@ -14,13 +14,13 @@
                      Perusahaan kami berkomitment untuk mendukung kesuksesan perusahaan anda untuk mencapai target yang telah ditentukan. Maka dari itulah diperlukan tenaga supporting yang kompeten untuk membantu proses Pencapaian target Perusahaan.
                 </p>
                 <p class="description">
-                    PT. Panca Pilar Hutama menyediakan tenaga yang terampil untuk membantu dalam pencapaian pekerjaan di masing-masing bidang, adapun pelayanan pendukung yang dapat kami berikan yakni :
+                    PT. Panca Pilar Hutama menyediakan tenaga kerja yang terampil untuk membantu anda dalam pencapaian pekerjaan di masing-masing bidang, adapun pelayanan pendukung yang dapat kami berikan yakni :
                 </p>
                 <table>
                     <ul>
                         <li>Tenaga Admin, Data Entry, Receptionist, dan Operator Parkir</li>
                         <li>Customer Service, Kasir, dan Marketing</li>
-                        <li>Driver, Gardener, Office Boy, Office Girl, dan Kurir</li>
+                        <li>Driver, Gardener, Office Boy, Office Girl, Kurir dan Perawatan Kolam</li>
                         
                     </ul>
                 </table>
