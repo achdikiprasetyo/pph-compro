@@ -14,12 +14,7 @@
                     Kami membuka peluang karir untuk individu yang bersemangat dan berkomitmen tinggi untuk tumbuh bersama kami. PT Panca Pilar Hutama, sebagai perusahaan yang terus berkembang, membuka pendaftaran untuk sejumlah posisi yang menarik!
                 </p>
             
-                <p><strong>Apa yang Kami Tawarkan:</strong></p>
-                <ul>
-                    <li>Peluang Pengembangan Karir yang Luas</li>
-                    <li>Lingkungan Kerja yang Inspiratif</li>
-                    <li>Proyek-proyek Menarik dan Tantangan yang Memacu</li>
-                </ul>
+
             
                 <p><strong>Posisi yang Dibuka:</strong></p>
                 <ul>
@@ -31,7 +26,7 @@
             
                 <p><strong>Pendaftaran Masih Terbuka :</strong></p>
                 <p>
-                    Selagi posisi di bawah masih tampil diwebsite, Anda masih memiliki kesempatan untuk mendaftar/melamar. Segera Kirimkan berkas pendaftaran anda dengan menekan foto dibawah, sesuai dengan keahlian anda.
+                    Selagi posisi di bawah masih tampil diwebsite, Anda masih memiliki kesempatan untuk mendaftar/melamar. Segera Kirimkan berkas pendaftaran anda dengan klik foto dibawah, sesuai dengan keahlian anda.
                 </p>
 
             </div>

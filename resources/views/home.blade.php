@@ -398,7 +398,7 @@
     </div>
     <hr>
     <div class="container text-center mt-4 animated-element">
-        <a href="{{ route('client.list') }}" class="btn btn-primary">List Semua Client Kami</a>
+        <a href="{{ route('client.list') }}" class="btn btn-primary">List Semua Client Kami ></a>
     </div>
 </div>
 
