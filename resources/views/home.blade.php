@@ -288,7 +288,7 @@
         <a href="{{ route('jasa.engineer') }}" style="text-decoration: none; color: inherit;">
             <div class="container-box animated-element">
                 <div class="list-item">
-                    <img src="{{ asset('image/jasa/teknisi.png') }}" alt="Service Image">
+                    <img src="{{ asset('image/engineer/penyedia.jpg') }}" alt="Service Image">
                     <div class="text-content">
                         <div class="service-title">Jasa Engineer</div>
 

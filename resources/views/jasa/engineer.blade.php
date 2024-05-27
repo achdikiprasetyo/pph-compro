@@ -38,7 +38,7 @@
     <a href="{{ route('jasa-engineer.tenagaTeknisi') }}" style="text-decoration: none; color: inherit;">
         <div class="container-box animated-element" data-animation="fadeIn">
             <div class="list-item">
-                <img src="{{ asset('image/engineer/tenaga.png') }}" alt="Service Image">
+                <img src="{{ asset('image/engineer/penyedia.jpg') }}" alt="Service Image">
                 <div class="text-content">
                     <a href="{{ route('jasa-engineer.tenagaTeknisi') }}" class="read-more-button">Baca Selengkapnya</a>
                     <div class="service-title">Tenaga Teknisi</div>
@@ -50,7 +50,7 @@
     <a class="animated-element" class="animated-element" data-animation="fadeIn" href="{{ route('jasa-engineer.tenagaAhli') }}" style="text-decoration: none; color: inherit;">
         <div class="container-box animated-element" data-animation="fadeIn">
             <div class="list-item ">
-                <img src="{{ asset('image/engineer/penyedia.png') }}" alt="Service Image">
+                <img src="{{ asset('image/engineer/tenaga.png') }}" alt="Service Image">
                 <a href="{{ route('jasa-engineer.tenagaAhli') }}" class="read-more-button">Baca Selengkapnya</a>
                 <div class="text-content">
                     <div class="service-title">Tenaga Ahli</div>

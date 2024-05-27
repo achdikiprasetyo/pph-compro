@@ -9,9 +9,7 @@
         <div class="left-container">
             <h1 class="title">Jasa Tenaga Produksi</h1>
             <p class="description">
-                Dalam mencapai target produksi yang telah ditentukan maka diperlukan adanya tenaga kerja produksi yang terampil dan terlatih untuk mengoperasikan mesin produksi supaya menghasilkan produk yang baik dan berkualitas.
-
-                Adapun jasa yang dapat kami sediakan sebagai berikut :
+                Dalam mencapai target produksi, maka diperlukan adanya tenaga kerja produksi yang terampil dan terlatih untuk mengoperasikan mesin produksi,supaya menghasilkan produk yang baik dan berkualitas. Tenaga kerja yang handal merupakan kunci untuk memastikan bahwa proses produksi berjalan lancar dan efisien. Untuk itu, kami menyediakan berbagai jenis jasa yang dirancang untuk memenuhi kebutuhan produksi Anda, antara lain:
 
             <p class="description">
                 <li>Jasa Tenaga Produksi</li>

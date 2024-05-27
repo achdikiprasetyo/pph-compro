@@ -24,7 +24,7 @@
                     <a href="{{ route('dokumentasi.kegiatan', ['category' => 'sdm_training']) }}" class="btn btn-secondary me-2">Pelatihan SDM</a>
                     <a href="{{ route('dokumentasi.kegiatan', ['category' => 'engineering']) }}" class="btn btn-secondary me-2">Engineering</a>
                     <a href="{{ route('dokumentasi.kegiatan', ['category' => 'production']) }}" class="btn btn-secondary me-2">Produksi</a>
-                    <a href="{{ route('dokumentasi.kegiatan', ['category' => 'backoffice']) }}" class="btn btn-secondary me-2">Engineering</a>
+                    <a href="{{ route('dokumentasi.kegiatan', ['category' => 'backoffice']) }}" class="btn btn-secondary me-2">Backoffice</a>
                 </div>
                 <!-- Dropdown filter pada tampilan perangkat seluler -->
                 <div class="d-md-none"> <!-- Tampilan hanya di perangkat seluler -->
