@@ -11,10 +11,12 @@
         <div class="row animated-element" data-animation="fadeIn">
             <div class="col-md-12">
                 <p class="description">
-                    Dengan tenaga kemanan kami, tidak perlu lagi khawatir dengan keamanan di lingkungan perusahaan anda, Karena kami telah berhasil menjaga keamanan di beberapa lingkungan termasuk perumahan, perkantoran, rumah sakit, sekolah, kampus, gedung produksi, Mall, Perbankan, dan perusahaan lainnya yang memerlukan sebuah jasa kemananan untuk menciptakan lingkungan yang terjamin keamanannya.
+                    Keamanan merupakan faktor penting dalam sebuah bisnis. Dengan adanya satuan pengaman yang terlatih dan berlisensi, maka akan tercipta sebuah lingkungan yang kondusif dan aman. Ketika perusahaan memiliki tim pengamanan yang andal, Anda bisa lebih fokus pada pengembangan dan kegiatan bisnis, tanpa khawatir akan gangguan keamanan.
+                    <br><br>
+                    Dengan tenaga kemanan kami, anda tidak perlu lagi khawatir dengan keamanan di lingkungan perusahaan anda, Karena kami telah berhasil menjaga keamanan di beberapa lingkungan termasuk perumahan, perkantoran, rumah sakit, sekolah, kampus, gedung produksi, Mall, Perbankan, dan perusahaan lainnya yang memerlukan sebuah jasa kemananan untuk menciptakan lingkungan yang terjamin keamanannya.
                 </p>
                 <p class="description">
-                    PT. Panca Pilar Hutama menyediakan sebuah layanan yang terbaik dalam bidang kemanan yang meliputi :
+                    Dengan kemampuan dan pengalaman yang telah dimiliki, maka kami telah mampu menyediakan sebuah layanan yang terbaik dalam bidang kemanan yang meliputi :
                 <table>
                     <ul>
                         <li>Pelayanan jasa keamanan yang terlatih</li>
