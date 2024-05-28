@@ -459,13 +459,13 @@
                   Services
                </a>
                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="{{route('jasa.kebersihan')}}">Jasa Kebersihan</a>
                   <a class="dropdown-item" href="{{route('jasa.keamanan')}}">Jasa Keamanan</a>
-                  <a class="dropdown-item" href="{{route('jasa.backoffice')}}">Jasa Back Office</a>
-                  <a class="dropdown-item" href="{{route('jasa.pelatihan')}}">Jasa Pelatihan</a>
-                  <a class="dropdown-item" href="{{route('jasa.sdm')}}">Jasa Sumber Daya Manusia</a>
+                  <a class="dropdown-item" href="{{route('jasa.kebersihan')}}">Jasa Kebersihan</a>
                   <a class="dropdown-item" href="{{route('jasa.engineer')}}">Jasa Engineer</a>
                   <a class="dropdown-item" href="{{route('jasa.produksi')}}">Jasa Tenaga Produksi</a>
+                  <a class="dropdown-item" href="{{route('jasa.backoffice')}}">Jasa Back Office</a>
+                  <a class="dropdown-item" href="{{route('jasa.sdm')}}">Jasa Sumber Daya Manusia</a>
+                  <a class="dropdown-item" href="{{route('jasa.pelatihan')}}">Jasa Pelatihan</a>
 
                </div>
             </li>

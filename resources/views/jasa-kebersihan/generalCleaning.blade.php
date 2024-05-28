@@ -12,11 +12,11 @@
         <div class="row animated-element" data-animation="fadeIn">
             <div class="col-md-12">
             <p class="description">
-                Apabila perusahaan anda mencari solusi pembersihan yang handal, maka layanan kami adalah jawabanya. Layanan kami menyediakan general cleaning yang tidak hanya memberisihkan, melainkan juga menciptakan lingkungan yang sehat dan nyaman untuk lingkungan bisnis anda.
+                General Cleaning merupakan sebuah kegiatan pembersihan secara menyeluruh disuatu area atau bangunan yang perlu dilakukan secara berkala agar, area atau bangunan tersebut terhindar dari kerusakan, terlihat lebih nyaman dan bersih. General Cleaning merupakan sebuah layanan yang pasti dibutuhkan oleh individu ataupun perusahaan untuk menjaga kebersihan lingungannya.
             </p>
             <p class="description">
-                Dengan dengan tenaga kebersihan yang kami miliki, maka anda akan mendapatkan benefit seperti, meningkatnya citra dan kesan positif perusahaan anda dan anda juga akan mendapatkan kemitraan yang berkualitas. Jangan pernah membiarkan masalah kebersihan menjadi beban tambahan bagi perusahaan anda, maka dari itu bekerja samalah dengan perusahaan kami.
-        </div>
+                Apabila perusahaan anda mencari solusi pembersihan yang handal, maka layanan kami adalah jawabanya. Layanan kami menyediakan general cleaning yang tidak hanya memberisihkan, melainkan juga menciptakan lingkungan yang sehat dan nyaman untuk lingkunga anda.
+            </div>
     </div>
 </div>
     <div class="right-container animated-element">

@@ -350,6 +350,9 @@
             <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/7.png" alt="Photo 1"></div>
             <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/28.png" alt="Photo 1"></div>
             <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/29.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/31.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/32.png" alt="Photo 1"></div>
+            <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/33.png" alt="Photo 1"></div>
             {{-- <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/8.png" alt="Photo 1"></div>
             <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/9.png" alt="Photo 1"></div>
             <div class="swiper-slide"><img loading="lazy" src="image/mitra/show/10.png" alt="Photo 1"></div>
