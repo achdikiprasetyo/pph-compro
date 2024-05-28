@@ -13,7 +13,7 @@
             <div class="col-md-12">
             <p class="description">
                 
-                Kami hadir untuk membantu perusahaan anda menjaga kebersihan dan kesegaran ruang kerja di perusahaan anda. Dengan layanan Regular Cleaning kami akan menjaga kebersihan perusahaan anda secara rutin. Regular Cleaning biasanya melibatkan beberapa tugas seperti menyapu lantai,mengepel lantai, membersihkan kamar mandi dan sebagainya.
+                Kami hadir untuk membantu perusahaan anda menjaga kebersihan dan kesegaran ruang kerja di perusahaan anda. Dengan layanan Regular Cleaning kami, anda telah menjaga kebersihan perusahaan anda secara rutin. Regular Cleaning biasanya melibatkan beberapa tugas seperti menyapu lantai,mengepel, membersihkan kamar mandi dan sebagainya.
             </p>
             <p class="description">
                 Dengan menggunakan jasa Regular Cleaning kami, anda akan merasakan perbedaan yang langsung bisa dilihat dihari pertama kita bekerja sama. Tim cleaning kami merupakan tenaga kerja yang handal dan memiliki semangat untuk memberikan sentuhan ajaib bagi perusahaan anda.
