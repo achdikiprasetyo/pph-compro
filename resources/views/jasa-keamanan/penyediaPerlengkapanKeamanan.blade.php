@@ -12,10 +12,11 @@
         <div class="row animated-element" data-animation="fadeIn">
             <div class="col-md-12">
             <p class="description">
-                Dalam berbisnis keamanan merupakan prioritas utama diperusahaan kami. Perusahaan kami siap menjadi mitra yang handal dalam menyediakan perlengkapan keamanan satpam yang terbaik dan berkualitas. Selain itu kami juga berkomitment untuk memberikan solusi yang efektif dan efisien untuk meningkatkan peluang kemitraan yang berkelanjutan. 
+                Satpam pasti membutuhkan peralatan penunjang ketika bertugas, maka dari itu diperlukan persiapan untuk perlengkapan keamanan tersebut.
+                Perusahaan kami siap menjadi mitra yang handal dalam menyediakan perlengkapan keamanan satpam yang terbaik dan berkualitas. Selain itu kami juga berkomitment untuk memberikan solusi yang efektif dan efisien untuk meningkatkan peluang kemitraan yang berkelanjutan. 
             </p>
             <p class="description">
-                Dapat dipastikan bahwa peralatan yang akan kami sediakan memiliki kualitas yang tinggi dan bukan barang bekas/murahan. Bergabunglah dengan  kami agar satpam diperusahaan anda mendapatkan peralatan keamanan yang berkualitas.
+                Dapat dipastikan bahwa peralatan yang akan kami sediakan memiliki kualitas yang tinggi dan bukan barang bekas/murahan. 
         </div>
     </div>
 </div>

@@ -12,8 +12,7 @@
         <div class="row animated-element" data-animation="fadeIn">
             <div class="col-md-12">
             <p class="description">
-                Satpam dari perusahaan kami merupakan tenaga profesional dan telah memiliki lisensi.
-                Bersama kami, tenaga keamanan dari perusahaan kami, anda akan mendapatkan satpam yang siap setia untuk menjaga perusahaan anda agar tetap tenang dan aman. 
+                Satpam dari perusahaan kami merupakan satuan pengamanan yang profesional,memiliki lisensi dan telah lulus dari berbagai pelatihan sesuai dengan Standar Operasional Prosedur. Bersama kami, tenaga keamanan dari perusahaan kami, anda akan mendapatkan satpam yang siap setia untuk menjaga perusahaan anda agar tetap tenang dan aman. 
             </p>
             <p class="description">
                 Selain itu kami juga berkomitment untuk memberikan perlindungan keamanan yang tak tertandingi. 
