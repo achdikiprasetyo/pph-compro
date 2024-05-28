@@ -12,9 +12,24 @@
         <div class="row animated-element" data-animation="fadeIn">
             <div class="col-md-12">
             <p class="description">
-                Jika perusahaan anda menginginkan keamanan yang ketat dan tak tergoyahkan, kami siap memberikan pelatihan keamanan Satpam yang berkulitas tinggi dan berlisensi. Dengan program pelatihan keamanan, mereka akan menjadi garda terdepan yang siap melindungi aset dan keamanan perusahaan anda.
+                Jika anda berkeinginan untuk memiliki lisensi resmi dan meningkatkan keterampilan serta pengalaman dalam bidang kemanan, kami siap untuk memberikan pelatihan Satpam yang berkualitas dan yang tentunya memiliki izin resmi. Dengan mengikuti program pelatihan kami, anda dipastikan akan menjadi garda terdepan yang dapat melindungi aset dan kemanan di berbagai situasi.
+
+
             <p class="description">
-                Dalam pelatihan keamanan, kami akan memastikan bahwa setiap anggota satpam telah dilatih secara menyeluruh dengan keterampilan yang baik. Bekerja sama dengan kami tidak hanya menciptakan penjaga yang kuat, melainkan satpam yang terampil dan siap untuk menghadapi berbagai permasalahan kemanan di perusahaan anda.
+                Agar bisa untuk menjadi bagian dari Satuan Pengaman, anda perlu mengikuti pelatihan terlebih dahulu. Maka dari itulah kami siap menjadi penyelenggara dipelatihan berikut :
+                <br>
+                <li>Pelatihan Gada Pratama (<strong>Wajib</strong>)(<strong>Pendaftaran Masih dibuka</strong>)</li> 
+                <li>Pelatihan Gada Madya (<strong>Pendaftaran Masih dibuka</strong>)</li>
+                <li>Pelatihan Gada Utama (<strong>Pendaftaran Masih dibuka</strong>)</li>
+
+                <br>
+                Selain itu kami juga dapat memberikan pelatihan Lanjutan ataupun Pelatihan Khusus Seperti : 
+                <li>Investigasi</li>
+                <li>Pencegahan</li>
+                <li>Pelatihan Pemadam Kebakaran</li>
+                <li>Penyelamatan, SAR, K9, Menghadapi Bencana Alam</li>
+                <li>Antisipasi Teror dan Barang Berbahaya</li>
+
         </div>
     </div>
 </div>
