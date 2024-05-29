@@ -14,7 +14,7 @@
                      Perusahaan kami berkomitment untuk mendukung kesuksesan perusahaan anda untuk mencapai target yang telah ditentukan. Maka dari itulah diperlukan tenaga supporting yang kompeten untuk membantu proses Pencapaian target Perusahaan.
                 </p>
                 <p class="description">
-                    PT. Panca Pilar Hutama menyediakan tenaga kerja yang terampil untuk membantu anda dalam pencapaian pekerjaan di masing-masing bidang, adapun pelayanan pendukung yang dapat kami berikan yakni :
+                    Perusahaan kami menyediakan tenaga kerja yang terampil untuk membantu anda dalam pencapaian pekerjaan di masing-masing bidang, adapun pelayanan pendukung yang dapat kami berikan yakni :
                 </p>
                 <table>
                     <ul>
