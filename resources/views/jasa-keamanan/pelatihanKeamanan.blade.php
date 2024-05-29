@@ -18,7 +18,7 @@
             <p class="description">
                 Agar bisa untuk menjadi bagian dari Satuan Pengaman, anda perlu mengikuti pelatihan terlebih dahulu. Maka dari itulah kami siap menjadi penyelenggara dipelatihan berikut :
                 <br>
-                <li>Pelatihan Gada Pratama (<strong>Wajib</strong>)(<strong>Pendaftaran Masih dibuka</strong>)</li> 
+                <li>Pelatihan Gada Pratama (<strong>Pendaftaran Masih dibuka</strong>)</li> 
                 <li>Pelatihan Gada Madya (<strong>Pendaftaran Masih dibuka</strong>)</li>
                 <li>Pelatihan Gada Utama (<strong>Pendaftaran Masih dibuka</strong>)</li>
 

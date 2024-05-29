@@ -433,7 +433,7 @@
    
 
    <nav class="navbar navbar-expand-lg navbar-dark navbar-custom ">
-      <a class="navbar-brand animated-element" data-animation="fadeIn" href="#">
+      <a class="navbar-brand animated-element" data-animation="fadeIn" href="{{route('home')}}">
          <div class="logo-wrapper">
             <img src="{{ asset('image/logo.png') }}" alt="Logo" class="d-inline-block align-top animated-element" data-animation="fadeIn">
             PT. Panca Pilar Hutama
