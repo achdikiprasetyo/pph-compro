@@ -33,7 +33,7 @@
     </div>
 </div>
     <div class="right-container animated-element" data-animation="fadeIn">
-        <img src="{{asset('image/jasa/jasaKebersihan.png')}}" alt="Gambar">
+        <img src="{{asset('image/jasa/kebersihan.jpg')}}" alt="Gambar">
     </div>
 </div>
 
