@@ -12,10 +12,10 @@
         <div class="row animated-element" data-animation="fadeIn">
             <div class="col-md-12">
                 <p class="description">
-                    Kolam diperusahaan anda mungkin merupakan tempat untuk bersantai, melepaskan lelah untuk karyawan dan sebagainya. Disini kami hadir untuk memberikan pelayanan perawatan kolam yang di dukung oleh tenaga kebersihan kami. Dengan tenaga kebersihan kami, dapat dipastikan kolam di tempat anda akan terjaga, terawat, dan dapat dipastikan kualitas kolam akan tetap optimal. 
+                    Kolam diperusahaan anda mungkin menjadi tempat untuk bersantai, melepaskan lelah untuk karyawan, tamu, dan sebagainya. Disini kami hadir untuk memberikan pelayanan perawatan kolam yang didukung oleh tenaga kebersihan kami. Dengan tenaga kebersihan kami, dapat dipastikan kolam di tempat anda akan terjaga, terawat, dan dapat dipastikan kualitas kolam akan tetap optimal. 
                 </p>
                 <p class="description">
-                    Dengan tim kami yang ahli dalam bidang perawatan kolam, kami menawarkan solusi untuk menjamin, kejernihan air, kesehatan, dan keindahan kolam perusahaan anda. Selain menjaga kolam, kami juga menciptakan lingkungan yang mengundang nilai positif dan dapat menjadi nilai tambah bagi lingkungan perusahaan anda.
+                    Dengan tim yang ahli dalam bidang perawatan kolam, kami menawarkan solusi untuk menjaga kejernihan air, kesehatan, dan keindahan kolam perusahaan Anda. Selain perawatan kolam, kami juga menciptakan lingkungan yang memancarkan nilai positif dan menjadi nilai tambah bagi lingkungan perusahaan Anda.
         </div>
     </div>
 </div>

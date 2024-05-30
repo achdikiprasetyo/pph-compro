@@ -15,11 +15,11 @@
                 Kami merupakan solusi, jika anda mengalami permasalahan dalam pengantaran dan perjalanan yang memerlukan kenyamanan dan kehandalan. Driver kami telah memiliki lisensi lengkap dan mahir dalam mengemudi. Kami juga memiliki Driver khusus yang terlatih dalam mengoprasikan kendaraan berat seperti truk dan mobil pengangkut barang.
             </p>
             <p class="description">
-                Dengan memilih layanan Driver kami, anda tidak hanya mendapatkan Driver yang handal, tetapi anda juga akan mendapatkan keamanan, kenyamanan, dan efisiensi waktu. Berikut adalah kendaraan yang dapat dikendaraai oleh driver kami :
+                Dengan memilih layanan Driver kami, anda tidak hanya mendapatkan Driver yang handal, tetapi anda juga akan mendapatkan keamanan, kenyamanan, dan efisiensi waktu. Berikut adalah jenis kendaraan yang dapat dikemudikan oleh driver kami :
                 <ul>
                 <li>Mobil Penumpang</li>
                 <li>Kendaraan Berat (Truk atau Mobil Pengangkut Barang)</li>
-                <li>Kendaraan Khusus (Menyesuaikan Permintaan)</li>
+                <li>Kendaraan Khusus (Disesuaikan dengan Permintaan)</li>
                 </ul>
             </p>
         </div>

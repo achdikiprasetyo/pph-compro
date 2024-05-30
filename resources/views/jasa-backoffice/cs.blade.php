@@ -12,10 +12,10 @@
         <div class="row animated-element" data-animation="fadeIn">
             <div class="col-md-12">
             <p class="description">
-                Memiliki koneksi yang baik dengan pelanggan merupakan suatu hal yang sangat penting dalam berbisis. Maka dari itu kami hadir untuk membantu perusahaan anda untuk membangun hubungan yang kuat melalui layanan customer service yang profesional dan bersahabat.
+                Memiliki koneksi yang baik dengan pelanggan merupakan suatu hal yang sangat penting dalam berbinis. Oleh karena itu, kami hadir untuk membantu perusahaan Anda membangun hubungan yang kuat melalui layanan customer service yang profesional dan bersahabat. Kami percaya bahwa setiap interaksi dengan pelanggan/klien adalah kesempatan untuk menciptakan pengalaman positif yang akan meningkatkan loyalitas pelanggan.
             </p>
             <p class="description">
-                Tim Customer Service kami sudah dilatih untuk memahami berbagai pelanggan dengan baik dan memberikan tanggapan yang baik dengan cepat.
+                Kami memahami bahwa setiap pelanggan unik dan memiliki kebutuhan yang berbeda. Oleh karena itu, tim kami dilengkapi dengan keterampilan komunikasi yang efektif untuk menyesuaikan pendekatan mereka dengan situasi yang spesifik. Dengan layanan customer service kami, Anda dapat memastikan bahwa setiap pelanggan merasa dihargai dan diperhatikan.
             </p>
         </div>
     </div>

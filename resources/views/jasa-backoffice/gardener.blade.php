@@ -12,10 +12,10 @@
         <div class="row animated-element" data-animation="fadeIn">
             <div class="col-md-12">
             <p class="description">
-                Gardener yang kami berikan akan menciptakan lingkungan yang nyaman dan indah disekitar daerah perusahaan, taman, dan sebagainya. Tim gardener kami tidak hanya memotong rumput ataupun merawat tanaman, tetapi tenaga Gardener kami berdedikasi untuk menciptakan ruang yang indah dan nyaman.
+                Gardener yang kami berikan akan menciptakan lingkungan yang nyaman dan indah disekitar area perusahaan, taman, dan sebagainya. Tim gardener kami tidak hanya memotong rumput ataupun merawat tanaman, tetapi tenaga Gardener kami berdedikasi untuk menciptakan ruang yang indah dan nyaman.
             </p>
             <p class="description">
-                Dengan Tenaga Gardener yang disediakan oleh layanan kami, mari menciptakan suasana yang nyaman di sekitar perusahaan anda, untuk memberikan pengalaman yang indah bagi calon pelanggan dan karyawan anda.
+                Dengan Tenaga Gardener yang kami sediakan, mari ciptakan suasana yang nyaman di sekitar perusahaan Anda, untuk memberikan pengalaman yang indah dan tak terlupakan bagi calon pelanggan dan karyawan anda.
             </p>
         </div>
     </div>

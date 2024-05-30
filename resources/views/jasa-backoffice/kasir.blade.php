@@ -12,7 +12,10 @@
         <div class="row animated-element" data-animation="fadeIn">
             <div class="col-md-12">
                 <p class="description">
-                    Keamanan dalam bertransaksi merupakan prioritas kami. Dengan menggunakan Kasir yang disediakan oleh perusahaan kami, anda akan mendapatkan tenaga yang memberikan efisiensi serta kemudahan khususnya untuk membantuk proses transaksi bisnis. Kami juga mengerti waktu dan uang merupakan suatu hal yang sangat berharga, maka dari itu kami menyediakan solusi hemat biaya dan efisiensi waktu pada proses transaksi berlangsung. 
+                    Keamanan dalam bertransaksi merupakan prioritas kami. Dengan menggunakan Layanan Kasir yang disediakan oleh perusahaan kami, Anda akan mendapatkan tenaga yang memberikan efisiensi serta kemudahan khususnya untuk memdukung proses transaksi bisnis.
+                    <br><br>
+                    Kami juga mengerti waktu dan uang merupakan suatu hal yang sangat berharga. Oleh karena itu, kami menyediakan solusi hemat biaya dan efisiensi waktu dalam setiap proses transaksi. Dengan layanan Kasir kami, Anda dapat memastikan bahwa setiap transaksi dilakukan dengan aman, cepat, dan efisien, memungkinkan Anda untuk fokus pada pengembangan bisnis Anda.
+
                 </p>
 
         </div>

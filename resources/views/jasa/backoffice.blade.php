@@ -11,7 +11,7 @@
         <div class="row animated-element" data-animation="fadeIn">
             <div class="col-md-12"> 
                 <p class="description">
-                     Perusahaan kami berkomitment untuk mendukung kesuksesan perusahaan anda untuk mencapai target yang telah ditentukan. Maka dari itulah diperlukan tenaga supporting yang kompeten untuk membantu proses Pencapaian target Perusahaan.
+                     Perusahaan kami berkomitmen untuk mendukung kesuksesan perusahaan anda untuk mencapai target yang telah ditentukan. Maka dari itulah diperlukan tenag pendukung yang kompeten guna membantu proses pencapaian target Perusahaan.
                 </p>
                 <p class="description">
                     Perusahaan kami menyediakan tenaga kerja yang terampil untuk membantu anda dalam pencapaian pekerjaan di masing-masing bidang, adapun pelayanan pendukung yang dapat kami berikan yakni :
