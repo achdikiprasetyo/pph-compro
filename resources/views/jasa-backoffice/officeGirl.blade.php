@@ -12,10 +12,10 @@
         <div class="row animated-element" data-animation="fadeIn">
             <div class="col-md-12">
                 <p class="description">
-                    Dengan memiliki tenaga lebih seperti Office Girl, akan membuat bisnis anda akan menjadi lebih lancar dan nyaman. Hal itu dapat terjadi dikarenakan tenaga yang kami sediakan tidak hanya sekadar membantu, melainkan elemen untuk memastikan perusahaan anda tetap bersih dan dapat terlihat nyaman ketika dilihat calon pelanggan dan karyawan ditempat.
+                    Sama seperti Office Boy, dengan memiliki tenaga lebih seperti Office Girl, akan membuat urusan bisnis anda akan menjadi lebih lancar dan nyaman. Hal itu dapat terjadi dikarenakan tenaga Office Girl merupakan staf pendukung operasional yang memiliki tanggung jawab untuk menjaga kebersihan, keindahan, dan kenyamanan lingkunan kerja, serta membantu tugas ringan administratif. Peran Office Girl sangatlah penting dalam memastikan operasional kantor dapat berjalan dengan lancar dan efisen.
                 </p>
                 <p class="description">
-                    Tenaga Office Girl yang kami sediakan sudah terlatih dengan baik dan dapat meringankan beban kerja di perusahaan anda. Dengan adanya Office Girl, anda akan mendapatkan kenyamanan dan ketenagan pikiran.
+                    Tenaga Office Girl yang kami sediakan sudah terlatih dengan baik dan dapat meringankan beban kerja di perusahaan anda. Dengan adanya Office Girl, anda akan mendapatkan kenyamanan dan ketenagan fikiran, karena mereka pasti akan memastikan lingkungan kerja selalu dalam kondisi optimal.
                 </p>
         </div>
     </div>

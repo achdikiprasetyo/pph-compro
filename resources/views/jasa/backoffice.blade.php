@@ -60,7 +60,7 @@
         </a>
     
         
-        {{-- <a href="{{ route('jasa-backoffice.callCenter') }}" style="text-decoration: none; color: inherit;">
+        <a href="{{ route('jasa-backoffice.callCenter') }}" style="text-decoration: none; color: inherit;">
             <div class="container-box">
                 <div class="list-item animated-element">
                     <img src="{{ asset('image/backoffice/4.jpg') }}" alt="Service Image">
@@ -71,7 +71,7 @@
                     </div>
                 </div>
             </div>
-        </a> --}}
+        </a>
         
         <a href="{{ route('jasa-backoffice.operatorParkir') }}" style="text-decoration: none; color: inherit;">
             <div class="container-box animated-element">

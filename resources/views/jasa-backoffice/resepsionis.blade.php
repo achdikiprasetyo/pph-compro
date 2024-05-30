@@ -12,10 +12,10 @@
         <div class="row animated-element" data-animation="fadeIn">
             <div class="col-md-12">
                 <p class="description">
-                    Kesan pertama dalam melakukan bisnis merupkan salah satu hal yang sangat penting. Maka karena itulah kami hadir untuk memberikan layanan Resepsionis untuk membantu membuat kesan positif dan sulit dilupakan bagi setiap orang. Tenaga resepsionis kami memiliki citra profesionalisme dan dapat meningkatan pelayanan tamu yang efisien.  
+                    Kesan pertama dalam melakukan bisnis merupkan salah satu aspek yang sangat penting. Oleh karena itu, kami hadir untuk memberikan layanan Resepsionis untuk membantu membuat kesan positif dan tak terlupakan bagi setiap tamu. Tenaga resepsionis kami memiliki citra profesionalisme dan dapat meningkatan efisiensi dalam pelayanan tamu.  
                 </p>
                 <p class="description">
-                    Dengan menjadi mitra kami dalam layanan Resepsionis, berarti anda akan mendapatkan layanan penerimaan tamu yang efisien dan memastikan setiap orang yang datang diperusahaan anda akan diterima dengan dengan senyuman dan kenyamnan.
+                    Dengan menjadi mitra kami dalam layanan Resepsionis, Anda akan mendapatkan layanan penerimaan tamu yang efisien dan memastikan setiap orang yang datang diperusahaan anda akan diterima dengan dengan senyuman dan kenyamanan.
                 </p>
         </div>
     </div>
