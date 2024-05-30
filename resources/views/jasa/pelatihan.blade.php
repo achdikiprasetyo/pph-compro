@@ -9,30 +9,32 @@
         <div class="left-container">
             <h1 class="title">Jasa Pelatihan Security</h1>
             <p class="description">
-                
-                Jika perusahaan anda menginginkan keamanan yang ketat dan tak tergoyahkan, kami siap memberikan pelatihan keamanan Satpam yang berkulitas tinggi dan berlisensi. Dengan program pelatihan keamanan, mereka akan menjadi garda terdepan yang siap melindungi aset dan keamanan perusahaan anda.
+                Jika anda berkeinginan untuk memiliki lisensi resmi dan meningkatkan keterampilan serta pengalaman dalam bidang kemanan, kami siap memberikan pelatihan Satpam yang berkualitas dan  tentunya telah memiliki izin resmi. Dengan mengikuti program pelatihan kami, Anda dipastikan akan menjadi garda terdepan yang dapat melindungi aset dan kemanan di berbagai situasi.
+
+
             <p class="description">
-                Dalam pelatihan keamanan, kami akan memastikan bahwa setiap anggota satpam telah dilatih secara menyeluruh dengan keterampilan yang baik. Bekerja sama dengan kami tidak hanya menciptakan penjaga yang kuat, melainkan satpam yang terampil dan siap untuk menghadapi berbagai permasalahan kemanan di perusahaan anda.
+                Untuk menjadi bagian dari Satuan Pengaman, anda perlu mengikuti pelatihan terlebih dahulu. Kami sebagai penyelenggara pelatihan, menawarkan :
+                <br>
+                <ul>
+                    <li>Pelatihan <strong>Dasar</strong> Gada Pratama (<strong>Pendaftaran Masih dibuka</strong>)</li> 
+                    <li>Pelatihan <strong>Menengah</strong> Gada Madya (<strong>Pendaftaran Masih dibuka</strong>)</li>
+                    <li>Pelatihan <strong>Lanjutan</strong> Gada Utama (<strong>Segera Hadir</strong>)</li>
+                </ul>
+
+                Selain itu kami juga dapat memberikan Pelatihan Lanjutan dan Pelatihan Khusus Seperti : 
+                <ul>
+                    <li>Investigasi</li>
+                <li>Pencegahan</li>
+                <li>Pelatihan Pemadam Kebakaran</li>
+                <li>Penyelamatan, SAR, K9, Menghadapi Bencana Alam</li>
+                <li>Antisipasi Teror dan Barang Berbahaya</li>
+                </ul>
         </div>
         <div class="right-container">
             <img src="{{asset('image/jasa/jasaPelatihan.png')}}" alt="Gambar">
         </div>
     </div>
-    {{-- Pemisah dengan List Layanan --}}
-    <div class="separator animated-element">Cakupan Dari Layanan Backoffice sebagai berikut : </div>
-    <div class="container-wrapper animated-element">
-        <a href="{{ route('jasa-keamanan.pelatihanKeamanan') }}" style="text-decoration: none; color: inherit;">
-            <div class="container-box animated-element">
-                <div class="list-item">
-                    <img src="{{ asset('image/keamanan/pelatihan.png') }}" alt="Service Image">
-                    <a href="{{ route('jasa-keamanan.pelatihanKeamanan') }}" class="read-more-button">Baca Selengkapnya</a>
-                    <div class="text-content animated-element">
-                        <div class="service-title">Pelatihan Satpam</div>
-                    </div>
-                </div>
-            </div>
-        </a>
-    </div>
+  
 
 @include('layouts.footer')
 @endsection

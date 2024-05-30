@@ -18,7 +18,7 @@
                 
             </p>
             <p class="description">
-                Sebagai perusahaan Outsourcing, kami memiliki tenaga, peralatan kebersihan dan mampu memberikan pelayanan di bidang berikut :
+                Sebagai perusahaan Outsourcing, kami memiliki tenaga profesional, peralatan kebersihan dan mampu memberikan pelayanan di bidang berikut :
             </p>
             <table>
                 <ul>
