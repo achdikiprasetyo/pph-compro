@@ -19,7 +19,7 @@
       <div class="col-md-6 animated-element" data-animation="fadeIn">
         <br>
         <p class="animated-element" data-animation="fadeIn">
-          <strong>PT. Panca Pilar Hutama</strong> merupakan perusahaan yang bergerak di bidang Penyedia Jasa Keamanan, Penyedia Jasa Tenaga Kebersihan, Penyedia Jasa Tenaga Engineering, Penyedia Jasa Tenaga Produksi, Pelatihan Tenaga Keamanan dan Pengelola Tenaga Kerja di berbagai bidang. PT Panca Pilar Hutama di dirikan pada tanggal 9 Februari 2018 sesuai dengan Nomor Akte Pendirian <strong>AHU - 01109.A.H.02.01 TAHUN 2015</strong> oleh notaris AYUB SUPARTO, S.H., M. Kn.
+          <strong>PT. Panca Pilar Hutama</strong> merupakan perusahaan yang bergerak di bidang Penyedia Jasa Keamanan, Penyedia Jasa Tenaga Kebersihan, Penyedia Jasa Tenaga Engineering, Penyedia Jasa Tenaga Produksi, Pelatihan Tenaga Keamanan dan Pengelola Tenaga Kerja di berbagai bidang. PT Panca Pilar Hutama di dirikan pada tanggal 9 Februari 2018 sesuai dengan Nomor Akte Pendirian <strong>AHU - 0024362.AH.01.11.TAHUN 2018</strong> oleh notaris AYUB SUPARTO, S.H., M. Kn.
         </p>
         <p class="animated-element" data-animation="fadeIn">
           <strong>PT. Panca Pilar Hutama</strong> memiliki legalitas resmi dan telah diakui oleh instansi terkait, berkantor pusat di Kota Sidoarjo. Kami siap memenuhi kebutuhan tenaga kerja yang profesional dan berpengalaman. Kami selalu menjalin hubungan kerja jangka panjang dengan berbagai institusi dengan tujuan menjadi partner yang terpercaya dan saling menguntungkan.

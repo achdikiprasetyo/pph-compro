@@ -12,10 +12,10 @@
         <div class="row animated-element" data-animation="fadeIn">
             <div class="col-md-12">
             <p class="description">
-                Kami memiliki komitment untuk menjadi mitra yang terpercaya dan memastikan perlatan teknis yang ada di perusahaan anda dapat beroprasi dengan baik dan tanpa hambatan. Selain memiliki keahlian teknisi yang baik, tim kamu juga berdedikasi untuk memberikan sebuah solusi yang efektif dan cepat.
+                Kami memiliki komitment untuk menjadi mitra yang terpercaya dan memastikan perlatan teknis yang ada di perusahaan anda dapat beroprasi dengan baik dan tanpa hambatan. Tim kami tidak hanya memiliki keahlian teknis yang luar biasa, tetapi juga berdedikasi untuk menyediakan solusi yang efektif dan responsif.
             </p>
             <p class="description">
-                Dengan tim teknisi yang responsif dan memiliki pemahaman penuh dalam dunia teknisi, tim kami juga siap membantu perusahaan anda untuk berkembang. Jika anda mencari tim teknisi yang ahli, berpengalaman, dan dapat diandalkan, tim kami siap membantu perusahaan anda.
+                Dengan tim teknisi yang responsif dan memiliki pemahaman penuh dalam dunia teknisi, tim kami juga siap membantu perusahaan anda untuk berkembang.  Jika Anda mencari tim teknisi yang ahli, berpengalaman, dan dapat diandalkan, tim kami siap mendukung kebutuhan teknis perusahaan Anda.
         </div>
     </div>
 </div>

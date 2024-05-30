@@ -11,7 +11,7 @@
         <div class="row animated-element" data-animation="fadeIn">
             <div class="col-md-12">
                 <p class="description animated-element" data-animation="fadeIn">
-                    Properti yang terawat dengan baik akan menciptakan rasa yang nyaman dan aman. Kami memastikan semua sistem instalasi gedung Anda terjaga dengan baik menggunakan pendekatan proaktif berbasis Corrective Action, Preventive Action, dan Defect Repair. Dukungan dari tenaga ahli berpendidikan tinggi dan berpengalaman, yang didukung oleh sertifikasi dan instalasi terkait, memastikan layanan berkualitas tertinggi.
+                    Properti yang terawat dengan baik tidak hanya menciptakan lingkungan yang nyaman, tetapi juga memberikan rasa aman bagi penghuninya. Kami memastikan semua sistem instalasi gedung Anda terjaga dengan baik menggunakan pendekatan proaktif berbasis Corrective Action, Preventive Action, dan Defect Repair. Dukungan dari tenaga ahli berpendidikan tinggi dan berpengalaman, yang didukung oleh sertifikasi dan instalasi terkait, memastikan layanan berkualitas tertinggi.
                 </p>
                 <p class="description animated-element" data-animation="fadeIn">
                     Kami menyediakan sebuah pelayanan yang terbaik dalam bidang perawatan dan pemeliharaan Gedung. Layanan kami memberikan beberapa penawaran untuk Jasa Teknisi / Engineer yakni :
@@ -23,7 +23,7 @@
                     </ul>
                 </table>
                 <p>
-                    Dengan mempercayakan perawatan gedung Anda kepada kami, Anda dapat fokus pada aktivitas inti bisnis Anda tanpa khawatir tentang masalah teknis. Hubungi kami sekarang untuk mendapatkan solusi perawatan gedung yang tepat untuk Anda!
+                    Dengan mempercayakan perawatan gedung Anda kepada kami, Anda dapat fokus pada aktivitas inti bisnis Anda tanpa khawatir tentang masalah teknis. Jangan biarkan masalah teknis mengganggu produktivitas Anda. Hubungi kami sekarang untuk mendapatkan solusi perawatan gedung yang tepat untuk kebutuhan Anda.
                 </p>
             </div>
         </div>
