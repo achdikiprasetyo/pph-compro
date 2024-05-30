@@ -12,23 +12,26 @@
         <div class="row animated-element" data-animation="fadeIn">
             <div class="col-md-12">
             <p class="description">
-                Jika anda berkeinginan untuk memiliki lisensi resmi dan meningkatkan keterampilan serta pengalaman dalam bidang kemanan, kami siap untuk memberikan pelatihan Satpam yang berkualitas dan yang tentunya memiliki izin resmi. Dengan mengikuti program pelatihan kami, anda dipastikan akan menjadi garda terdepan yang dapat melindungi aset dan kemanan di berbagai situasi.
+                Jika anda berkeinginan untuk memiliki lisensi resmi dan meningkatkan keterampilan serta pengalaman dalam bidang kemanan, kami siap memberikan pelatihan Satpam yang berkualitas dan  tentunya telah memiliki izin resmi. Dengan mengikuti program pelatihan kami, Anda dipastikan akan menjadi garda terdepan yang dapat melindungi aset dan kemanan di berbagai situasi.
 
 
             <p class="description">
-                Agar bisa untuk menjadi bagian dari Satuan Pengaman, anda perlu mengikuti pelatihan terlebih dahulu. Maka dari itulah kami siap menjadi penyelenggara dipelatihan berikut :
+                Untuk menjadi bagian dari Satuan Pengaman, anda perlu mengikuti pelatihan terlebih dahulu. Kami sebagai penyelenggara pelatihan, menawarkan :
                 <br>
-                <li>Pelatihan Gada Pratama (<strong>Pendaftaran Masih dibuka</strong>)</li> 
-                <li>Pelatihan Gada Madya (<strong>Pendaftaran Masih dibuka</strong>)</li>
-                <li>Pelatihan Gada Utama (<strong>Pendaftaran Masih dibuka</strong>)</li>
+                <ul>
+                    <li>Pelatihan <strong>Dasar</strong> Gada Pratama (<strong>Pendaftaran Masih dibuka</strong>)</li> 
+                    <li>Pelatihan <strong>Menengah</strong> Gada Madya (<strong>Pendaftaran Masih dibuka</strong>)</li>
+                    <li>Pelatihan <strong>Lanjutan</strong> Gada Utama (<strong>Segera Hadir</strong>)</li>
+                </ul>
 
-                <br>
-                Selain itu kami juga dapat memberikan pelatihan Lanjutan ataupun Pelatihan Khusus Seperti : 
-                <li>Investigasi</li>
+                Selain itu kami juga dapat memberikan Pelatihan Lanjutan dan Pelatihan Khusus Seperti : 
+                <ul>
+                    <li>Investigasi</li>
                 <li>Pencegahan</li>
                 <li>Pelatihan Pemadam Kebakaran</li>
                 <li>Penyelamatan, SAR, K9, Menghadapi Bencana Alam</li>
                 <li>Antisipasi Teror dan Barang Berbahaya</li>
+                </ul>
 
         </div>
     </div>

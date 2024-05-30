@@ -11,15 +11,15 @@
         <div class="row animated-element" data-animation="fadeIn">
             <div class="col-md-12">
                 <p class="description">
-                    Keamanan merupakan faktor penting dalam sebuah bisnis. Dengan adanya satuan pengaman yang terlatih dan berlisensi, maka akan tercipta sebuah lingkungan yang kondusif dan aman. Ketika perusahaan memiliki tim pengamanan yang andal, Anda bisa lebih fokus pada pengembangan dan kegiatan bisnis, tanpa khawatir akan gangguan keamanan.
+                    Keamanan merupakan faktor penting dalam sebuah bisnis. Dengan adanya satuan pengaman yang terlatih dan berlisensi, akan tercipta sebuah lingkungan yang kondusif dan aman. Ketika perusahaan memiliki tim pengamanan yang andal, Anda bisa lebih fokus pada pengembangan dan kegiatan bisnis, tanpa khawatir akan gangguan keamanan.
                     <br><br>
-                    Dengan tenaga kemanan kami, anda tidak perlu lagi khawatir dengan keamanan di lingkungan perusahaan anda, Karena kami telah berhasil menjaga keamanan di beberapa lingkungan termasuk perumahan, perkantoran, rumah sakit, sekolah, kampus, gedung produksi, Mall, Perbankan, dan perusahaan lainnya yang memerlukan sebuah jasa kemananan untuk menciptakan lingkungan yang terjamin keamanannya.
+                    Dengan tenaga kemanan kami, Anda tidak perlu lagi khawatir dengan keamanan di lingkungan perusahaan Anda. Kami telah berhasil menjaga keamanan di beberapa lingkungan termasuk perumahan, perkantoran, rumah sakit, sekolah, kampus, gedung produksi, Mall, Perbankan, dan perusahaan lainnya yang memerlukan sebuah jasa kemananan untuk menciptakan lingkungan yang terjamin keamanannya.
                 </p>
                 <p class="description">
-                    Dengan kemampuan dan pengalaman yang telah dimiliki, maka kami telah mampu menyediakan sebuah layanan yang terbaik dalam bidang kemanan yang meliputi :
+                    Dengan kemampuan dan pengalaman yang telah kami miliki, maka kami mampu menyediakan layanan yang terbaik dalam bidang keamanan, yang meliputi :
                 <table>
                     <ul>
-                        <li>Pelayanan jasa keamanan yang terlatih</li>
+                        <li>Pelayanan Jasa Keamanan</li>
                         <li>Penyedia Jasa Pelatihan Keamanan</li>
                         <li>Konsultasi Keamanan</li>
                         <li>Penyedia Peralatan dan Perlengkapan Keamamanan</li>

@@ -12,11 +12,11 @@
         <div class="row animated-element" data-animation="fadeIn">
             <div class="col-md-12">
             <p class="description">
-                Satpam pasti membutuhkan peralatan penunjang ketika bertugas, maka dari itu diperlukan persiapan untuk perlengkapan keamanan tersebut.
-                Perusahaan kami siap menjadi mitra yang handal dalam menyediakan perlengkapan keamanan satpam yang terbaik dan berkualitas. Selain itu kami juga berkomitment untuk memberikan solusi yang efektif dan efisien untuk meningkatkan peluang kemitraan yang berkelanjutan. 
+                Satpam pasti membutuhkan peralatan penunjang ketika bertugas, maka dari itu diperlukan persiapan yang matang karena, peralatan keamanan adalah kunci kesuksesan dalam bertugas.
+                Perusahaan kami siap menjadi mitra yang handal dalam menyediakan perlengkapan keamanan yang terbaik dan berkualitas. Selain itu kami juga berkomitment untuk memberikan solusi yang efektif dan efisien untuk meningkatkan peluang kemitraan yang berkelanjutan. 
             </p>
             <p class="description">
-                Dapat dipastikan bahwa peralatan yang akan kami sediakan memiliki kualitas yang tinggi dan bukan barang bekas/murahan. 
+                Kami akan memastikan bahwa setiap perlengkapan yang disediakan memiliki kualitas tinggi dan bukan barang bekas atau murahan. Selain itu, Anda tidak perlu lagi dengan permasalahan kemanan karena satpam akan dilengkapi dengan peralatan yang tepat untuk menjalankan tugas dengan optimal. 
         </div>
     </div>
 </div>

@@ -12,7 +12,7 @@
         <div class="row animated-element" data-animation="fadeIn">
             <div class="col-md-12">
             <p class="description">
-                Satpam dari perusahaan kami merupakan satuan pengamanan yang telah melewati proses seleksi ketat, profesional, memiliki lisensi dan telah lulus dari berbagai pelatihan sesuai dengan Standar Operasional Prosedur. Bersama kami anda akan mendapatkan Satuan Pengaman yang siap setia untuk menjaga perusahaan anda agar tetap tenang dan aman. 
+                Satpam dari perusahaan kami merupakan anggota yang telah melewati proses seleksi ketat, profesional, memiliki lisensi dan telah lulus dari berbagai pelatihan serta minimal telah lulus dari pelatihan Gada Pratama sesuai dengan Standar Operasional Prosedur. Bersama kami anda akan mendapatkan Satuan Pengaman yang siap setia untuk menjaga perusahaan anda agar tetap tenang dan aman. 
             </p>
             <p class="description">
                 Selain itu kami juga berkomitment untuk memberikan perlindungan keamanan yang tak tertandingi. Kami menghargai kepercayaan yang Anda berikan kepada kami, dan kami siap untuk membuktikan bahwa keamanan perusahaan Anda adalah prioritas utama bagi kami.

@@ -18,7 +18,19 @@
 
             </p>
             <p class="description">
-                Dalam konsultasi keamanan, kami akan memberian identifikasi proses bisnis , penilaian kerentanan, identifikasi karakteristik aset, analisis ancaman, penilaian resiko, rencana pengamanan dan analisis pengendalian.
+                Dalam konsultasi keamanan, kami menyediakan layanan berikut : <br>
+                <ul>
+                    <li>Identifikasi Proses Bisnis</li>
+                    <li>Penilaian Kerentanan</li>
+                    <li>Identifikasi Karakteristik Aset</li>
+                    <li>Analisis Ancaman</li>
+                    <li>Penilaian Resiko</li>
+                    <li>Perencanaan Pengamanan</li>
+                    <li>Analisis Pengendalian</li>
+                    <li>Layanan lainnya disesuaikan dengan permintaan</li>
+                </ul>
+                
+                Dengan layanan konsultasi keamanan yang kami berikan, Anda dapat memastikan bahwa setiap aspek keamanan akan dikelola dengan profesional dan ketelitian tertinggi.
         </div>
     </div>
 </div>
