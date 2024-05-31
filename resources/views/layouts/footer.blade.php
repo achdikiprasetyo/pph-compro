@@ -73,9 +73,20 @@
       }
 
       .footer-section.hubungi-kami {
-        text-align: center;
+        text-align: left;
         order: 5;
+        font-size: 14px;
       }
+
+      .copyright {
+      flex-basis: 100%;
+      text-align: center;
+      padding: 10px;
+      background-color: #333;
+      color: #fff;
+      font-size: 12px;
+    }
+      
     }
 
     .copyright {
@@ -84,7 +95,9 @@
       padding: 10px;
       background-color: #333;
       color: #fff;
+
     }
+    
   </style>
 </head>
 <body>

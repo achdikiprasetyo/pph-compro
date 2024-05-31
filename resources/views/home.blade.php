@@ -89,7 +89,7 @@
                         <div class="col-md-6 text-left">
                             <p class="slogan animated-element" data-animation="fadeIn">SATPAM DENGAN KUALITAS TERBAIK</p>
                             <p class="isi-slogan animated-element" data-animation="fadeIn"> Tidak hanya menjaga fisik dan keamanan lingkungan, tetapi juga hati, karena senyuman kita adalah benteng pertama keamanan dan kenyamanan</p>
-                            <a href="{{ asset('image/logo.png') }}" class="btn btn-custom animated-element" data-animation="fadeIn">Service</a>
+                            <a href="{{ route('about') }}" class="btn btn-custom animated-element" data-animation="fadeIn">Tentang Kami ></a>
                         </div>
                     </div>
                 </div>
@@ -104,7 +104,7 @@
                         <div class="col-md-6 text-left">
                             <p class="slogan animated-element" data-animation="fadeIn">MARI TINGKATKAN PRODUKTIVITAS</p>
                             <p class="isi-slogan animated-element" data-animation="fadeIn"> Kami menempatkan kepedulian ini tidak hanya di depan layar, tetapi juga di belakang layar, di "backoffice" perusahaan.</p>
-                            <a href="{{ asset('image/logo.png') }}" class="btn btn-custom animated-element" data-animation="fadeIn">Service</a>
+                            <a href="{{ route('about') }}" class="btn btn-custom animated-element" data-animation="fadeIn">Tentang Kami ></a>
                         </div>
                     </div>
                 </div>
@@ -118,7 +118,7 @@
                         <div class="col-md-6 text-left">
                             <p class="slogan animated-element" data-animation="fadeIn">BERSAMA KAMI, CIPTAKAN SATPAM TANGGUH</p>
                             <p class="isi-slogan animated-element" data-animation="fadeIn"> Pelatihan Satpam kami, pondasi utama bagi produktivitas yang aman dan efisien. </p>
-                            <a href="{{ asset('image/logo.png') }}" class="btn btn-custom animated-element" data-animation="fadeIn">Service</a>
+                            <a href="{{ route('about') }}" class="btn btn-custom animated-element" data-animation="fadeIn">Tentang Kami ></a>
                         </div>
                     </div>
                 </div>
@@ -132,7 +132,7 @@
                         <div class="col-md-6 text-left pl-4">
                             <p class="slogan animated-element" data-animation="fadeIn">MARI CIPTAKAN SUASANYA YANG INDAH DAN NYAMAN</p>
                             <p class="isi-slogan animated-element" data-animation="fadeIn"> Dilingkungan yang indah dan bersih dapat menyejukkan hati dan fikiran kita.</p>
-                            <a href="{{ asset('image/logo.png') }}" class="btn btn-custom animated-element" data-animation="fadeIn">Service</a>
+                            <a href="{{ route('about') }}" class="btn btn-custom animated-element" data-animation="fadeIn">Tentang Kami ></a>
                         </div>
                     </div>
                 </div>

@@ -14,7 +14,7 @@
                     Properti yang terawat dengan baik tidak hanya menciptakan lingkungan yang nyaman, tetapi juga memberikan rasa aman bagi penghuninya. Kami memastikan semua sistem instalasi gedung Anda terjaga dengan baik menggunakan pendekatan proaktif berbasis Corrective Action, Preventive Action, dan Defect Repair. Dukungan dari tenaga ahli berpendidikan tinggi dan berpengalaman, yang didukung oleh sertifikasi dan instalasi terkait, memastikan layanan berkualitas tertinggi.
                 </p>
                 <p class="description animated-element" data-animation="fadeIn">
-                    Kami menyediakan sebuah pelayanan yang terbaik dalam bidang perawatan dan pemeliharaan Gedung. Layanan kami memberikan beberapa penawaran untuk Jasa Teknisi / Engineer yakni :
+                    Kami menyediakan sebuah pelayanan yang terbaik dalam bidang perawatan dan pemeliharaan Gedung. Layanan tenaga teknisi memberikan beberapa penawaran untuk Jasa Teknisi / Engineer yakni :
                 </p>
                 <table>
                     <ul>
@@ -52,7 +52,7 @@
     <a class="animated-element" class="animated-element" data-animation="fadeIn" href="{{ route('jasa-engineer.tenagaAhli') }}" style="text-decoration: none; color: inherit;">
         <div class="container-box animated-element" data-animation="fadeIn">
             <div class="list-item ">
-                <img src="{{ asset('image/engineer/tenaga.png') }}" alt="Service Image">
+                <img src="{{ asset('image/engineer/tenagaAhli.jpg') }}" alt="Service Image">
                 <a href="{{ route('jasa-engineer.tenagaAhli') }}" class="read-more-button">Baca Selengkapnya</a>
                 <div class="text-content">
                     <div class="service-title">Tenaga Ahli</div>

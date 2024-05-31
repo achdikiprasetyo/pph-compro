@@ -3,7 +3,7 @@
     <style>
 
         .faq-section {
-            max-width: 75%;
+            max-width: 85%;
             margin: auto;
             margin-top: 50px;
         }
@@ -23,7 +23,7 @@
             border-radius: 8px;
             margin-bottom: 15px;
             transition: background-color 0.3s ease-in-out;
-            font-weight: bold;
+           
             font-size: 18px;
             position: relative;
         }
@@ -71,6 +71,32 @@
         .faq-answer {
             transition: background-color 0.7s ease-in-out;
         }
+
+        @media (max-width: 768px) {
+        .faq-question {
+            cursor: pointer;
+            padding: 11px;
+            background-color: #f8f9fa;
+            border: 1px solid #dee2e6;
+            border-radius: 8px;
+            margin-bottom: 15px;
+            transition: background-color 0.3s ease-in-out;
+         
+            font-size: 14px;
+            position: relative;
+        }
+
+        .faq-answer {
+            display: none;
+            padding: 15px;
+            background-color: #fff;
+            border: 1px solid #dee2e6;
+            border-radius: 8px;
+            margin-bottom: 15px;
+            transition: background-color 0.5s ease-in-out;
+            font-size: 14px;
+        }
+        }
     </style>
 </head>
 <body>
@@ -79,26 +105,26 @@
     <div class="faq-section animated-element" data-animation="fadeIn">
         <div class="faq-title animated-element" data-animation="fadeIn">FAQ</div>
         <div class="faq-question animated-element" data-animation="fadeIn" data-toggle="collapse" data-target="#faq1">
-            <h5>Apa saja layanan pelatihan yang disediakan oleh perusahaan ini?</h5>
+            <p>Apa saja layanan pelatihan yang disediakan oleh perusahaan ini?</p>
         </div>
         <div id="faq1" class="faq-answer collapse">
             <p>PT. Panca Pilar Hutama melayani berbagai pelatihan dan jasa menyesuaikan kebutuhan perusahaan anda.</p>
         </div>
 
         <div class="faq-question" data-toggle="collapse" data-target="#faq1">
-            <h5>Bagaimana cara bekerja sama dengan PPH?</h5>
+            <p>Bagaimana cara bekerja sama dengan PPH?</p>
         </div>
         <div id="faq1" class="faq-answer collapse">
             <p>Untuk bekerja sama dengan perusahaan kami, anda bisa melihat terlebih dahulu Portofolio PT. Panca Pilar Hutama yang sudah ada diwebsite, kemudian jika anda tertarik untuk bekerja sama dengan perusahaan kami, anda bisa hubungi kami melalui kontak yang tertera diwebsite</p>
         </div>
         <div class="faq-question" data-toggle="collapse" data-target="#faq1">
-            <h5>Jika ingin melamar apakah dikenakan biaya?</h5>
+            <p>Jika ingin melamar apakah dikenakan biaya?</p>
         </div>
         <div id="faq1" class="faq-answer collapse">
             <p>Semua pendaftaran di PT. Panca Pilar Hutama tidak dipungut biaya apapun, jika ada oknum yang meminta biaya administrasi, laporkan kepada kami melalui kontak yang telah ditampilkan diwebsite.</p>
         </div>
         <div class="faq-question" data-toggle="collapse" data-target="#faq1">
-            <h5>Bagaimana cara melamar di PPH?</h5>
+            <p>Bagaimana cara melamar di PPH?</p>
         </div>
         <div id="faq1" class="faq-answer collapse">
             <p>Untuk melamar di PPH, anda harus mendaftar terlebih dahulu melalui form, kemudian jika lolos administrasi anda akan di hubungi untuk lanjut ke proses interview</p>

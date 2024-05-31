@@ -14,7 +14,7 @@
             <p class="description">
 
 
-                Keamanan merupakan sebuah prioritas utama dalam perusahaan kami. Maka dari itu kami menawarkan sebuah layanan konsultasi keamanan  kepada perseorangan ataupun perusahan dengan peralatan kemanan dan teknologi serta prosedur pengamanan suatu objek yang akan disesuaikan dengan kondisi area dan perjajian dengan klien.
+                Keamanan merupakan sebuah prioritas utama dalam perusahaan kami. Maka dari itu kami menawarkan sebuah layanan konsultasi keamanan  kepada perseorangan ataupun perusahan dengan peralatan kemanan dan teknologi serta prosedur pengamanan suatu objek yang akan disesuaikan dengan kondisi area dan perjanjian dengan klien.
 
             </p>
             <p class="description">

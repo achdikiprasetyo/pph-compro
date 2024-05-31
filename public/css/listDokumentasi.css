@@ -45,17 +45,18 @@
     width: 100%;
     height: 100%;
     background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent black background */
-    z-index: 100%; /* Ensure overlay is behind full-size image */
+    z-index: 100%;
+     /* Ensure overlay is behind full-size image */
     display: none;
     cursor: zoom-out; /* Ubah cursor saat overlay aktif */
 }
 
 /* Styling untuk teks "Zoom Out" di atas overlay */
 .image-overlay::after {
-    content: "Zoom Out"; /* Tambahkan teks "Zoom Out" */
+   
     position: absolute;
-    top: 40%;
-    left: 40%;
+    top: 140%;
+    left: 140%;
     transform: translate(-40%, -40%);
     color: white;
     font-size: 24px;
@@ -115,6 +116,7 @@ h1.title {
 /* Fixing image height for uniformity */
 .col-md-4 .card {
     height: 100%;
+    width: 100%;;
 }
 
 /* Additional styling for desktop filter buttons */

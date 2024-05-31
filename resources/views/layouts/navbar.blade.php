@@ -107,7 +107,7 @@
       .logo-wrapper {
          display: flex;
          align-items: center;
-         font-size: 18px;
+         font-size: 15px;
       }
 
       .logo-wrapper img {
@@ -163,7 +163,7 @@
       .isi-slogan {
          font-size: 18px;
          font-weight: 600;
-         color: black;
+         color: 	#333333;
          font-family: 'Poppins', sans-serif;
       }
 
@@ -191,21 +191,21 @@
       }
 
       .animated-element {
-      opacity: 0%;
-      transform: translateY(20px);
-      transition: opacity 1s ease-out, transform 1s ease-out;
-    }
+         opacity: 0%;
+         transform: translateY(20px);
+         transition: opacity 1s ease-out, transform 1s ease-out;
+      }
 
-    .animated-element.animated {
-      opacity: 1;
-      transform: translateY(0);
-    }
+      .animated-element.animated {
+         opacity: 1;
+         transform: translateY(0);
+      }
 
-    .container-wrapper {
-            display: flex;
-            justify-content: center; /* Center align the flex container */
-            flex-wrap: wrap; /* Enable wrapping for smaller screens */
-        }
+      .container-wrapper {
+               display: flex;
+               justify-content: center; /* Center align the flex container */
+               flex-wrap: wrap; /* Enable wrapping for smaller screens */
+      }
 
         .container-box {
             max-width: 400px;
