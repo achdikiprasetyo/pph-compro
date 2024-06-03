@@ -331,7 +331,7 @@
                 </div>
             </div>
         </div>
-        <br><hr><br>
+        <br>
 <br>
 
 
