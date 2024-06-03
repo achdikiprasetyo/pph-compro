@@ -11,7 +11,6 @@
             <h1 class="title">Dokumentasi Kegiatan  @if(isset($category))
                 {{-- Mengganti kategori teknis menjadi String biasa --}}
                 <div class="category-text">Kategori: {{ ucwords(str_replace('_', ' ', str_replace(['sdm_training', 'production'], ['Pelatihan Sumber Daya Manusia', 'Tenaga Produksi'], $category))) }}</div>
-
             @endif</h1>
            
             <!-- Tombol Filter -->
