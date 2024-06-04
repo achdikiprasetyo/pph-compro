@@ -10,7 +10,7 @@
     <h1>{{ $article->title }}</h1>
     <p class="article-date">Diposting pada: {{ $article->created_at->format('d F Y') }}</p>
     <img class="image animated-element" data-animation="fadeIn" src="{{ $article->image_url }}" alt="Article Image">
-    <div>{!! $article->content !!}</div>
+    <div class="isi-artikel">{!! $article->content !!}</div>
     
     <p><a href="{{ route('articles.index') }}">Kembali ke Daftar Artikel</a></p>
 </div>

@@ -218,10 +218,8 @@
 
 {{-- LIST LAYANAN --}}
 <main role="main">
-    <br>
     <h2 class="animated-element" data-animation="fadeIn">Layanan Kami</h2>
-    <br>
-
+    <br>    
     <hr class="hr hr-blurry" />
 
     <div class="container-wrapper">

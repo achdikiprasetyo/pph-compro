@@ -9,11 +9,7 @@ body {
     justify-content: center;
   }
 
-  .judul-artikel {
-    text-align: center;
-    width: 100%;
-    padding: 20px;
-  }
+
 
   .article-container {
     position: relative;
@@ -66,7 +62,7 @@ body {
     text-overflow: ellipsis;
     white-space: nowrap;
     margin-bottom: 5px;
-    margin-top: 5px;
+    margin-top: 12px;
     font-weight: bold;
   }
 
@@ -97,7 +93,13 @@ body {
   }
 
   .btn-custom:hover {
-    background-color: #0056b3; /* Change button color on hover */
+    background-color: #007bff; /* Change button color on hover */
+  }
+  h1{
+    color:#00A9FF;
+  }
+  h2{
+    margin-top: 43px;
   }
 
   @media (max-width: 767px) {
@@ -111,4 +113,35 @@ body {
     .read-more-wrapper {
       margin-top: 10px;
     }
+
+    .article-title {
+      font-size: 0.8em;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+
+      margin-top: 12px;
+      font-weight: bold;
+    }
+
+    h1{
+      font-size:28px;
+      margin-top:15px;
+    }
+
+    .article-date {
+      font-style: italic;
+      font-size: 12px;
+    }
+
+    .btn-custom {
+      padding: 5px 10px;
+      background-color: #007bff;
+      color: #fff;
+      border: none;
+      font-size: 12px;
+      border-radius: 4px;
+      transition: background-color 0.3s; /* Adding smooth transition for button color change */
+    }
   }
+

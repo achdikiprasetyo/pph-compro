@@ -72,20 +72,36 @@
         order: 0;
       }
 
-      .footer-section.hubungi-kami {
+      .hubungi-kami {
         text-align: left;
         order: 5;
-        font-size: 14px;
+        font-size: 1px;
       }
 
       .copyright {
-      flex-basis: 100%;
-      text-align: center;
-      padding: 10px;
-      background-color: #333;
-      color: #fff;
-      font-size: 12px;
-    }
+        flex-basis: 100%;
+        text-align: center;
+        padding: 10px;
+        background-color: #333;
+        color: #fff;
+        font-size: 12px;
+      }
+
+      h3{
+        font-size:20px;
+      }
+
+      p{
+        font-size:15px;
+      }
+
+      .footer-navigation{
+        font-size:15px;
+      }
+
+      .size-hubungi{
+        font-size:13px;
+      }
       
     }
 
@@ -97,7 +113,7 @@
       color: #fff;
 
     }
-    
+
   </style>
 </head>
 <body>
@@ -143,14 +159,14 @@
       <h3>Hubungi Kami</h3>
 
       <p>
-        <a href="https://www.facebook.com/PancaPilarHutama/" target="_blank" style="color: #ffffff;"><i class="icon fab fa-facebook"></i> PT. PANCA PILAR HUTAMA</a><br>
-        <a href="https://www.instagram.com/pt.pancapilarhutama" target="_blank" style="color: #ffffff;"><i class="icon fab fa-instagram"></i> @pt.pancapilarhutama</a><br>
-        <a href="mailto:pancapilarhutama@gmail.com" style="color: #ffffff;"><i class="icon far fa-envelope"></i> pancapilarhutama@gmail.com</a><br>
-        <a href="mailto:papilhut@pancapilarhutama.co.id" style="color: #ffffff;"><i class="icon far fa-envelope"></i> papilhut@pancapilarhutama.co.id</a><br>
-        <a href="https://www.tiktok.com/@pancapilarhutama" target="_blank" style="color: #ffffff;"><i class="icon fab fa-tiktok"></i> @pancapilarhutama</a><br>
-        <a href="http://www.pancapilarhutama.co.id" target="_blank" style="color: #ffffff;"><i class="icon fas fa-globe"></i> www.pancapilarhutama.co.id</a><br>
-        <a href="https://wa.me/6281527714498" target="_blank" style="color: #ffffff;"><i class="icon fab fa-whatsapp"></i> +62 815 2771 4498</a><br>
-        <a href="tel:+62822123456789" style="color: #ffffff;"><i class="icon fas fa-phone"></i> 031-99720617</a>
+        <a class="size-hubungi" href="https://www.facebook.com/PancaPilarHutama/" target="_blank" style="color: #ffffff;"><i class="icon fab fa-facebook"></i> PT. PANCA PILAR HUTAMA</a><br>
+        <a class="size-hubungi" href="https://www.instagram.com/pt.pancapilarhutama" target="_blank" style="color: #ffffff;"><i class="icon fab fa-instagram"></i> @pt.pancapilarhutama</a><br>
+        <a class="size-hubungi" href="mailto:pancapilarhutama@gmail.com" style="color: #ffffff;"><i class="icon far fa-envelope"></i> pancapilarhutama@gmail.com</a><br>
+        <a class="size-hubungi" href="mailto:papilhut@pancapilarhutama.co.id" style="color: #ffffff;"><i class="icon far fa-envelope"></i> papilhut@pancapilarhutama.co.id</a><br>
+        <a class="size-hubungi" href="https://www.tiktok.com/@pancapilarhutama" target="_blank" style="color: #ffffff;"><i class="icon fab fa-tiktok"></i> @pancapilarhutama</a><br>
+        <a class="size-hubungi" href="http://www.pancapilarhutama.co.id" target="_blank" style="color: #ffffff;"><i class="icon fas fa-globe"></i> www.pancapilarhutama.co.id</a><br>
+        <a class="size-hubungi" href="https://wa.me/6281527714498" target="_blank" style="color: #ffffff;"><i class="icon fab fa-whatsapp"></i> +62 815 2771 4498</a><br>
+        <a class="size-hubungi" href="tel:+62822123456789" style="color: #ffffff;"><i class="icon fas fa-phone"></i> 031-99720617</a>
     </p>
     
       

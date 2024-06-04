@@ -70,38 +70,7 @@
 
 
 
-<script>
-    function toggleFilterDropdown() {
-        var dropdownContent = document.getElementById('filterDropdownContent');
-        dropdownContent.style.display = (dropdownContent.style.display === 'block') ? 'none' : 'block';
-    }
 
-    document.addEventListener('DOMContentLoaded', function() {
-        const images = document.querySelectorAll('.square-img-container');
-
-        images.forEach(image => {
-            image.addEventListener('click', function() {
-                const fullSizeContainer = this.classList.contains('full-size');
-
-                if (!fullSizeContainer) {
-                    // Jika tidak dalam mode full-size, toggle full-size class
-                    this.classList.add('full-size');
-                    document.querySelector('.image-overlay').style.display = 'block'; // Tampilkan overlay
-                } else {
-                    // Jika dalam mode full-size, hilangkan class full-size dan sembunyikan overlay
-                    this.classList.remove('full-size');
-                    document.querySelector('.image-overlay').style.display = 'none'; // Sembunyikan overlay
-                }
-            });
-        });
-
-        // Event listener untuk menutup full-size image saat overlay diklik
-        document.querySelector('.image-overlay').addEventListener('click', function() {
-            document.querySelector('.square-img-container.full-size').classList.remove('full-size');
-            this.style.display = 'none'; // Sembunyikan overlay
-        });
-    });
-</script>
 @include('layouts.footer')
 @endsection
 

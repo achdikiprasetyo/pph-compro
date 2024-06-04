@@ -115,6 +115,9 @@ img.no-download {
     display: flex;
     align-items: center;
 }
+.col{
+  font-size: 13px;
+}
 </style>
 <section class="visi-misi animated-element" data-animation="fadeIn">
   <div class="container">
