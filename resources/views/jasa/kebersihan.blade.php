@@ -41,7 +41,7 @@
 <div class="separator animated-element" data-animation="fadeIn">Cakupan Dari Layanan Kebersihan sebagai berikut : </div>
 
 <div class="container-wrapper animated-element">
-    <a href="{{ route('jasa-kebersihan.regularCleaning') }}" style="text-decoration: none; color: inherit;">
+
         <div class="container-box animated-element" data-animation="fadeIn">
             <div class="list-item">
                 <img src="{{ asset('image/kebersihan/regular.jpg') }}" alt="Service Image">
@@ -51,9 +51,7 @@
                 </div>
             </div>
         </div>
-    </a>
 
-    <a href="{{ route('jasa-kebersihan.generalCleaning') }}" style="text-decoration: none; color: inherit;">
         <div class="container-box animated-element" data-animation="fadeIn">
             <div class="list-item">
                 <img src="{{ asset('image/kebersihan/general.jpg') }}" alt="Service Image">
@@ -63,9 +61,7 @@
                 </div>
             </div>
         </div>
-    </a>
 
-    <a href="{{ route('jasa-kebersihan.externalCleaning') }}" style="text-decoration: none; color: inherit;">
         <div class="container-box animated-element" data-animation="fadeIn">
             <div class="list-item">
                 <img src="{{ asset('image/jasa/fade_cleaning.jpg') }}" alt="Service Image">
@@ -75,11 +71,7 @@
                 </div>
             </div>
         </div>
-    </a>
 
-
-
-    <a href="{{ route('jasa-kebersihan.penyediaPeralatanKebersihan') }}" style="text-decoration: none; color: inherit;">
         <div class="container-box animated-element" data-animation="fadeIn">
             <div class="list-item">
                 <img src="{{ asset('image/kebersihan/peralatanKebersihan.jpg') }}" alt="Service Image">
@@ -89,7 +81,6 @@
                 </div>
             </div>
         </div>
-    </a>
 </div>
 
 @include('layouts.footer')

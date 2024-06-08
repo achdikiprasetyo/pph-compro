@@ -126,16 +126,15 @@ img.no-download {
   </div>
   <div class="container">
     <ul class="list-unstyled">
-      <hr>
+     
       <li class="animated-element" data-animation="fadeIn">
         <div class="row align-items-center">
           <div class="col-auto">
-          
           </div>
           <div class="col">
-            <strong>Ijazah Gada Utama</strong>
+            <strong>Ijazah Gada Utama </strong>
             <br>
-            Nama : Fahrudin, S.T.
+            6 Personel
           </div>
         </div>
       </li>
@@ -145,45 +144,9 @@ img.no-download {
           <div class="col-auto">
           </div>
           <div class="col">
-            <strong>Ijazah Gada Utama</strong>
+            <strong>Sertifikat K3 Umum</strong>
             <br>
-            Nama : Hendra Harianto
-          </div>
-        </div>
-      </li>
-      <hr>
-      <li class="animated-element" data-animation="fadeIn">
-        <div class="row align-items-center">
-          <div class="col-auto">
-          </div>
-          <div class="col">
-            <strong>Ijazah Gada Utama</strong>
-            <br>
-            Nama : Setyawan
-          </div>
-        </div>
-      </li>
-      <hr>
-      <li class="animated-element" data-animation="fadeIn">
-        <div class="row align-items-center">
-          <div class="col-auto">
-          </div>
-          <div class="col">
-            <strong>Ijazah Gada Utama</strong>
-            <br>
-            Nama : Agoes Hadi Poernomo
-          </div>
-        </div>
-      </li>
-      <hr>
-      <li class="animated-element" data-animation="fadeIn">
-        <div class="row align-items-center">
-          <div class="col-auto">
-          </div>
-          <div class="col">
-            <strong>Sertifikat K3</strong>
-            <br>
-            Nama : Mashur
+            2 Personel
           </div>
         </div>
       </li>
@@ -194,9 +157,9 @@ img.no-download {
 
           </div>
           <div class="col">
-            <strong>Sertifikat CCPS Komisaris</strong>
+            <strong>Sertifikat CCPS</strong>
             <br>
-            Nama : Setyawan, ST,
+            1 Personel
           </div>
         </div>
       </li>
@@ -207,9 +170,9 @@ img.no-download {
  
           </div>
           <div class="col">
-            <strong>Sertifikat POP Komisaris</strong>
+            <strong>Sertifikat POP</strong>
             <br>
-           Nama : Setyawan
+           1 Personel
           </div>
         </div>
       </li>

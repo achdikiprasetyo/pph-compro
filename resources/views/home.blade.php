@@ -136,13 +136,11 @@
                         </div>
                     </div>
                 </div>
-                
                 </div>
             </div>
         </div>
     </div>
     </a>
-
 
     <script>
         $(document).ready(function(){
@@ -151,9 +149,6 @@
             });
         });
     </script>
-
-
-
 
 <br><br><br>
 {{-- BAR PRESENTASI KEPUASAN LAYANAN KAMI --}}
@@ -223,10 +218,10 @@
     <hr class="hr hr-blurry" />
 
     <div class="container-wrapper">
-        <a href="{{ route('jasa.keamanan') }}" style="text-decoration: none; color: inherit;">
             <div class="container-box animated-element">
                 <div class="list-item">
                     <img src="{{ asset('image/jasa/keamanan.png') }}" alt="Service Image">
+                    <a href="{{ route('jasa.keamanan') }}" class="read-more-button">Baca Selengkapnya</a>
                     <div class="text-content">
                         <div class="service-title">Jasa Kemanan</div>
 
@@ -239,6 +234,7 @@
             <div class="container-box animated-element">
                 <div class="list-item">
                     <img src="{{ asset('image/jasa/kebersihan.png') }}" alt="Service Image">
+                    <a href="{{ route('jasa.kebersihan') }}" class="read-more-button">Baca Selengkapnya</a>
                     <div class="text-content">
                         <div class="service-title">Jasa Kebersihan</div>
 
@@ -251,6 +247,7 @@
             <div class="container-box animated-element">
                 <div class="list-item">
                     <img src="{{ asset('image/jasa/pelatihan.png') }}" alt="Service Image">
+                    <a href="{{ route('jasa.pelatihan') }}" class="read-more-button">Baca Selengkapnya</a>
                     <div class="text-content">
                         <div class="service-title">Jasa Pelatihan</div>
                        
@@ -263,6 +260,7 @@
             <div class="container-box animated-element">
                 <div class="list-item">
                     <img src="{{ asset('image/jasa/sdm.png') }}" alt="Service Image">
+                    <a href="{{ route('jasa.sdm') }}" class="read-more-button">Baca Selengkapnya</a>
                     <div class="text-content">
                         <div class="service-title">Jasa Pengembangan SDM</div>
 
@@ -275,6 +273,7 @@
             <div class="container-box animated-element">
                 <div class="list-item">
                     <img src="{{ asset('image/jasa/1.png') }}" alt="Service Image">
+                    <a href="{{ route('jasa.backoffice') }}" class="read-more-button">Baca Selengkapnya</a>
                     <div class="text-content">
                         <div class="service-title">Jasa Backoffice</div>
 
@@ -287,6 +286,7 @@
             <div class="container-box animated-element">
                 <div class="list-item">
                     <img src="{{ asset('image/engineer/penyedia.jpg') }}" alt="Service Image">
+                    <a href="{{ route('jasa.engineer') }}" class="read-more-button">Baca Selengkapnya</a>
                     <div class="text-content">
                         <div class="service-title">Jasa Engineer</div>
 
@@ -299,6 +299,7 @@
             <div class="container-box animated-element">
                 <div class="list-item">
                     <img src="{{ asset('image/jasa/produksi.png') }}" alt="Service Image">
+                    <a href="{{ route('jasa.produksi') }}" class="read-more-button">Baca Selengkapnya</a>
                     <div class="text-content">
                         <div class="service-title">Jasa Tenaga Produksi</div>
 

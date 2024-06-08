@@ -111,7 +111,7 @@
       }
 
       .logo-wrapper img {
-         margin-right: 10px; 
+         margin-right: 4px; 
       }
 
 
@@ -147,6 +147,8 @@
          background-color: rgba(0, 0, 0, 0); /* Ubah nilai alpha untuk kegelapan yang diinginkan */
       }
 
+
+
       .slogan {
          font-size: 32px;
          font-weight: 600;
@@ -165,6 +167,23 @@
          font-weight: 600;
          color: 	#333333;
          font-family: 'Poppins', sans-serif;
+      }
+
+      @media (max-width:768px){
+         .slogan {
+            font-size:24px;
+            padding-right: 100px;
+         }
+
+         .isi-slogan {
+            font-size: 15px;
+            padding-right:70px;
+            
+         }
+
+         p.isi-slogan{
+            color: rgb(60, 59, 59);
+         }
       }
 
       .btn-custom {

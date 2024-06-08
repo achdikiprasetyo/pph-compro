@@ -35,7 +35,7 @@
     <div class="separator animated-element">Cakupan Dari Layanan Pelatihan sebagai berikut : </div>
 
     <div class="container-wrapper animated-element">
-        <a href="{{ route('jasa-backoffice.admin') }}" style="text-decoration: none; color: inherit;">
+       
             <div class="container-box animated-element">
                 <div class="list-item">
                     <img src="{{ asset('image/backoffice/admin.png') }}" alt="Service Image">
@@ -45,9 +45,7 @@
                     </div>
                 </div>
             </div>
-        </a>
-    
-        <a href="{{ route('jasa-backoffice.dataEntry') }}" style="text-decoration: none; color: inherit;">
+        
             <div class="container-box animated-element">
                 <div class="list-item">
                     <img src="{{ asset('image/backoffice/2.jpg') }}" alt="Service Image">
@@ -57,10 +55,7 @@
                     </div>
                 </div>
             </div>
-        </a>
     
-        
-        <a href="{{ route('jasa-backoffice.callCenter') }}" style="text-decoration: none; color: inherit;">
             <div class="container-box">
                 <div class="list-item animated-element">
                     <img src="{{ asset('image/backoffice/4.jpg') }}" alt="Service Image">
@@ -71,9 +66,7 @@
                     </div>
                 </div>
             </div>
-        </a>
-        
-        <a href="{{ route('jasa-backoffice.operatorParkir') }}" style="text-decoration: none; color: inherit;">
+
             <div class="container-box animated-element">
                 <div class="list-item">
                     <img src="{{ asset('image/backoffice/5.jpg') }}" alt="Service Image">
@@ -84,9 +77,7 @@
                     </div>
                 </div>
             </div>
-        </a>
-        
-        <a href="{{ route('jasa-backoffice.resepsionis') }}" style="text-decoration: none; color: inherit;">
+
             <div class="container-box animated-element">
                 <div class="list-item">
                     <img src="{{ asset('image/jasa/resepsionis.png') }}" alt="Service Image">
@@ -97,9 +88,7 @@
                     </div>
                 </div>
             </div>
-        </a>
 
-        <a href="{{ route('jasa-backoffice.cs') }}" style="text-decoration: none; color: inherit;">
             <div class="container-box animated-element">
                 <div class="list-item">
                     <img src="{{ asset('image/backoffice/6.jpg') }}" alt="Service Image">
@@ -110,9 +99,7 @@
                     </div>
                 </div>
             </div>
-        </a>
 
-        <a href="{{ route('jasa-backoffice.marketing') }}" style="text-decoration: none; color: inherit;">
             <div class="container-box animated-element">
                 <div class="list-item">
                     <img src="{{ asset('image/backoffice/8.jpg') }}" alt="Service Image">
@@ -123,7 +110,6 @@
                     </div>
                 </div>
             </div>
-        </a>
 
         {{--  --}}
         {{-- <a href="{{ route('jasa-backoffice.sales') }}" style="text-decoration: none; color: inherit;">
@@ -139,7 +125,6 @@
             </div>
         </a> --}}
 
-        <a href="{{ route('jasa-backoffice.driver') }}" style="text-decoration: none; color: inherit;">
             <div class="container-box animated-element">
                 <div class="list-item">
                     <img src="{{ asset('image/backoffice/10.jpg') }}" alt="Service Image">
@@ -150,9 +135,7 @@
                     </div>
                 </div>
             </div>
-        </a>
-
-        <a href="{{ route('jasa-backoffice.officeBoy') }}" style="text-decoration: none; color: inherit;">
+    
             <div class="container-box animated-element">
                 <div class="list-item">
                     <img src="{{ asset('image/backoffice/11.jpg') }}" alt="Service Image">
@@ -163,9 +146,7 @@
                     </div>
                 </div>
             </div>
-        </a>
-
-        <a href="{{ route('jasa-backoffice.officeGirl') }}" style="text-decoration: none; color: inherit;">
+        
             <div class="container-box animated-element">
                 <div class="list-item">
                     <img src="{{ asset('image/backoffice/12.jpg') }}" alt="Service Image">
@@ -176,9 +157,7 @@
                     </div>
                 </div>
             </div>
-        </a>
 
-        <a href="{{ route('jasa-backoffice.kurir') }}" style="text-decoration: none; color: inherit;">
             <div class="container-box animated-element">
                 <div class="list-item">
                     <img src="{{ asset('image/backoffice/13.jpg') }}" alt="Service Image">
@@ -189,9 +168,7 @@
                     </div>
                 </div>
             </div>
-        </a>
 
-        <a href="{{ route('jasa-backoffice.kasir') }}" style="text-decoration: none; color: inherit;">
             <div class="container-box animated-element">
                 <div class="list-item">
                     <img src="{{ asset('image/jasa/kasir.jpg') }}" alt="Service Image">
@@ -202,9 +179,7 @@
                     </div>
                 </div>
             </div>
-        </a>
 
-        <a href="{{ route('jasa-backoffice.gardener') }}" style="text-decoration: none; color: inherit;">
             <div class="container-box animated-element">
                 <div class="list-item">
                     <img src="{{ asset('image/backoffice/14.jpg') }}" alt="Service Image">
@@ -215,20 +190,18 @@
                     </div>
                 </div>
             </div>
-        </a>
-
-        <a href="{{ route('jasa-backoffice.perawatanKolam') }}" style="text-decoration: none; color: inherit;">
+ 
             <div class="container-box animated-element">
                 <div class="list-item">
                     <img src="{{ asset('image/backoffice/15.jpg') }}" alt="Service Image">
-                    <a href="{{ route('jasa-backoffice.gardener') }}" class="read-more-button">Baca Selengkapnya</a>
+                    <a href="{{ route('jasa-backoffice.perawatanKolam') }}" class="read-more-button">Baca Selengkapnya</a>
                     <div class="text-content">
                         <div class="service-title">Perawatan Kolam</div>
 
                     </div>
                 </div>
             </div>
-        </a>
+        
     </div>
     @include('layouts.footer')
 @endsection

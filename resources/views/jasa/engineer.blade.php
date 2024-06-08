@@ -37,7 +37,7 @@
 <div class="separator animated-element">Cakupan Dari Layanan Engineer sebagai berikut : </div>
 
 <div class="container-wrapper animated-element">
-    <a href="{{ route('jasa-engineer.tenagaTeknisi') }}" style="text-decoration: none; color: inherit;">
+    
         <div class="container-box animated-element" data-animation="fadeIn">
             <div class="list-item">
                 <img src="{{ asset('image/engineer/penyedia.jpg') }}" alt="Service Image">
@@ -47,9 +47,7 @@
                 </div>
             </div>
         </div>
-    </a>
 
-    <a class="animated-element" class="animated-element" data-animation="fadeIn" href="{{ route('jasa-engineer.tenagaAhli') }}" style="text-decoration: none; color: inherit;">
         <div class="container-box animated-element" data-animation="fadeIn">
             <div class="list-item ">
                 <img src="{{ asset('image/engineer/tenagaAhli.jpg') }}" alt="Service Image">
@@ -59,7 +57,7 @@
                 </div>
             </div>
         </div>
-    </a>
+
 </div>
 
 @include('layouts.footer')
